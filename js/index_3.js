@@ -36,44 +36,6 @@ dic_ = {
             ],
             [
                 [
-                    0.809411640086211
-                ],
-                [
-                    "AppliancesDirect",
-                    "KM2010",
-                    "km2010",
-                    "Miele 65cm 4 Burner Gas Hob - Stainless Steel",
-                    "699",
-                    "https://www.appliancesdirect.co.uk/p/km2010/miele-km2010-4-burner-gas-hob",
-                    "Cooking > Hobs > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/KM2010_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.8068913283927996
-                ],
-                [
-                    "AppliancesDirect",
-                    "KM2032",
-                    "km2032",
-                    "Miele 75cm 5 Burner Gas Hob - Stainless Steel",
-                    "679",
-                    "https://www.appliancesdirect.co.uk/p/km2032/miele-km2032-5-burner-gas-hob",
-                    "Cooking > Hobs > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/KM2032_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.8011064228273896
                 ],
                 [
@@ -93,20 +55,58 @@ dic_ = {
             ],
             [
                 [
-                    0.7990441951522411
+                    0.7269184375265987
                 ],
                 [
                     "AppliancesDirect",
-                    "EB6B5PB60",
-                    "eb6b5pb60",
-                    "Siemens iQ100 58cm 4 Burner Gas Hob - Stainless Steel",
-                    "209",
-                    "https://www.appliancesdirect.co.uk/p/eb6b5pb60/siemens-eb6b5pb60",
-                    "Cooking > Hobs > Siemens",
-                    "Siemens",
-                    "https://www.appliancesdirect.co.uk/Images/EB6B5PB60_1_LargeProductImage.jpg",
+                    "NZ64B4015FK",
+                    "nz64b4015fk",
+                    "Samsung 59cm 4 Zone Induction Hob with Oval Zone",
+                    "539.97",
+                    "https://www.appliancesdirect.co.uk/p/nz64b4015fk/samsung-nz64b4015fk--4-zone-induction-hob-hob",
+                    "Cooking > Hobs > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/NZ64B4015FK_1_LargeProductImage.jpg",
                     "9.99",
                     "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7159106863527009
+                ],
+                [
+                    "AppliancesDirect",
+                    "NZ64B6056GK",
+                    "nz64b6056gk",
+                    "Samsung 59cm 4 Zone Induction Hob with Flex Zone Plus",
+                    "679.97",
+                    "https://www.appliancesdirect.co.uk/p/nz64b6056gk/samsung-nz64b6056gk--4-zone-induction-hob-hob",
+                    "Cooking > Hobs > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/NZ64B6056GK_1_LargeProductImage.jpg",
+                    "9.99",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6951046000165925
+                ],
+                [
+                    "AppliancesDirect",
+                    "NZ64B5066KK",
+                    "nz64b5066kk",
+                    "Samsung 59cm 4 Zone Induction Hob with Dual Flex Zone",
+                    "739.97",
+                    "https://www.appliancesdirect.co.uk/p/nz64b5066kk/samsung-nz64b5066kk--4-zone-induction-hob-hob",
+                    "Cooking > Hobs > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/NZ64B5066KK_1_LargeProductImage.jpg",
+                    "9.99",
+                    "0",
                     ""
                 ]
             ]
@@ -168,25 +168,6 @@ dic_ = {
             ],
             [
                 [
-                    0.8260123953159182
-                ],
-                [
-                    "AppliancesDirect",
-                    "EU61RAGA5B",
-                    "eu61raga5b",
-                    "Siemens iQ100 60cm 4 Zone Induction Hob",
-                    "429",
-                    "https://www.appliancesdirect.co.uk/p/eu61raga5b/siemens-eu61raga5b-iq100-4-zone-induction-hob-hob",
-                    "Cooking > Hobs > Siemens",
-                    "Siemens",
-                    "https://www.appliancesdirect.co.uk/Images/EU61RAGA5B_1_LargeProductImage.jpg",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.8190413563360384
                 ],
                 [
@@ -206,19 +187,38 @@ dic_ = {
             ],
             [
                 [
-                    0.8145741617493668
+                    0.8013479569540122
                 ],
                 [
                     "AppliancesDirect",
-                    "NZ64B4015FK",
-                    "nz64b4015fk",
-                    "Samsung 59cm 4 Zone Induction Hob with Oval Zone",
-                    "539.97",
-                    "https://www.appliancesdirect.co.uk/p/nz64b4015fk/samsung-nz64b4015fk--4-zone-induction-hob-hob",
-                    "Cooking > Hobs > Samsung",
-                    "Samsung",
-                    "https://www.appliancesdirect.co.uk/Images/NZ64B4015FK_1_LargeProductImage.jpg",
-                    "9.99",
+                    "KM6520FR",
+                    "km6520fr",
+                    "Miele 58cm 4 Zone Ceramic Hob with Stainless Steel Frame",
+                    "581.97",
+                    "https://www.appliancesdirect.co.uk/p/km6520fr/miele-km6520fr-4-zone-ceramic-hob-hob",
+                    "Cooking > Hobs > Miele",
+                    "Miele",
+                    "https://www.appliancesdirect.co.uk/Images/KM6522FR_1_5164086_LargeProductImage.jpg",
+                    "0.0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7470868498028981
+                ],
+                [
+                    "AppliancesDirect",
+                    "KM3054-1",
+                    "km3054-1",
+                    "Miele 95cm Gas on Glass 5 Burner Hob - Black",
+                    "1649",
+                    "https://www.appliancesdirect.co.uk/p/km3054-1/miele-km30541-5-burner-gas-hob",
+                    "Cooking > Hobs > Miele",
+                    "Miele",
+                    "https://www.appliancesdirect.co.uk/Images/KM3054-1_1_LargeProductImage.jpg",
+                    "0.0",
                     "",
                     ""
                 ]
@@ -319,19 +319,19 @@ dic_ = {
             ],
             [
                 [
-                    0.808298772916046
+                    0.7831213768744124
                 ],
                 [
                     "AppliancesDirect",
-                    "ACH6420FR",
-                    "ach6420fr",
-                    "Amica 60cm 4 Zone Ceramic Hob",
-                    "139.97",
-                    "https://www.appliancesdirect.co.uk/p/ach6420fr/amica-ach6420fr-appliances-4-zone-ceramic-hob-hob",
-                    "Cooking > Hobs > Amica",
-                    "Amica",
-                    "https://www.appliancesdirect.co.uk/Images/ACH6420FR_1_LargeProductImage.jpg",
-                    "9.99",
+                    "KM3054-1",
+                    "km3054-1",
+                    "Miele 95cm Gas on Glass 5 Burner Hob - Black",
+                    "1649",
+                    "https://www.appliancesdirect.co.uk/p/km3054-1/miele-km30541-5-burner-gas-hob",
+                    "Cooking > Hobs > Miele",
+                    "Miele",
+                    "https://www.appliancesdirect.co.uk/Images/KM3054-1_1_LargeProductImage.jpg",
+                    "0.0",
                     "",
                     ""
                 ]
@@ -432,19 +432,19 @@ dic_ = {
             ],
             [
                 [
-                    0.8010262549316716
+                    0.7883046489711595
                 ],
                 [
-                    "AppliancesDirect",
-                    "PPH60PFNB",
-                    "pph60pfnb",
-                    "Hotpoint 58cm 4 Burner Gas Hob - Black",
-                    "149.97",
-                    "https://www.appliancesdirect.co.uk/p/pph60pfnb/hotpoint-pph60pfnb-hobs-4-burner-gas-hob",
-                    "Cooking > Hobs > Hotpoint",
-                    "Hotpoint",
-                    "https://www.appliancesdirect.co.uk/Images/PPH60PFNB_1_LargeProductImage.jpg",
-                    "9.99",
+                    "Argos",
+                    "112/3711",
+                    "112/3711",
+                    "Beko HIBG64120SB 61cm Gas Hob - Black Home Delivery",
+                    "170.00",
+                    "https://www.argos.co.uk/product/1123711?clickPR=plp:39:44",
+                    "Appliances > Cookers, ovens and hobs > Hobs",
+                    "Beko",
+                    "https://media.4rgos.it/s/Argos/1123711_R_SET?$Main768$&w=620&h=620",
+                    "0",
                     "",
                     ""
                 ]
@@ -1016,119 +1016,6 @@ dic_ = {
             ]
         ]
     ],
-    "BEST Latina HOOD-BE-LA-90-SS 90 cm Angled Chimney Cooker Hood - Stainless Steel---https://media.ao.com/en-GB/Productimages/Images/rvMedium/best_hood-be-la-90-ss_ss_06_m_p.jpg": [
-        [
-            "AO",
-            "24348",
-            "hood-be-la-90-ss_ss",
-            "BEST Latina HOOD-BE-LA-90-SS 90 cm Angled Chimney Cooker Hood - Stainless Steel",
-            "799.00",
-            "https://ao.com/product/hoodbela90ss-best-latina-chimney-cooker-hood-stainless-steel-24348-5.aspx",
-            "Chimney Cooker Hoods",
-            "BEST",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/best_hood-be-la-90-ss_ss_06_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.770982559745182
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZFV916Y",
-                    "zfv916y",
-                    "Zanussi Series 60 60cm Angled Cooker Hood - Black",
-                    "489",
-                    "https://www.appliancesdirect.co.uk/p/zfv916y/zanussi-zfv916y",
-                    "Cooker Hoods > Chimney Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZFV916Y_1_LargeProductImage.png",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6978785868937978
-                ],
-                [
-                    "Currys",
-                    "508445",
-                    "508445",
-                    "HOTPOINT PHVP 6.4F AL K/1 Canopy Cooker Hood - Black",
-                    "179.00",
-                    "https://www.currys.co.uk/products/hotpoint-phvp-6.4f-al-k1-canopy-cooker-hood-black-10190691.html",
-                    "Appliances > Cooking > Cooker hoods",
-                    "HOTPOINT",
-                    "https://media.currys.biz/i/currysprod/10190691?$l-large$&fmt=auto",
-                    "0.00",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6891178155385735
-                ],
-                [
-                    "AppliancesDirect",
-                    "KS110BLE",
-                    "ks110ble",
-                    "Smeg Symphony 110cm Chimney Cooker Hood - Black",
-                    "809.97",
-                    "https://www.appliancesdirect.co.uk/p/ks110ble/smeg-ks110ble-110cm-chimney-hood",
-                    "Cooker Hoods > Chimney Hoods > Smeg",
-                    "Smeg",
-                    "https://www.appliancesdirect.co.uk/Images/KS110BLE_1_LargeProductImage.png",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6843135276051758
-                ],
-                [
-                    "AppliancesDirect",
-                    "FEXT720",
-                    "fext720",
-                    "Falcon 72cm Canopy Cooker Hood - Stainless Steel",
-                    "599.97",
-                    "https://www.appliancesdirect.co.uk/p/fext720/falcon-fext720-72cm-canopy-hood",
-                    "Cooker Hoods > Canopy Hoods > Falcon",
-                    "Falcon",
-                    "https://www.appliancesdirect.co.uk/Images/FEXT720_1_LargeProductImage.jpg",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6841166656391033
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZHT611N",
-                    "zht611n",
-                    "Zanussi 60cm Visor Cooker Hood - Black",
-                    "129",
-                    "https://www.appliancesdirect.co.uk/p/zht611n/zanussi-zht611n-60cm-conventional-hood",
-                    "Cooker Hoods > Visor Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZHT611N_1_LargeProductImage.jpg",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
     "Belling 60CHIM 60 cm Chimney Cooker Hood - Black---https://media.ao.com/en-GB/Productimages/Images/rvMedium/belling_60chim_bk_05_m_p.jpg": [
         [
             "AO",
@@ -1180,44 +1067,6 @@ dic_ = {
                     "https://www.appliancesdirect.co.uk/Images/444410350_1_LargeProductImage.jpg",
                     "9.99",
                     "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.5453677528900074
-                ],
-                [
-                    "Currys",
-                    "251304",
-                    "251304",
-                    "BELLING Farmhouse 90 Chimney Cooker Hood - Black",
-                    "419.00",
-                    "https://www.currys.co.uk/products/belling-farmhouse-90-chimney-cooker-hood-black-10186637.html",
-                    "Appliances > Cooking > Cooker hoods",
-                    "BELLING",
-                    "https://media.currys.biz/i/currysprod/10186637?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.5372071553700795
-                ],
-                [
-                    "Currys",
-                    "251172",
-                    "251172",
-                    "BELLING Farmhouse 90 Chimney Cooker Hood - Cream & Black",
-                    "399.00",
-                    "https://www.currys.co.uk/products/belling-farmhouse-90-chimney-cooker-hood-cream-and-black-10186615.html",
-                    "Appliances > Cooking > Cooker hoods",
-                    "BELLING",
-                    "https://media.currys.biz/i/currysprod/10186615?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
                     ""
                 ]
             ]
@@ -1354,44 +1203,6 @@ dic_ = {
         [
             [
                 [
-                    0.7459030757156081
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZFV916Y",
-                    "zfv916y",
-                    "Zanussi Series 60 60cm Angled Cooker Hood - Black",
-                    "489",
-                    "https://www.appliancesdirect.co.uk/p/zfv916y/zanussi-zfv916y",
-                    "Cooker Hoods > Chimney Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZFV916Y_1_LargeProductImage.png",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6840825970252116
-                ],
-                [
-                    "AppliancesDirect",
-                    "DA2360",
-                    "da2360",
-                    "Miele 58cm Canopy Cooker Hood - Stainless Steel",
-                    "849",
-                    "https://www.appliancesdirect.co.uk/p/da2360/miele-da2360",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2360_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.6800538580210859
                 ],
                 [
@@ -1411,37 +1222,75 @@ dic_ = {
             ],
             [
                 [
-                    0.6758591473651394
+                    0.6698249710107644
                 ],
                 [
                     "AppliancesDirect",
-                    "DA2450",
-                    "da2450",
-                    "Miele 54cm Canopy Cooker Hood - Stainless Steel",
-                    "449.97",
-                    "https://www.appliancesdirect.co.uk/p/da2450/miele-da2450",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2450_1_LargeProductImage.jpg",
-                    "0.0",
+                    "UNBHDS100BL",
+                    "unbhds100bl",
+                    "Rangemaster 100cm Slimline Chimney Hood - Black",
+                    "489",
+                    "https://www.appliancesdirect.co.uk/p/unbhds100bl/rangemaster-unbhds100bl-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/782887511UNBHDS100BL_1_LargeProductImage.jpg",
+                    "9.99",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.6756458592476444
+                    0.652612204619158
                 ],
                 [
                     "AppliancesDirect",
-                    "KS110BLE",
-                    "ks110ble",
-                    "Smeg Symphony 110cm Chimney Cooker Hood - Black",
-                    "809.97",
-                    "https://www.appliancesdirect.co.uk/p/ks110ble/smeg-ks110ble-110cm-chimney-hood",
-                    "Cooker Hoods > Chimney Hoods > Smeg",
-                    "Smeg",
-                    "https://www.appliancesdirect.co.uk/Images/KS110BLE_1_LargeProductImage.png",
+                    "LEIHDC90CRC",
+                    "leihdc90crc",
+                    "Rangemaster 90cm Chimney Cooker Hood - Cream",
+                    "389",
+                    "https://www.appliancesdirect.co.uk/p/leihdc90crc/rangemaster-leihdc90crc-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/LEIHDC90CRC_1_LargeProductImage.jpg",
+                    "9.99",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6482065951809834
+                ],
+                [
+                    "AppliancesDirect",
+                    "LEIHDC100SSC",
+                    "leihdc100ssc",
+                    "Rangemaster 100cm Chimney Hood - Stainless Steel",
+                    "387",
+                    "https://www.appliancesdirect.co.uk/p/leihdc100ssc/rangemaster-leihdc100ssc-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/LEIHDC100SSC_1_LargeProductImage.jpg",
+                    "9.99",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6388463735693353
+                ],
+                [
+                    "AppliancesDirect",
+                    "UNBHDS100SS",
+                    "unbhds100ss",
+                    "Rangemaster 100cm Slimline Chimney Hood - Stainless Steel",
+                    "499",
+                    "https://www.appliancesdirect.co.uk/p/unbhds100ss/rangemaster-unbhds100ss-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/UNBHDS100SS_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -1467,18 +1316,18 @@ dic_ = {
         [
             [
                 [
-                    0.744205402809982
+                    0.6798035712917556
                 ],
                 [
                     "AppliancesDirect",
-                    "ZFV916Y",
-                    "zfv916y",
-                    "Zanussi Series 60 60cm Angled Cooker Hood - Black",
+                    "UNBHDS100BL",
+                    "unbhds100bl",
+                    "Rangemaster 100cm Slimline Chimney Hood - Black",
                     "489",
-                    "https://www.appliancesdirect.co.uk/p/zfv916y/zanussi-zfv916y",
-                    "Cooker Hoods > Chimney Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZFV916Y_1_LargeProductImage.png",
+                    "https://www.appliancesdirect.co.uk/p/unbhds100bl/rangemaster-unbhds100bl-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/782887511UNBHDS100BL_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -1486,75 +1335,75 @@ dic_ = {
             ],
             [
                 [
-                    0.7128763942379268
+                    0.6793467376885886
                 ],
                 [
                     "AppliancesDirect",
-                    "DA2578",
-                    "da2578",
-                    "Miele 70cm Canopy Cooker Hood - Stainless Steel",
-                    "849",
-                    "https://www.appliancesdirect.co.uk/p/da2578/miele-da2578-70cm-canopy-hood",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2578_1_LargeProductImage.jpg",
-                    "0.0",
+                    "OPLHD100BL",
+                    "oplhd100bl",
+                    "Rangemaster Opal 100cm Angled Chimney Cooker Hood - Black",
+                    "569",
+                    "https://www.appliancesdirect.co.uk/p/oplhd100bl/rangemaster-oplhd100bl-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/OPLHD100BL_1_LargeProductImage.jpg",
+                    "9.99",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.7114927587188564
+                    0.6453048605277185
                 ],
                 [
                     "AppliancesDirect",
-                    "DA2450",
-                    "da2450",
-                    "Miele 54cm Canopy Cooker Hood - Stainless Steel",
-                    "449.97",
-                    "https://www.appliancesdirect.co.uk/p/da2450/miele-da2450",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2450_1_LargeProductImage.jpg",
-                    "0.0",
+                    "UNBHDS100SS",
+                    "unbhds100ss",
+                    "Rangemaster 100cm Slimline Chimney Hood - Stainless Steel",
+                    "499",
+                    "https://www.appliancesdirect.co.uk/p/unbhds100ss/rangemaster-unbhds100ss-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/UNBHDS100SS_1_LargeProductImage.jpg",
+                    "9.99",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.7101908917928637
+                    0.6453048605277185
                 ],
                 [
                     "AppliancesDirect",
-                    "DA2360",
-                    "da2360",
-                    "Miele 58cm Canopy Cooker Hood - Stainless Steel",
-                    "849",
-                    "https://www.appliancesdirect.co.uk/p/da2360/miele-da2360",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2360_1_LargeProductImage.jpg",
-                    "0.0",
+                    "UNBHDS90SS",
+                    "unbhds90ss",
+                    "Rangemaster 90cm Slimline Chimney Hood - Stainless Steel",
+                    "459.97",
+                    "https://www.appliancesdirect.co.uk/p/unbhds90ss/rangemaster-unbhds90ss-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/UNBHDS100SS_1_LargeProductImage.jpg",
+                    "9.99",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.705812856509375
+                    0.6383475469278135
                 ],
                 [
                     "AppliancesDirect",
-                    "EIN60FSI",
-                    "ein60fsi",
-                    "CDA 60cm Integrated Cooker Hood - Grey",
-                    "105.97",
-                    "https://www.appliancesdirect.co.uk/p/ein60fsi/cda-ein60fsi-60cm-integrated-hood",
-                    "Cooker Hoods > Integrated Hoods > CDA",
-                    "CDA",
-                    "https://www.appliancesdirect.co.uk/Images/EIN60SI_1_LargeProductImage.jpg",
+                    "HLTHDS90SS",
+                    "hlthds90ss",
+                    "Rangemaster Hi-Lite Slimline 90cm Chimney Cooker Hood - Stainless Steel",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/hlthds90ss/rangemaster-hlthds90ss-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/HLTHDS90SS_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -1580,82 +1429,6 @@ dic_ = {
         [
             [
                 [
-                    0.7493748117083743
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZFV916Y",
-                    "zfv916y",
-                    "Zanussi Series 60 60cm Angled Cooker Hood - Black",
-                    "489",
-                    "https://www.appliancesdirect.co.uk/p/zfv916y/zanussi-zfv916y",
-                    "Cooker Hoods > Chimney Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZFV916Y_1_LargeProductImage.png",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7129255043590682
-                ],
-                [
-                    "AppliancesDirect",
-                    "PHVP64FALK",
-                    "phvp64falk",
-                    "Hotpoint 60cm Angled Cooker Hood - Black Glass & Stainless Steel",
-                    "169.97",
-                    "https://www.appliancesdirect.co.uk/p/phvp64falk/hotpoint-phvp64falk-60cm-chimney-hood",
-                    "Cooker Hoods > Chimney Hoods > Hotpoint",
-                    "Hotpoint",
-                    "https://www.appliancesdirect.co.uk/Images/782580661PHVP64FALK_1_LargeProductImage.jpg",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7080417759850938
-                ],
-                [
-                    "AppliancesDirect",
-                    "DA2450",
-                    "da2450",
-                    "Miele 54cm Canopy Cooker Hood - Stainless Steel",
-                    "449.97",
-                    "https://www.appliancesdirect.co.uk/p/da2450/miele-da2450",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2450_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7036810917642904
-                ],
-                [
-                    "AppliancesDirect",
-                    "DA2360",
-                    "da2360",
-                    "Miele 58cm Canopy Cooker Hood - Stainless Steel",
-                    "849",
-                    "https://www.appliancesdirect.co.uk/p/da2360/miele-da2360",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2360_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7032821317804311
                 ],
                 [
@@ -1668,6 +1441,82 @@ dic_ = {
                     "Cooker Hoods > Chimney Hoods > Rangemaster",
                     "Rangemaster",
                     "https://www.appliancesdirect.co.uk/Images/782887511UNBHDS100BL_1_LargeProductImage.jpg",
+                    "9.99",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6906275586514571
+                ],
+                [
+                    "AppliancesDirect",
+                    "OPLHD100BL",
+                    "oplhd100bl",
+                    "Rangemaster Opal 100cm Angled Chimney Cooker Hood - Black",
+                    "569",
+                    "https://www.appliancesdirect.co.uk/p/oplhd100bl/rangemaster-oplhd100bl-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/OPLHD100BL_1_LargeProductImage.jpg",
+                    "9.99",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6551697617329255
+                ],
+                [
+                    "AppliancesDirect",
+                    "CLAHDC90BC",
+                    "clahdc90bc",
+                    "Rangemaster Classic 90cm Chimney Cooker Hood - Black & Chrome",
+                    "428",
+                    "https://www.appliancesdirect.co.uk/p/clahdc90bc/rangemaster-clahdc90bc-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/CLAHDC90BC_1_8965984_LargeProductImage.jpg",
+                    "9.99",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6476437650467215
+                ],
+                [
+                    "AppliancesDirect",
+                    "UNBHDS100SS",
+                    "unbhds100ss",
+                    "Rangemaster 100cm Slimline Chimney Hood - Stainless Steel",
+                    "499",
+                    "https://www.appliancesdirect.co.uk/p/unbhds100ss/rangemaster-unbhds100ss-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/UNBHDS100SS_1_LargeProductImage.jpg",
+                    "9.99",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6476437650467215
+                ],
+                [
+                    "AppliancesDirect",
+                    "UNBHDS90SS",
+                    "unbhds90ss",
+                    "Rangemaster 90cm Slimline Chimney Hood - Stainless Steel",
+                    "459.97",
+                    "https://www.appliancesdirect.co.uk/p/unbhds90ss/rangemaster-unbhds90ss-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/UNBHDS100SS_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -1693,18 +1542,37 @@ dic_ = {
         [
             [
                 [
-                    0.7480006899911522
+                    0.6681396246655633
                 ],
                 [
                     "AppliancesDirect",
-                    "ZFV916Y",
-                    "zfv916y",
-                    "Zanussi Series 60 60cm Angled Cooker Hood - Black",
+                    "LEIHDC100SSC",
+                    "leihdc100ssc",
+                    "Rangemaster 100cm Chimney Hood - Stainless Steel",
+                    "387",
+                    "https://www.appliancesdirect.co.uk/p/leihdc100ssc/rangemaster-leihdc100ssc-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/LEIHDC100SSC_1_LargeProductImage.jpg",
+                    "9.99",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6601991867096223
+                ],
+                [
+                    "AppliancesDirect",
+                    "UNBHDS100BL",
+                    "unbhds100bl",
+                    "Rangemaster 100cm Slimline Chimney Hood - Black",
                     "489",
-                    "https://www.appliancesdirect.co.uk/p/zfv916y/zanussi-zfv916y",
-                    "Cooker Hoods > Chimney Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZFV916Y_1_LargeProductImage.png",
+                    "https://www.appliancesdirect.co.uk/p/unbhds100bl/rangemaster-unbhds100bl-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/782887511UNBHDS100BL_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -1712,56 +1580,18 @@ dic_ = {
             ],
             [
                 [
-                    0.6976302770161003
+                    0.6502755811236308
                 ],
                 [
                     "AppliancesDirect",
-                    "DA2360",
-                    "da2360",
-                    "Miele 58cm Canopy Cooker Hood - Stainless Steel",
-                    "849",
-                    "https://www.appliancesdirect.co.uk/p/da2360/miele-da2360",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2360_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6849091403723626
-                ],
-                [
-                    "AppliancesDirect",
-                    "DA2578",
-                    "da2578",
-                    "Miele 70cm Canopy Cooker Hood - Stainless Steel",
-                    "849",
-                    "https://www.appliancesdirect.co.uk/p/da2578/miele-da2578-70cm-canopy-hood",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2578_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6717071899159063
-                ],
-                [
-                    "AppliancesDirect",
-                    "KS110BLE",
-                    "ks110ble",
-                    "Smeg Symphony 110cm Chimney Cooker Hood - Black",
-                    "809.97",
-                    "https://www.appliancesdirect.co.uk/p/ks110ble/smeg-ks110ble-110cm-chimney-hood",
-                    "Cooker Hoods > Chimney Hoods > Smeg",
-                    "Smeg",
-                    "https://www.appliancesdirect.co.uk/Images/KS110BLE_1_LargeProductImage.png",
+                    "LEIHDC90CRC",
+                    "leihdc90crc",
+                    "Rangemaster 90cm Chimney Cooker Hood - Cream",
+                    "389",
+                    "https://www.appliancesdirect.co.uk/p/leihdc90crc/rangemaster-leihdc90crc-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/LEIHDC90CRC_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -1769,19 +1599,38 @@ dic_ = {
             ],
             [
                 [
-                    0.6707396799331373
+                    0.6470635302386045
                 ],
                 [
                     "AppliancesDirect",
-                    "DA2450",
-                    "da2450",
-                    "Miele 54cm Canopy Cooker Hood - Stainless Steel",
-                    "449.97",
-                    "https://www.appliancesdirect.co.uk/p/da2450/miele-da2450",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2450_1_LargeProductImage.jpg",
-                    "0.0",
+                    "OPLHD100BL",
+                    "oplhd100bl",
+                    "Rangemaster Opal 100cm Angled Chimney Cooker Hood - Black",
+                    "569",
+                    "https://www.appliancesdirect.co.uk/p/oplhd100bl/rangemaster-oplhd100bl-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/OPLHD100BL_1_LargeProductImage.jpg",
+                    "9.99",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6286328716402743
+                ],
+                [
+                    "AppliancesDirect",
+                    "LEIHDC100BC",
+                    "leihdc100bc",
+                    "Rangemaster 100cm Chimney Cooker Hood - Black",
+                    "341",
+                    "https://www.appliancesdirect.co.uk/p/leihdc100bc/rangemaster-leihdc100bc-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/LEIHDC100BC_1_LargeProductImage.jpg",
+                    "9.99",
                     "",
                     ""
                 ]
@@ -1804,44 +1653,6 @@ dic_ = {
             ""
         ],
         [
-            [
-                [
-                    0.7482076309423265
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZFV916Y",
-                    "zfv916y",
-                    "Zanussi Series 60 60cm Angled Cooker Hood - Black",
-                    "489",
-                    "https://www.appliancesdirect.co.uk/p/zfv916y/zanussi-zfv916y",
-                    "Cooker Hoods > Chimney Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZFV916Y_1_LargeProductImage.png",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7011606037371496
-                ],
-                [
-                    "AppliancesDirect",
-                    "PHVP64FALK",
-                    "phvp64falk",
-                    "Hotpoint 60cm Angled Cooker Hood - Black Glass & Stainless Steel",
-                    "169.97",
-                    "https://www.appliancesdirect.co.uk/p/phvp64falk/hotpoint-phvp64falk-60cm-chimney-hood",
-                    "Cooker Hoods > Chimney Hoods > Hotpoint",
-                    "Hotpoint",
-                    "https://www.appliancesdirect.co.uk/Images/782580661PHVP64FALK_1_LargeProductImage.jpg",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
             [
                 [
                     0.6991974570500761
@@ -1882,19 +1693,57 @@ dic_ = {
             ],
             [
                 [
-                    0.6945832526989729
+                    0.6558274851230071
                 ],
                 [
                     "AppliancesDirect",
-                    "DA2578",
-                    "da2578",
-                    "Miele 70cm Canopy Cooker Hood - Stainless Steel",
-                    "849",
-                    "https://www.appliancesdirect.co.uk/p/da2578/miele-da2578-70cm-canopy-hood",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2578_1_LargeProductImage.jpg",
-                    "0.0",
+                    "CLAHDC90BC",
+                    "clahdc90bc",
+                    "Rangemaster Classic 90cm Chimney Cooker Hood - Black & Chrome",
+                    "428",
+                    "https://www.appliancesdirect.co.uk/p/clahdc90bc/rangemaster-clahdc90bc-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/CLAHDC90BC_1_8965984_LargeProductImage.jpg",
+                    "9.99",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6497165891873489
+                ],
+                [
+                    "AppliancesDirect",
+                    "LEIHDC90BC",
+                    "leihdc90bc",
+                    "Rangemaster 90cm Chimney Cooker Hood - Black",
+                    "345",
+                    "https://www.appliancesdirect.co.uk/p/leihdc90bc/rangemaster-leihdc90bc-89.8cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/LEIHDC90BC_1_LargeProductImage.jpg",
+                    "9.99",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6436174456580103
+                ],
+                [
+                    "AppliancesDirect",
+                    "LEIHDC90SLC",
+                    "leihdc90slc",
+                    "Rangemaster Classic 90cm Chimney Cooker Hood - Slate Grey",
+                    "399",
+                    "https://www.appliancesdirect.co.uk/p/leihdc90slc/rangemaster-leihdc90slc-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/LEIHDC90SLC_1_LargeProductImage.jpg",
+                    "9.99",
                     "",
                     ""
                 ]
@@ -1919,82 +1768,6 @@ dic_ = {
         [
             [
                 [
-                    0.7264411068652898
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZFV916Y",
-                    "zfv916y",
-                    "Zanussi Series 60 60cm Angled Cooker Hood - Black",
-                    "489",
-                    "https://www.appliancesdirect.co.uk/p/zfv916y/zanussi-zfv916y",
-                    "Cooker Hoods > Chimney Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZFV916Y_1_LargeProductImage.png",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7142861382512422
-                ],
-                [
-                    "AppliancesDirect",
-                    "DA2360",
-                    "da2360",
-                    "Miele 58cm Canopy Cooker Hood - Stainless Steel",
-                    "849",
-                    "https://www.appliancesdirect.co.uk/p/da2360/miele-da2360",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2360_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7090298984600618
-                ],
-                [
-                    "AppliancesDirect",
-                    "DA1867",
-                    "da1867",
-                    "Miele 60cm Integrated Cooker Hood - Stainless Steel",
-                    "489",
-                    "https://www.appliancesdirect.co.uk/p/da1867/miele-da1867-60cm-canopy-hood",
-                    "Cooker Hoods > Integrated Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/780818491DA1867_1_LargeProductImage.jpg",
-                    "0.0",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7056000164669658
-                ],
-                [
-                    "AppliancesDirect",
-                    "DA2450",
-                    "da2450",
-                    "Miele 54cm Canopy Cooker Hood - Stainless Steel",
-                    "449.97",
-                    "https://www.appliancesdirect.co.uk/p/da2450/miele-da2450",
-                    "Cooker Hoods > Canopy Hoods > Miele",
-                    "Miele",
-                    "https://www.appliancesdirect.co.uk/Images/DA2450_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7051621675107935
                 ],
                 [
@@ -2011,39 +1784,21 @@ dic_ = {
                     "",
                     ""
                 ]
-            ]
-        ]
-    ],
-    "Britannia Latour HOOD-BTH120-GR 120 cm Chimney Cooker Hood - Red---https://media.ao.com/en-GB/Productimages/Images/rvMedium/hood-bth120-gr_rd_chimneyhood_fr_m_p.jpg": [
-        [
-            "AO",
-            "27317",
-            "hood-bth120-gr_rd",
-            "Britannia Latour HOOD-BTH120-GR 120 cm Chimney Cooker Hood - Red",
-            "1399.00",
-            "https://ao.com/product/hoodbth120gr-britannia-latour-chimney-cooker-hood-red-27317-5.aspx",
-            "Chimney Cooker Hoods",
-            "Britannia",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/hood-bth120-gr_rd_chimneyhood_fr_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
+            ],
             [
                 [
-                    0.8141366225490466
+                    0.6821028661505073
                 ],
                 [
                     "AppliancesDirect",
-                    "ZFV916Y",
-                    "zfv916y",
-                    "Zanussi Series 60 60cm Angled Cooker Hood - Black",
+                    "UNBHDS100BL",
+                    "unbhds100bl",
+                    "Rangemaster 100cm Slimline Chimney Hood - Black",
                     "489",
-                    "https://www.appliancesdirect.co.uk/p/zfv916y/zanussi-zfv916y",
-                    "Cooker Hoods > Chimney Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZFV916Y_1_LargeProductImage.png",
+                    "https://www.appliancesdirect.co.uk/p/unbhds100bl/rangemaster-unbhds100bl-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/782887511UNBHDS100BL_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -2051,18 +1806,18 @@ dic_ = {
             ],
             [
                 [
-                    0.7353674344784172
+                    0.642187892881751
                 ],
                 [
                     "AppliancesDirect",
-                    "KS110BLE",
-                    "ks110ble",
-                    "Smeg Symphony 110cm Chimney Cooker Hood - Black",
-                    "809.97",
-                    "https://www.appliancesdirect.co.uk/p/ks110ble/smeg-ks110ble-110cm-chimney-hood",
-                    "Cooker Hoods > Chimney Hoods > Smeg",
-                    "Smeg",
-                    "https://www.appliancesdirect.co.uk/Images/KS110BLE_1_LargeProductImage.png",
+                    "HLTHDS90SL",
+                    "hlthds90sl",
+                    "Rangemaster Hi-Lite Slimline 90cm Chimney Cooker Hood - Slate Grey",
+                    "609",
+                    "https://www.appliancesdirect.co.uk/p/hlthds90sl/rangemaster-hlthds90sl-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/HLTHDS90SL_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -2070,18 +1825,18 @@ dic_ = {
             ],
             [
                 [
-                    0.7150492996800595
+                    0.6381795949589995
                 ],
                 [
                     "AppliancesDirect",
-                    "ZHT611N",
-                    "zht611n",
-                    "Zanussi 60cm Visor Cooker Hood - Black",
-                    "129",
-                    "https://www.appliancesdirect.co.uk/p/zht611n/zanussi-zht611n-60cm-conventional-hood",
-                    "Cooker Hoods > Visor Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZHT611N_1_LargeProductImage.jpg",
+                    "UNBHDS100SS",
+                    "unbhds100ss",
+                    "Rangemaster 100cm Slimline Chimney Hood - Stainless Steel",
+                    "499",
+                    "https://www.appliancesdirect.co.uk/p/unbhds100ss/rangemaster-unbhds100ss-100cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/UNBHDS100SS_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -2089,37 +1844,18 @@ dic_ = {
             ],
             [
                 [
-                    0.7114838036936204
+                    0.6381795949589995
                 ],
                 [
                     "AppliancesDirect",
-                    "KSG70E",
-                    "ksg70e",
-                    "Smeg 74cm Canopy Cooker Hood - Silver",
-                    "169.97",
-                    "https://www.appliancesdirect.co.uk/p/ksg70e/smeg-ksg70e-70cm-canopy-hood",
-                    "Cooker Hoods > Canopy Hoods > Smeg",
-                    "Smeg",
-                    "https://www.appliancesdirect.co.uk/Images/KSG70E_1_10275232_LargeProductImage.png",
-                    "9.99",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7083678202455699
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZHT611X",
-                    "zht611x",
-                    "Zanussi 60cm Visor Cooker Hood - Stainless Steel",
-                    "139",
-                    "https://www.appliancesdirect.co.uk/p/zht611x/zanussi-zht611x-60cm-conventional-hood",
-                    "Cooker Hoods > Visor Hoods > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZHT611X_1_5474807_LargeProductImage.jpg",
+                    "UNBHDS90SS",
+                    "unbhds90ss",
+                    "Rangemaster 90cm Slimline Chimney Hood - Stainless Steel",
+                    "459.97",
+                    "https://www.appliancesdirect.co.uk/p/unbhds90ss/rangemaster-unbhds90ss-90cm-chimney-hood",
+                    "Cooker Hoods > Chimney Hoods > Rangemaster",
+                    "Rangemaster",
+                    "https://www.appliancesdirect.co.uk/Images/UNBHDS100SS_1_LargeProductImage.jpg",
                     "9.99",
                     "",
                     ""
@@ -2145,18 +1881,18 @@ dic_ = {
         [
             [
                 [
-                    0.725003822736062
+                    0.6251160896849108
                 ],
                 [
                     "Argos",
-                    "553/9040",
-                    "553/9040",
-                    "Universal Microwave Wall Bracket - White",
-                    "24.99",
-                    "https://www.argos.co.uk/product/5539040?clickPR=plp:54:62",
+                    "148/7794",
+                    "148/7794",
+                    "Samsung 800W Standard Microwave MS23T5018AE/EU - White",
+                    "190.00",
+                    "https://www.argos.co.uk/product/1487794?clickPR=plp:62:62",
                     "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5539040_R_SET?$Main768$&w=620&h=620",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/1487794_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -2164,18 +1900,37 @@ dic_ = {
             ],
             [
                 [
-                    0.7003510068612454
+                    0.6197003882288192
                 ],
                 [
                     "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
+                    "1600568325-sku23588892",
+                    "8806092189690",
+                    "Samsung MC28A5135CK 28-Litre Convection Microwave Oven with Slim Fry Technology - Black",
+                    "279",
+                    "https://www.very.co.uk/samsung-mc28a5135ck-28-litre-convection-microwave-oven-with-slim-frytrade-technology-black/1600568325.prd",
+                    "Microwaves > Appliances Microwave",
+                    "Samsung",
+                    "https://media.very.co.uk/i/very/RKAWM_SQ1_0000000088_NO_COLOR_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6154683596222361
+                ],
+                [
+                    "Very",
+                    "1600817833-sku25639782",
+                    "8806090348822",
+                    "Samsung Glass Front MS23T5018AC/EU 23 Litre Solo Microwave - Charcoal",
                     "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
+                    "https://www.very.co.uk/samsung-glass-front-ms23t5018aceu-23-litre-solo-microwave-charcoal/1600817833.prd",
                     "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
+                    "Samsung",
+                    "https://media.very.co.uk/i/very/VALD1_SQ1_0000000088_NO_COLOR_SLf",
                     "0",
                     "1",
                     ""
@@ -2183,18 +1938,18 @@ dic_ = {
             ],
             [
                 [
-                    0.6941565685506639
+                    0.6104306472131701
                 ],
                 [
                     "Argos",
-                    "557/4926",
-                    "557/4926",
-                    "AVF Universal Microwave Wall Bracket",
-                    "25.49",
-                    "https://www.argos.co.uk/product/5574926?clickPR=plp:36:63",
+                    "328/9567",
+                    "328/9567",
+                    "Samsung 800W 23L Standard Microwave - Charcoal",
+                    "190.00",
+                    "https://www.argos.co.uk/product/3289567?clickPR=plp:68:68",
                     "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5574926_R_SET?$Main768$&w=620&h=620",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/3289567_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -2202,37 +1957,18 @@ dic_ = {
             ],
             [
                 [
-                    0.6915656207145692
-                ],
-                [
-                    "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6591026030551403
+                    0.6055508505135363
                 ],
                 [
                     "Argos",
-                    "554/4705",
-                    "554/4705",
-                    "AVF Universal Microwave Wall Bracket - Black",
-                    "24.99",
-                    "https://www.argos.co.uk/product/5544705?clickPR=plp:50:62",
+                    "764/7679",
+                    "764/7679",
+                    "Samsung 800W 23L Standard Microwave MS23K3513AK - Black",
+                    "120.00",
+                    "https://www.argos.co.uk/product/7647679?clickPR=plp:23:68",
                     "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5544705_R_SET?$Main768$&w=620&h=620",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/7647679_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -2258,18 +1994,75 @@ dic_ = {
         [
             [
                 [
-                    0.7610042334975027
+                    0.6789213513039101
                 ],
                 [
                     "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
+                    "1600830133-sku25931287",
+                    "8806088219646",
+                    "Samsung MS23K3513AW/EU Black Solo 23L Microwave",
+                    "119",
+                    "https://www.very.co.uk/samsung-ms23k3513aweu-black-solo-23l-microwave/1600830133.prd",
+                    "Microwaves > Appliances Microwave",
+                    "Samsung",
+                    "https://media.very.co.uk/i/very/VCMXS_SQ1_0000000088_NO_COLOR_SLf",
+                    "0",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6693920327770376
+                ],
+                [
+                    "Very",
+                    "1600568324-sku23588893",
+                    "8806092189669",
+                    "Samsung MC28A5125Ak/EU",
+                    "239",
+                    "https://www.very.co.uk/samsung-mc28a5125akeu/1600568324.prd",
+                    "Microwaves > Appliances Microwave",
+                    "Samsung",
+                    "https://media.very.co.uk/i/very/RKAWL_SQ1_0000000088_NO_COLOR_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6654192827474703
+                ],
+                [
+                    "Argos",
+                    "759/7358",
+                    "759/7358",
+                    "Samsung 800W Standard Microwave MS23K3513AW - White",
+                    "109.00",
+                    "https://www.argos.co.uk/product/7597358?clickPR=plp:36:68",
+                    "Appliances > Microwaves",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/7597358_R_SET?$Main768$&w=620&h=620",
+                    "0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6289347711654161
+                ],
+                [
+                    "Very",
+                    "1600817833-sku25639782",
+                    "8806090348822",
+                    "Samsung Glass Front MS23T5018AC/EU 23 Litre Solo Microwave - Charcoal",
                     "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
+                    "https://www.very.co.uk/samsung-glass-front-ms23t5018aceu-23-litre-solo-microwave-charcoal/1600817833.prd",
                     "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
+                    "Samsung",
+                    "https://media.very.co.uk/i/very/VALD1_SQ1_0000000088_NO_COLOR_SLf",
                     "0",
                     "1",
                     ""
@@ -2277,75 +2070,18 @@ dic_ = {
             ],
             [
                 [
-                    0.7571227840198975
-                ],
-                [
-                    "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7479429332118863
+                    0.6243178490048391
                 ],
                 [
                     "Argos",
-                    "553/9040",
-                    "553/9040",
-                    "Universal Microwave Wall Bracket - White",
-                    "24.99",
-                    "https://www.argos.co.uk/product/5539040?clickPR=plp:54:62",
+                    "764/7679",
+                    "764/7679",
+                    "Samsung 800W 23L Standard Microwave MS23K3513AK - Black",
+                    "120.00",
+                    "https://www.argos.co.uk/product/7647679?clickPR=plp:23:68",
                     "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5539040_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7348624234140949
-                ],
-                [
-                    "Argos",
-                    "557/4926",
-                    "557/4926",
-                    "AVF Universal Microwave Wall Bracket",
-                    "25.49",
-                    "https://www.argos.co.uk/product/5574926?clickPR=plp:36:63",
-                    "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5574926_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7216088952974207
-                ],
-                [
-                    "Argos",
-                    "554/4705",
-                    "554/4705",
-                    "AVF Universal Microwave Wall Bracket - Black",
-                    "24.99",
-                    "https://www.argos.co.uk/product/5544705?clickPR=plp:50:62",
-                    "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5544705_R_SET?$Main768$&w=620&h=620",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/7647679_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -2371,18 +2107,18 @@ dic_ = {
         [
             [
                 [
-                    0.7585466943503771
+                    0.6834845245722811
                 ],
                 [
                     "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
+                    "1600568324-sku23588893",
+                    "8806092189669",
+                    "Samsung MC28A5125Ak/EU",
+                    "239",
+                    "https://www.very.co.uk/samsung-mc28a5125akeu/1600568324.prd",
                     "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
+                    "Samsung",
+                    "https://media.very.co.uk/i/very/RKAWL_SQ1_0000000088_NO_COLOR_SLf",
                     "0",
                     "1",
                     ""
@@ -2390,18 +2126,56 @@ dic_ = {
             ],
             [
                 [
-                    0.7476695462264169
+                    0.6815362908703086
                 ],
                 [
                     "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
+                    "1600830133-sku25931287",
+                    "8806088219646",
+                    "Samsung MS23K3513AW/EU Black Solo 23L Microwave",
+                    "119",
+                    "https://www.very.co.uk/samsung-ms23k3513aweu-black-solo-23l-microwave/1600830133.prd",
+                    "Microwaves > Appliances Microwave",
+                    "Samsung",
+                    "https://media.very.co.uk/i/very/VCMXS_SQ1_0000000088_NO_COLOR_SLf",
+                    "0",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6512926969408166
+                ],
+                [
+                    "Argos",
+                    "759/7358",
+                    "759/7358",
+                    "Samsung 800W Standard Microwave MS23K3513AW - White",
+                    "109.00",
+                    "https://www.argos.co.uk/product/7597358?clickPR=plp:36:68",
+                    "Appliances > Microwaves",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/7597358_R_SET?$Main768$&w=620&h=620",
+                    "0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6297799053064785
+                ],
+                [
+                    "Very",
+                    "1600817833-sku25639782",
+                    "8806090348822",
+                    "Samsung Glass Front MS23T5018AC/EU 23 Litre Solo Microwave - Charcoal",
                     "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
+                    "https://www.very.co.uk/samsung-glass-front-ms23t5018aceu-23-litre-solo-microwave-charcoal/1600817833.prd",
                     "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
+                    "Samsung",
+                    "https://media.very.co.uk/i/very/VALD1_SQ1_0000000088_NO_COLOR_SLf",
                     "0",
                     "1",
                     ""
@@ -2409,56 +2183,18 @@ dic_ = {
             ],
             [
                 [
-                    0.735360831391628
+                    0.6258122732116962
                 ],
                 [
                     "Argos",
-                    "553/9040",
-                    "553/9040",
-                    "Universal Microwave Wall Bracket - White",
-                    "24.99",
-                    "https://www.argos.co.uk/product/5539040?clickPR=plp:54:62",
+                    "764/7679",
+                    "764/7679",
+                    "Samsung 800W 23L Standard Microwave MS23K3513AK - Black",
+                    "120.00",
+                    "https://www.argos.co.uk/product/7647679?clickPR=plp:23:68",
                     "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5539040_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7226117556325091
-                ],
-                [
-                    "Argos",
-                    "557/4926",
-                    "557/4926",
-                    "AVF Universal Microwave Wall Bracket",
-                    "25.49",
-                    "https://www.argos.co.uk/product/5574926?clickPR=plp:36:63",
-                    "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5574926_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7125541832414143
-                ],
-                [
-                    "Argos",
-                    "554/4705",
-                    "554/4705",
-                    "AVF Universal Microwave Wall Bracket - Black",
-                    "24.99",
-                    "https://www.argos.co.uk/product/5544705?clickPR=plp:50:62",
-                    "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5544705_R_SET?$Main768$&w=620&h=620",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/7647679_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -2484,18 +2220,18 @@ dic_ = {
         [
             [
                 [
-                    0.7293271578228916
+                    0.6574213014774928
                 ],
                 [
                     "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
-                    "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
+                    "1600656859-sku24177175",
+                    "5025232847532",
+                    "Panasonic NN-DF386BBP 23L 3-in-1 Combination Microwave with Grill",
+                    "269",
+                    "https://www.very.co.uk/panasonic-nn-df386bbp-23l-3-in-1-combination-microwave-with-grill/1600656859.prd",
                     "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
+                    "Panasonic",
+                    "https://media.very.co.uk/i/very/TQYQN_SQ1_0000000088_NO_COLOR_SLf",
                     "0",
                     "1",
                     ""
@@ -2503,489 +2239,18 @@ dic_ = {
             ],
             [
                 [
-                    0.724820940991572
-                ],
-                [
-                    "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7118375065834519
+                    0.6318458496871988
                 ],
                 [
                     "Argos",
-                    "553/9040",
-                    "553/9040",
-                    "Universal Microwave Wall Bracket - White",
-                    "24.99",
-                    "https://www.argos.co.uk/product/5539040?clickPR=plp:54:62",
-                    "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5539040_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6860350583201151
-                ],
-                [
-                    "Argos",
-                    "557/4926",
-                    "557/4926",
-                    "AVF Universal Microwave Wall Bracket",
-                    "25.49",
-                    "https://www.argos.co.uk/product/5574926?clickPR=plp:36:63",
-                    "Appliances > Microwaves",
-                    "AVF",
-                    "https://media.4rgos.it/s/Argos/5574926_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6809770293518829
-                ],
-                [
-                    "Argos",
-                    "112/3120",
-                    "112/3120",
-                    "Neff C1AMG84N0B Built In Combination Microwave - Silver Home Delivery",
-                    "799.00",
-                    "https://www.argos.co.uk/product/1123120?clickPR=plp:70:71",
-                    "Appliances > Microwaves",
-                    "Neff",
-                    "https://media.4rgos.it/s/Argos/1123120_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "Bosch Series 8 BEL634GS1B Built In Microwave With Grill - Brushed Steel---https://media.ao.com/en-GB/Productimages/Images/rvMedium/bosch_bel634gs1b_bs_01_m_p.jpg": [
-        [
-            "AO",
-            "36560",
-            "bel634gs1b_bs",
-            "Bosch Series 8 BEL634GS1B Built In Microwave With Grill - Brushed Steel",
-            "799.00",
-            "https://ao.com/product/bel634gs1b-bosch-series-8-microwave-stainless-steel-36560-50.aspx",
-            "Microwaves",
-            "Bosch",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/bosch_bel634gs1b_bs_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.7133968408786521
-                ],
-                [
-                    "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
-                    "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6736966685292002
-                ],
-                [
-                    "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.639586630178091
-                ],
-                [
-                    "Argos",
-                    "923/5285",
-                    "923/5285",
-                    "Cookworks 700W Standard Microwave MM7 - Black",
-                    "55.00",
-                    "https://www.argos.co.uk/product/9235285?clickPR=plp:8:62",
-                    "Appliances > Microwaves",
-                    "Cookworks",
-                    "https://media.4rgos.it/s/Argos/9235285_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6331865477982882
-                ],
-                [
-                    "Argos",
-                    "549/7065",
-                    "549/7065",
-                    "Cookworks 700W Standard Microwave EM7 - Black",
-                    "65.00",
-                    "https://www.argos.co.uk/product/5497065?clickPR=plp:26:62",
-                    "Appliances > Microwaves",
-                    "Cookworks",
-                    "https://media.4rgos.it/s/Argos/5497065_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6254863433643201
-                ],
-                [
-                    "Argos",
-                    "400/6433",
-                    "400/6433",
-                    "Cookworks 700W Standard Microwave P70B - Silver",
-                    "65.00",
-                    "https://www.argos.co.uk/product/4006433?clickPR=plp:11:62",
-                    "Appliances > Microwaves",
-                    "Cookworks",
-                    "https://media.4rgos.it/s/Argos/4006433_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "Bosch Series 8 BFL634GB1B Built In Microwave - Black---https://media.ao.com/en-GB/Productimages/Images/rvMedium/bosch_bfl634gb1b_bk_01_m_p.jpg": [
-        [
-            "AO",
-            "36561",
-            "bfl634gb1b_bk",
-            "Bosch Series 8 BFL634GB1B Built In Microwave - Black",
-            "724.00",
-            "https://ao.com/product/bfl634gb1b-bosch-series-8-microwave-black-36561-50.aspx",
-            "Microwaves",
-            "Bosch",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/bosch_bfl634gb1b_bk_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.7275970419959514
-                ],
-                [
-                    "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
-                    "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6774813926986105
-                ],
-                [
-                    "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6604516347906906
-                ],
-                [
-                    "Argos",
-                    "923/5285",
-                    "923/5285",
-                    "Cookworks 700W Standard Microwave MM7 - Black",
-                    "55.00",
-                    "https://www.argos.co.uk/product/9235285?clickPR=plp:8:62",
-                    "Appliances > Microwaves",
-                    "Cookworks",
-                    "https://media.4rgos.it/s/Argos/9235285_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.638917695518723
-                ],
-                [
-                    "Argos",
-                    "549/7065",
-                    "549/7065",
-                    "Cookworks 700W Standard Microwave EM7 - Black",
-                    "65.00",
-                    "https://www.argos.co.uk/product/5497065?clickPR=plp:26:62",
-                    "Appliances > Microwaves",
-                    "Cookworks",
-                    "https://media.4rgos.it/s/Argos/5497065_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6371514067173658
-                ],
-                [
-                    "Argos",
-                    "400/6433",
-                    "400/6433",
-                    "Cookworks 700W Standard Microwave P70B - Silver",
-                    "65.00",
-                    "https://www.argos.co.uk/product/4006433?clickPR=plp:11:62",
-                    "Appliances > Microwaves",
-                    "Cookworks",
-                    "https://media.4rgos.it/s/Argos/4006433_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "Bosch Series 8 BFL634GS1B Built In Microwave - Brushed Steel---https://media.ao.com/en-GB/Productimages/Images/rvMedium/bosch_bfl634gs1b_bs_01_m_p.jpg": [
-        [
-            "AO",
-            "36562",
-            "bfl634gs1b_bs",
-            "Bosch Series 8 BFL634GS1B Built In Microwave - Brushed Steel",
-            "649.00",
-            "https://ao.com/product/bfl634gs1b-bosch-series-8-microwave-stainless-steel-36562-50.aspx",
-            "Microwaves",
-            "Bosch",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/bosch_bfl634gs1b_bs_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.6981956452885554
-                ],
-                [
-                    "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
-                    "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6743613670842146
-                ],
-                [
-                    "Argos",
-                    "549/7065",
-                    "549/7065",
-                    "Cookworks 700W Standard Microwave EM7 - Black",
-                    "65.00",
-                    "https://www.argos.co.uk/product/5497065?clickPR=plp:26:62",
-                    "Appliances > Microwaves",
-                    "Cookworks",
-                    "https://media.4rgos.it/s/Argos/5497065_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.670884507514236
-                ],
-                [
-                    "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6648213272048158
-                ],
-                [
-                    "Argos",
-                    "923/5285",
-                    "923/5285",
-                    "Cookworks 700W Standard Microwave MM7 - Black",
-                    "55.00",
-                    "https://www.argos.co.uk/product/9235285?clickPR=plp:8:62",
-                    "Appliances > Microwaves",
-                    "Cookworks",
-                    "https://media.4rgos.it/s/Argos/9235285_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.65879733083554
-                ],
-                [
-                    "Argos",
-                    "400/6433",
-                    "400/6433",
-                    "Cookworks 700W Standard Microwave P70B - Silver",
-                    "65.00",
-                    "https://www.argos.co.uk/product/4006433?clickPR=plp:11:62",
-                    "Appliances > Microwaves",
-                    "Cookworks",
-                    "https://media.4rgos.it/s/Argos/4006433_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "NEFF N70 C17GR00N0B Built In Microwave With Grill - Stainless Steel---https://media.ao.com/en-GB/Productimages/Images/rvMedium/neff_c17gr00n0b_ss_01_m_p.jpg": [
-        [
-            "AO",
-            "36568",
-            "c17gr00n0b_ss",
-            "NEFF N70 C17GR00N0B Built In Microwave With Grill - Stainless Steel",
-            "649.00",
-            "https://ao.com/product/c17gr00n0b-neff-n70-microwave-stainless-steel-36568-50.aspx",
-            "Microwaves",
-            "NEFF",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/neff_c17gr00n0b_ss_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.654472708632885
-                ],
-                [
-                    "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
-                    "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6375158726742911
-                ],
-                [
-                    "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.5896187094455931
-                ],
-                [
-                    "Argos",
-                    "130/1045",
-                    "130/1045",
-                    "Panasonic 1000W Combination Microwave NN-DS59NBBPQ - Black",
-                    "450.00",
-                    "https://www.argos.co.uk/product/1301045?clickPR=plp:73:73",
+                    "911/0551",
+                    "911/0551",
+                    "Panasonic 1000W Standard Microwave NNST46K - Black",
+                    "190.00",
+                    "https://www.argos.co.uk/product/9110551?clickPR=plp:38:68",
                     "Appliances > Microwaves",
                     "Panasonic",
-                    "https://media.4rgos.it/s/Argos/1301045_R_SET?$Main768$&w=620&h=620",
+                    "https://media.4rgos.it/s/Argos/9110551_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -2993,18 +2258,18 @@ dic_ = {
             ],
             [
                 [
-                    0.5670186800925963
+                    0.6260010865917185
                 ],
                 [
                     "Argos",
-                    "759/7358",
-                    "759/7358",
-                    "Samsung 800W Standard Microwave MS23K3513AW - White",
-                    "109.00",
-                    "https://www.argos.co.uk/product/7597358?clickPR=plp:36:68",
+                    "845/8898",
+                    "845/8898",
+                    "Panasonic 800W Standard 20L Microwave NN-E28JBMBPQ - Black",
+                    "100.00",
+                    "https://www.argos.co.uk/product/8458898?clickPR=plp:11:68",
                     "Appliances > Microwaves",
-                    "Samsung",
-                    "https://media.4rgos.it/s/Argos/7597358_R_SET?$Main768$&w=620&h=620",
+                    "Panasonic",
+                    "https://media.4rgos.it/s/Argos/8458898_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -3012,55 +2277,18 @@ dic_ = {
             ],
             [
                 [
-                    0.5637266592150718
-                ],
-                [
-                    "Argos",
-                    "112/3120",
-                    "112/3120",
-                    "Neff C1AMG84N0B Built In Combination Microwave - Silver Home Delivery",
-                    "799.00",
-                    "https://www.argos.co.uk/product/1123120?clickPR=plp:70:71",
-                    "Appliances > Microwaves",
-                    "Neff",
-                    "https://media.4rgos.it/s/Argos/1123120_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "NEFF N70 C17GR01N0B Built In Microwave With Grill - Stainless Steel---https://media.ao.com/en-GB/Productimages/Images/rvMedium/neff_c17gr01n0b_ss_01_m_p.jpg": [
-        [
-            "AO",
-            "36569",
-            "c17gr01n0b_ss",
-            "NEFF N70 C17GR01N0B Built In Microwave With Grill - Stainless Steel",
-            "739.00",
-            "https://ao.com/product/c17gr01n0b-neff-n70-microwave-stainless-steel-36569-50.aspx",
-            "Microwaves",
-            "NEFF",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/neff_c17gr01n0b_ss_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.6624163672567349
+                    0.6217551293644867
                 ],
                 [
                     "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
-                    "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
+                    "1600656857-sku24177185",
+                    "5025232878567",
+                    "Panasonic NN-CT56JBBPQ Microwave - Black",
+                    "229",
+                    "https://www.very.co.uk/panasonic-nn-ct56jbbpq-microwave-black/1600656857.prd",
                     "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
+                    "Panasonic",
+                    "https://media.very.co.uk/i/very/TQYQM_SQ1_0000000088_NO_COLOR_SLf",
                     "0",
                     "1",
                     ""
@@ -3068,190 +2296,20 @@ dic_ = {
             ],
             [
                 [
-                    0.6509047921573717
+                    0.6202891612647878
                 ],
                 [
                     "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
+                    "1600656853-sku24177164",
+                    "5025232878536",
+                    "Panasonic NN-CD58JSBPQ Combination Microwave, Oven and Grill with Inverter technology",
+                    "269",
+                    "https://www.very.co.uk/panasonic-nn-cd58jsbpq-combination-microwave-oven-and-grill-with-inverter-technology/1600656853.prd",
                     "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
+                    "Panasonic",
+                    "https://media.very.co.uk/i/very/TQYQR_SQ1_0000000088_NO_COLOR_SLf",
                     "0",
                     "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6296780471898518
-                ],
-                [
-                    "Argos",
-                    "130/1045",
-                    "130/1045",
-                    "Panasonic 1000W Combination Microwave NN-DS59NBBPQ - Black",
-                    "450.00",
-                    "https://www.argos.co.uk/product/1301045?clickPR=plp:73:73",
-                    "Appliances > Microwaves",
-                    "Panasonic",
-                    "https://media.4rgos.it/s/Argos/1301045_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6050077249035098
-                ],
-                [
-                    "Argos",
-                    "709/9966",
-                    "709/9966",
-                    "Panasonic 1000W Standard Microwave NNSD27HS - S.Steel",
-                    "170.00",
-                    "https://www.argos.co.uk/product/7099966?clickPR=plp:55:68",
-                    "Appliances > Microwaves",
-                    "Panasonic",
-                    "https://media.4rgos.it/s/Argos/7099966_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.5985475918996468
-                ],
-                [
-                    "Argos",
-                    "814/3732",
-                    "814/3732",
-                    "Panasonic 1000W Combination Microwave Oven 27L NN-CD58-Steel",
-                    "270.00",
-                    "https://www.argos.co.uk/product/8143732?clickPR=plp:53:69",
-                    "Appliances > Microwaves",
-                    "Panasonic",
-                    "https://media.4rgos.it/s/Argos/8143732_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "NEFF N70 C17WR01N0B Built In Microwave - Stainless Steel---https://media.ao.com/en-GB/Productimages/Images/rvMedium/neff_c17wr01n0b_ss_01_m_p.jpg": [
-        [
-            "AO",
-            "36572",
-            "c17wr01n0b_ss",
-            "NEFF N70 C17WR01N0B Built In Microwave - Stainless Steel",
-            "684.00",
-            "https://ao.com/product/c17wr01n0b-neff-n70-microwave-stainless-steel-36572-50.aspx",
-            "Microwaves",
-            "NEFF",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/neff_c17wr01n0b_ss_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.6468260998670348
-                ],
-                [
-                    "Very",
-                    "1600735801-sku25067370",
-                    "0502499690786",
-                    "Daewoo Kensington Cream Triple Pack- Microwave, Kettle and Toaster Set - Cream",
-                    "179",
-                    "https://www.very.co.uk/daewoo-kensington-cream-triple-pack--microwave-kettle-and-toaster-set/1600735801.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/URTUJ_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6353802470211751
-                ],
-                [
-                    "Very",
-                    "1600683089-sku24409517",
-                    "u4ttv",
-                    "Daewoo Kensington Bundle- Cream (Kettle, 4 slice toaster, microwave) - Cream",
-                    "174",
-                    "https://www.very.co.uk/daewoo-kensington-bundle--cream-kettle-4-slice-toaster-microwave/1600683089.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Daewoo",
-                    "https://media.very.co.uk/i/very/U4TTV_SQ1_0000000067_CREAM_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.5682450164328361
-                ],
-                [
-                    "Argos",
-                    "112/3120",
-                    "112/3120",
-                    "Neff C1AMG84N0B Built In Combination Microwave - Silver Home Delivery",
-                    "799.00",
-                    "https://www.argos.co.uk/product/1123120?clickPR=plp:70:71",
-                    "Appliances > Microwaves",
-                    "Neff",
-                    "https://media.4rgos.it/s/Argos/1123120_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.5640812932638921
-                ],
-                [
-                    "Argos",
-                    "130/1045",
-                    "130/1045",
-                    "Panasonic 1000W Combination Microwave NN-DS59NBBPQ - Black",
-                    "450.00",
-                    "https://www.argos.co.uk/product/1301045?clickPR=plp:73:73",
-                    "Appliances > Microwaves",
-                    "Panasonic",
-                    "https://media.4rgos.it/s/Argos/1301045_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.5370219438741024
-                ],
-                [
-                    "Very",
-                    "1600830133-sku25931287",
-                    "8806088219646",
-                    "Samsung MS23K3513AW/EU Black Solo 23L Microwave",
-                    "119",
-                    "https://www.very.co.uk/samsung-ms23k3513aweu-black-solo-23l-microwave/1600830133.prd",
-                    "Microwaves > Appliances Microwave",
-                    "Samsung",
-                    "https://media.very.co.uk/i/very/VCMXS_SQ1_0000000088_NO_COLOR_SLf",
-                    "0",
-                    "0",
                     ""
                 ]
             ]
@@ -3332,25 +2390,6 @@ dic_ = {
             ],
             [
                 [
-                    0.7531962840541736
-                ],
-                [
-                    "AppliancesDirect",
-                    "OME12PZ",
-                    "ome12pz",
-                    "Omega 12 Inch Propane Gas Pizza Oven - FREE COVER",
-                    "199.97",
-                    "https://www.appliancesdirect.co.uk/p/ome12pz/outdoor-chef-ome12pz--pizza-oven",
-                    "Cooking > Pizza Ovens > Omega",
-                    "Omega",
-                    "https://www.appliancesdirect.co.uk/Images/OME12PZ_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7318448971132909
                 ],
                 [
@@ -3363,6 +2402,25 @@ dic_ = {
                     "Cooking > Microwaves > Candy",
                     "Candy",
                     "https://www.appliancesdirect.co.uk/Images/MIC20GDFX_1_LargeProductImage.jpg",
+                    "24.95",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7171329388204625
+                ],
+                [
+                    "AppliancesDirect",
+                    "FCPK606X/E",
+                    "fcpk606x/e",
+                    "Candy 65L Electric Single Oven with Programmable Timer- Stainless Steel",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/fcpk606x%2fe/candy-fcpk606xe-appliances-built-in-electric-oven",
+                    "Cooking > Ovens > Candy",
+                    "Candy",
+                    "https://www.appliancesdirect.co.uk/Images/FCPK606X_1_LargeProductImage.jpg",
                     "24.95",
                     "0",
                     ""
@@ -3445,25 +2503,6 @@ dic_ = {
             ],
             [
                 [
-                    0.7719562183089641
-                ],
-                [
-                    "AppliancesDirect",
-                    "OME12PZ",
-                    "ome12pz",
-                    "Omega 12 Inch Propane Gas Pizza Oven - FREE COVER",
-                    "199.97",
-                    "https://www.appliancesdirect.co.uk/p/ome12pz/outdoor-chef-ome12pz--pizza-oven",
-                    "Cooking > Pizza Ovens > Omega",
-                    "Omega",
-                    "https://www.appliancesdirect.co.uk/Images/OME12PZ_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7548345340072309
                 ],
                 [
@@ -3476,6 +2515,25 @@ dic_ = {
                     "Cooking > Microwaves > Candy",
                     "Candy",
                     "https://www.appliancesdirect.co.uk/Images/MIC20GDFX_1_LargeProductImage.jpg",
+                    "24.95",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7370886234851042
+                ],
+                [
+                    "AppliancesDirect",
+                    "FC7D415NX",
+                    "fc7d415nx",
+                    "Candy FC7D415NX Electric Built Under Fan Double Oven - Black",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/fc7d415nx/candy-fc7d415nx",
+                    "Cooking > Ovens > Candy",
+                    "Candy",
+                    "https://www.appliancesdirect.co.uk/Images/FC7D415NX_1_7348877_LargeProductImage.jpg",
                     "24.95",
                     "0",
                     ""
@@ -3501,96 +2559,20 @@ dic_ = {
         [
             [
                 [
-                    0.7692002335061824
+                    0.6398308653974369
                 ],
                 [
                     "AppliancesDirect",
-                    "PF-MNLISC",
-                    "pf-mnlisc",
-                    "Fontana Mangiafuoco Build in Wood Fired Pizza Oven - Stainless Steel",
-                    "2539",
-                    "https://www.appliancesdirect.co.uk/p/pf-mnlisc/fontana-pfmnlisc-mangiafuoco-pizza-oven",
-                    "Cooking > Pizza Ovens > Fontana",
-                    "Fontana",
-                    "https://www.appliancesdirect.co.uk/Images/PF-MNLISC_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7631745379792914
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZPCNA4K1",
-                    "zpcna4k1",
-                    "Zanussi Series 20 Electric Built Under Double Oven with Catalytic Cleaning - Black",
-                    "569",
-                    "https://www.appliancesdirect.co.uk/p/zpcna4k1/zanussi-zpcna4k1-ovens-built-under-electric-oven",
-                    "Cooking > Ovens > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/782918411ZPCNA4K1_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7576388757504122
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZOF35601XK",
-                    "zof35601xk",
-                    "Zanussi Electric Built Under Double Oven with Catalytic Liners - Stainless Steel",
+                    "AMW820IX",
+                    "amw820ix",
+                    "Whirlpool AMW820IX Ambient Perfect Chef 60cm Wide 40L Built-in Microwave Oven - Stainless Steel",
                     "0",
-                    "https://www.appliancesdirect.co.uk/p/zof35601xk/zanussi-zof35601xk-built-under-electric-oven",
-                    "Cooking > Ovens > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/780752921ZOF35601XK_1_LargeProductImage.jpg",
+                    "https://www.appliancesdirect.co.uk/p/amw820ix/whirlpool-amw820ix-built-in-microwave-oven",
+                    "Cooking > Microwaves > Whirlpool",
+                    "Whirlpool",
+                    "https://www.appliancesdirect.co.uk/Images/AMW820IX_1_LargeProductImage.jpg",
                     "24.95",
                     "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.757064716354359
-                ],
-                [
-                    "AppliancesDirect",
-                    "PF-MNGACC",
-                    "pf-mngacc",
-                    "Fontana Mangiafuoco Gas Pizza Oven with Trolley - Stainless Steel",
-                    "3999",
-                    "https://www.appliancesdirect.co.uk/p/pf-mngacc/fontana-pfmngacc-mangiafuoco-pizza-oven",
-                    "Cooking > Pizza Ovens > Fontana",
-                    "Fontana",
-                    "https://www.appliancesdirect.co.uk/Images/PF-MNGACC_1_LargeProductImage.jpg",
-                    "0.0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7562701630315538
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZKHNL3W1",
-                    "zkhnl3w1",
-                    "Zanussi Series 20 Electric Built In Double Oven - White",
-                    "539",
-                    "https://www.appliancesdirect.co.uk/p/zkhnl3w1/zanussi-zkhnl3w1-ovens-built-in-electric-oven",
-                    "Cooking > Ovens > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZKHNL3W1_1_8833789_LargeProductImage.jpg",
-                    "24.95",
-                    "",
                     ""
                 ]
             ]
@@ -4179,44 +3161,6 @@ dic_ = {
         [
             [
                 [
-                    0.7599534414136627
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZPCNA4K1",
-                    "zpcna4k1",
-                    "Zanussi Series 20 Electric Built Under Double Oven with Catalytic Cleaning - Black",
-                    "569",
-                    "https://www.appliancesdirect.co.uk/p/zpcna4k1/zanussi-zpcna4k1-ovens-built-under-electric-oven",
-                    "Cooking > Ovens > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/782918411ZPCNA4K1_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7594591472342248
-                ],
-                [
-                    "AppliancesDirect",
-                    "HO9DC3UB308BI",
-                    "ho9dc3ub308bi",
-                    "Hoover Electric Built In Double Oven - Black",
-                    "459.97",
-                    "https://www.appliancesdirect.co.uk/p/ho9dc3ub308bi/hoover-ho9dc3ub308bi-built-in-electric-2",
-                    "Cooking > Ovens > Hoover",
-                    "Hoover",
-                    "https://www.appliancesdirect.co.uk/Images/HO9DC3UB308BI_1_LargeProductImage.png",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7561301995477822
                 ],
                 [
@@ -4236,25 +3180,6 @@ dic_ = {
             ],
             [
                 [
-                    0.7508333329356754
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZOF35601XK",
-                    "zof35601xk",
-                    "Zanussi Electric Built Under Double Oven with Catalytic Liners - Stainless Steel",
-                    "0",
-                    "https://www.appliancesdirect.co.uk/p/zof35601xk/zanussi-zof35601xk-built-under-electric-oven",
-                    "Cooking > Ovens > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/780752921ZOF35601XK_1_LargeProductImage.jpg",
-                    "24.95",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7456529935154038
                 ],
                 [
@@ -4269,6 +3194,63 @@ dic_ = {
                     "https://www.appliancesdirect.co.uk/Images/NBS113BR0B_1_LargeProductImage.png",
                     "24.95",
                     "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7451105657427244
+                ],
+                [
+                    "AppliancesDirect",
+                    "MHA133BR0B",
+                    "mha133br0b",
+                    "Bosch Series 2 Built In Electric Double Oven - Stainless Steel",
+                    "669",
+                    "https://www.appliancesdirect.co.uk/p/mha133br0b/bosch-mha133br0b-serie-2",
+                    "Cooking > Ovens > Bosch",
+                    "Bosch",
+                    "https://www.appliancesdirect.co.uk/Images/A1301040521260007203_1_LargeProductImage.png",
+                    "24.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7445022357026172
+                ],
+                [
+                    "AppliancesDirect",
+                    "MBS133BR0B",
+                    "mbs133br0b",
+                    "Bosch Series 2 Electric Built In Multifunction Double Oven - Stainless Steel",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/mbs133br0b/bosch-mbs133br0b-built-in-double-oven-tpv00186-tpv00402-oven",
+                    "Cooking > Ovens > Bosch",
+                    "Bosch",
+                    "https://www.appliancesdirect.co.uk/Images/781963811780171271MBS133BR0B_1_LargeProductImage.png",
+                    "24.95",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7416685483179286
+                ],
+                [
+                    "AppliancesDirect",
+                    "MBA5785S6B",
+                    "mba5785s6b",
+                    "Bosch Series 6 Pyrolytic Electric Double Oven - Stainless Steel",
+                    "1609",
+                    "https://www.appliancesdirect.co.uk/p/mba5785s6b/bosch-mba5785s6b-built-in-double-oven-built-in-electric-oven",
+                    "Cooking > Ovens > Bosch",
+                    "Bosch",
+                    "https://www.appliancesdirect.co.uk/Images/MBA5785S6B_1_LargeProductImage.jpg",
+                    "24.95",
+                    "",
                     ""
                 ]
             ]
@@ -4443,25 +3425,6 @@ dic_ = {
             ],
             [
                 [
-                    0.7371771363670023
-                ],
-                [
-                    "Very",
-                    "1600473969-sku22539351",
-                    "3045386378234",
-                    "Tefal Cook4Me+ CY851840 Electric Pressure Cooker - 6 Portions / 6-Litres - Black",
-                    "169",
-                    "https://www.very.co.uk/tefal-cook4me-cy851840-electric-pressure-cooker-6-portions-6-litres/1600473969.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/QFYDD_SQ1_0000000004_BLACK_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.736524667811841
                 ],
                 [
@@ -4481,20 +3444,39 @@ dic_ = {
             ],
             [
                 [
-                    0.7346395401534396
+                    0.7336745085099308
                 ],
                 [
-                    "Very",
-                    "1600561359-sku23470973",
-                    "3045387243807",
-                    "Tefal SpheriCook Multicooker",
-                    "79",
-                    "https://www.very.co.uk/tefal-sphericook-multicooker/1600561359.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/RJ44M_SQ1_0000000088_NO_COLOR_SLf",
+                    "AppliancesDirect",
+                    "444444492",
+                    "444444492",
+                    "Stoves Sterling S1000DF 100cm Dual Fuel Range Cooker - Stainless Steel",
+                    "2569.97",
+                    "https://www.appliancesdirect.co.uk/p/444444492/stoves-444444492-richmond-100cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444492_1_LargeProductImage.jpg",
+                    "49.95",
                     "0",
-                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.732583225798823
+                ],
+                [
+                    "AppliancesDirect",
+                    "444444452",
+                    "444444452",
+                    "Stoves Richmond S1000DF 100cm Dual Fuel Range Cooker - Cream",
+                    "2569.97",
+                    "https://www.appliancesdirect.co.uk/p/444444452/stoves-444444452-richmond-100cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444452_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
                     ""
                 ]
             ]
@@ -4516,44 +3498,6 @@ dic_ = {
             ""
         ],
         [
-            [
-                [
-                    0.7234274399995488
-                ],
-                [
-                    "Very",
-                    "1600473969-sku22539351",
-                    "3045386378234",
-                    "Tefal Cook4Me+ CY851840 Electric Pressure Cooker - 6 Portions / 6-Litres - Black",
-                    "169",
-                    "https://www.very.co.uk/tefal-cook4me-cy851840-electric-pressure-cooker-6-portions-6-litres/1600473969.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/QFYDD_SQ1_0000000004_BLACK_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7228242257770241
-                ],
-                [
-                    "Very",
-                    "1600561359-sku23470973",
-                    "3045387243807",
-                    "Tefal SpheriCook Multicooker",
-                    "79",
-                    "https://www.very.co.uk/tefal-sphericook-multicooker/1600561359.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/RJ44M_SQ1_0000000088_NO_COLOR_SLf",
-                    "0",
-                    "0",
-                    ""
-                ]
-            ],
             [
                 [
                     0.721904852107363
@@ -4610,117 +3554,42 @@ dic_ = {
                     "0",
                     ""
                 ]
-            ]
-        ]
-    ],
-    "Hotpoint HAG60K 60cm Gas Cooker with Variable Gas Grill - Black - A+/A Rated---https://media.ao.com/en-GB/Productimages/Images/rvMedium/hotpoint_hag60k_bk_01_m_p.jpg": [
-        [
-            "AO",
-            "21812",
-            "hag60k_bk",
-            "Hotpoint HAG60K 60cm Gas Cooker with Variable Gas Grill - Black - A+/A Rated",
-            "389.00",
-            "https://ao.com/product/hag60k-hotpoint-gas-cooker-black-21812-10.aspx",
-            "Gas Cookers",
-            "Hotpoint",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/hotpoint_hag60k_bk_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.766914930801029
-                ],
-                [
-                    "Very",
-                    "1600618683-sku23856226",
-                    "t7ewy",
-                    "Tower Cavaletto Slow Cooker 3.5l - Grey",
-                    "34",
-                    "https://www.very.co.uk/tower-cavaletto-slow-cooker-35l-grey/1600618683.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tower",
-                    "https://media.very.co.uk/i/very/T7EWY_SQ1_0000000005_GREY_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
             ],
             [
                 [
-                    0.693831414698253
+                    0.7182163830932424
                 ],
                 [
                     "AppliancesDirect",
-                    "CPF9GPX",
-                    "cpf9gpx",
-                    "Smeg Portofino 90cm Pyrolytic Dual Fuel Range Cooker - Stainless Steel",
-                    "2987.97",
-                    "https://www.appliancesdirect.co.uk/p/cpf9gpx/smeg-cpf9gpx-portofino-90cm-dual-fuel-range-cooker",
-                    "Cooking > Range Cookers > Smeg",
-                    "Smeg",
-                    "https://www.appliancesdirect.co.uk/Images/CPF9GPX_1_LargeProductImage.png",
-                    "0.0",
+                    "444444452",
+                    "444444452",
+                    "Stoves Richmond S1000DF 100cm Dual Fuel Range Cooker - Cream",
+                    "2569.97",
+                    "https://www.appliancesdirect.co.uk/p/444444452/stoves-444444452-richmond-100cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444452_1_LargeProductImage.jpg",
+                    "49.95",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.6886120119229726
+                    0.7164171564013317
                 ],
                 [
                     "AppliancesDirect",
-                    "SYD4110-1",
-                    "syd4110-1",
-                    "Smeg Symphony 110cm Dual Fuel Range Cooker - Stainless Steel",
-                    "2768.97",
-                    "https://www.appliancesdirect.co.uk/p/syd4110-1/smeg-syd41101-symphony-110cm-dual-fuel-range-cooker",
-                    "Cooking > Range Cookers > Smeg",
-                    "Smeg",
-                    "https://www.appliancesdirect.co.uk/Images/SYD4110-1_1_LargeProductImage.jpg",
+                    "444410254",
+                    "444410254",
+                    "Stoves Richmond S1000DF 100cm Dual Fuel Range Cooker - Anthracite Grey",
+                    "2569.97",
+                    "https://www.appliancesdirect.co.uk/p/444410254/stoves-444410254-richmond-100cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444410254_1_LargeProductImage.jpg",
                     "49.95",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6717226037036964
-                ],
-                [
-                    "AppliancesDirect",
-                    "A4-81",
-                    "a4-81",
-                    "Smeg Opera 120cm Dual Fuel Range Cooker with Electric Griddle - Stainless Steel",
-                    "4299",
-                    "https://www.appliancesdirect.co.uk/p/a4-81/smeg-a481-opera-120cm-dual-fuel-range-cooker",
-                    "Cooking > Range Cookers > Smeg",
-                    "Smeg",
-                    "https://www.appliancesdirect.co.uk/Images/A4-81_1_LargeProductImage.jpg",
-                    "0.0",
                     "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6654293207509356
-                ],
-                [
-                    "AppliancesDirect",
-                    "FCON1092DFBLCM-EU",
-                    "fcon1092dfblcm-eu",
-                    "Falcon Continental 110cm Dual Fuel Range Cooker - Black",
-                    "3269",
-                    "https://www.appliancesdirect.co.uk/p/fcon1092dfblcm-eu/falcon-fcon1092dfblcmeu-continental-110cm-dual-fuel-range-cooker",
-                    "Cooking > Range Cookers > Falcon",
-                    "Falcon",
-                    "https://www.appliancesdirect.co.uk/Images/FCON1092DFBLCM-EU_1_LargeProductImage.jpg",
-                    "49.95",
-                    "0",
                     ""
                 ]
             ]
@@ -4801,25 +3670,6 @@ dic_ = {
             ],
             [
                 [
-                    0.7377341631912453
-                ],
-                [
-                    "Very",
-                    "1600473969-sku22539351",
-                    "3045386378234",
-                    "Tefal Cook4Me+ CY851840 Electric Pressure Cooker - 6 Portions / 6-Litres - Black",
-                    "169",
-                    "https://www.very.co.uk/tefal-cook4me-cy851840-electric-pressure-cooker-6-portions-6-litres/1600473969.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/QFYDD_SQ1_0000000004_BLACK_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7346271546344527
                 ],
                 [
@@ -4832,6 +3682,25 @@ dic_ = {
                     "Cooking > Range Cookers > Stoves",
                     "Stoves",
                     "https://www.appliancesdirect.co.uk/Images/444444452_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7264464440230078
+                ],
+                [
+                    "AppliancesDirect",
+                    "444410255",
+                    "444410255",
+                    "Stoves Richmond S1000Ei 100cm Electric Induction Range Cooker - Anthracite Grey",
+                    "2959.97",
+                    "https://www.appliancesdirect.co.uk/p/444410255/stoves-444410255-richmond-100cm-electric-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444410255_1_LargeProductImage.jpg",
                     "49.95",
                     "",
                     ""
@@ -4871,25 +3740,6 @@ dic_ = {
                     "https://www.appliancesdirect.co.uk/Images/444410254_1_LargeProductImage.jpg",
                     "49.95",
                     "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7492254666058565
-                ],
-                [
-                    "Very",
-                    "1600473969-sku22539351",
-                    "3045386378234",
-                    "Tefal Cook4Me+ CY851840 Electric Pressure Cooker - 6 Portions / 6-Litres - Black",
-                    "169",
-                    "https://www.very.co.uk/tefal-cook4me-cy851840-electric-pressure-cooker-6-portions-6-litres/1600473969.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/QFYDD_SQ1_0000000004_BLACK_SLf",
-                    "0",
-                    "1",
                     ""
                 ]
             ],
@@ -4945,6 +3795,25 @@ dic_ = {
                     "Cooking > Range Cookers > Stoves",
                     "Stoves",
                     "https://www.appliancesdirect.co.uk/Images/444410257_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7248380072788159
+                ],
+                [
+                    "AppliancesDirect",
+                    "444444436",
+                    "444444436",
+                    "Stoves Richmond S900DF 90cm Dual Fuel Range Cooker - Cream",
+                    "2269.97",
+                    "https://www.appliancesdirect.co.uk/p/444444436/stoves-444444436-richmond-90cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444436_1_LargeProductImage.jpg",
                     "49.95",
                     "",
                     ""
@@ -5008,44 +3877,6 @@ dic_ = {
             ],
             [
                 [
-                    0.735238130291856
-                ],
-                [
-                    "Very",
-                    "1600278612-sku20747835",
-                    "3045386379828",
-                    "Tefal All-in-One CY505 Pressure Cooker 6L - Black and Stainless Steel",
-                    "99",
-                    "https://www.very.co.uk/tefal-all-in-onenbspcy505-pressure-cooker-6l-black-andnbspstainless-steel/1600278612.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/MTRQD_SQ1_0000000099_N_A_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7331438778570607
-                ],
-                [
-                    "Very",
-                    "1600473969-sku22539351",
-                    "3045386378234",
-                    "Tefal Cook4Me+ CY851840 Electric Pressure Cooker - 6 Portions / 6-Litres - Black",
-                    "169",
-                    "https://www.very.co.uk/tefal-cook4me-cy851840-electric-pressure-cooker-6-portions-6-litres/1600473969.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/QFYDD_SQ1_0000000004_BLACK_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7324987977924237
                 ],
                 [
@@ -5058,6 +3889,44 @@ dic_ = {
                     "Cooking > Range Cookers > Stoves",
                     "Stoves",
                     "https://www.appliancesdirect.co.uk/Images/444410257_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7315816756888877
+                ],
+                [
+                    "AppliancesDirect",
+                    "444444452",
+                    "444444452",
+                    "Stoves Richmond S1000DF 100cm Dual Fuel Range Cooker - Cream",
+                    "2569.97",
+                    "https://www.appliancesdirect.co.uk/p/444444452/stoves-444444452-richmond-100cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444452_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7220562644249378
+                ],
+                [
+                    "AppliancesDirect",
+                    "444444436",
+                    "444444436",
+                    "Stoves Richmond S900DF 90cm Dual Fuel Range Cooker - Cream",
+                    "2269.97",
+                    "https://www.appliancesdirect.co.uk/p/444444436/stoves-444444436-richmond-90cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444436_1_LargeProductImage.jpg",
                     "49.95",
                     "",
                     ""
@@ -5102,25 +3971,6 @@ dic_ = {
             ],
             [
                 [
-                    0.7378686135731738
-                ],
-                [
-                    "Very",
-                    "1600473969-sku22539351",
-                    "3045386378234",
-                    "Tefal Cook4Me+ CY851840 Electric Pressure Cooker - 6 Portions / 6-Litres - Black",
-                    "169",
-                    "https://www.very.co.uk/tefal-cook4me-cy851840-electric-pressure-cooker-6-portions-6-litres/1600473969.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/QFYDD_SQ1_0000000004_BLACK_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7377045665959062
                 ],
                 [
@@ -5140,39 +3990,58 @@ dic_ = {
             ],
             [
                 [
-                    0.736625938425403
+                    0.7289025129488294
                 ],
                 [
-                    "Very",
-                    "1600278612-sku20747835",
-                    "3045386379828",
-                    "Tefal All-in-One CY505 Pressure Cooker 6L - Black and Stainless Steel",
-                    "99",
-                    "https://www.very.co.uk/tefal-all-in-onenbspcy505-pressure-cooker-6l-black-andnbspstainless-steel/1600278612.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/MTRQD_SQ1_0000000099_N_A_SLf",
-                    "0",
-                    "1",
+                    "AppliancesDirect",
+                    "444444452",
+                    "444444452",
+                    "Stoves Richmond S1000DF 100cm Dual Fuel Range Cooker - Cream",
+                    "2569.97",
+                    "https://www.appliancesdirect.co.uk/p/444444452/stoves-444444452-richmond-100cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444452_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
                     ""
                 ]
             ],
             [
                 [
-                    0.7335762597025073
+                    0.7278387244046542
                 ],
                 [
-                    "Very",
-                    "1600561359-sku23470973",
-                    "3045387243807",
-                    "Tefal SpheriCook Multicooker",
-                    "79",
-                    "https://www.very.co.uk/tefal-sphericook-multicooker/1600561359.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/RJ44M_SQ1_0000000088_NO_COLOR_SLf",
-                    "0",
-                    "0",
+                    "AppliancesDirect",
+                    "444410257",
+                    "444410257",
+                    "Stoves Richmond S1100Ei 110cm Electric Induction Range Cooker - Anthracite Grey",
+                    "3069.97",
+                    "https://www.appliancesdirect.co.uk/p/444410257/stoves-444410257-richmond-110cm-electric-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444410257_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7154347821029678
+                ],
+                [
+                    "AppliancesDirect",
+                    "444444436",
+                    "444444436",
+                    "Stoves Richmond S900DF 90cm Dual Fuel Range Cooker - Cream",
+                    "2269.97",
+                    "https://www.appliancesdirect.co.uk/p/444444436/stoves-444444436-richmond-90cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444436_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
                     ""
                 ]
             ]
@@ -5196,82 +4065,6 @@ dic_ = {
         [
             [
                 [
-                    0.7242408968681251
-                ],
-                [
-                    "Very",
-                    "1600473969-sku22539351",
-                    "3045386378234",
-                    "Tefal Cook4Me+ CY851840 Electric Pressure Cooker - 6 Portions / 6-Litres - Black",
-                    "169",
-                    "https://www.very.co.uk/tefal-cook4me-cy851840-electric-pressure-cooker-6-portions-6-litres/1600473969.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/QFYDD_SQ1_0000000004_BLACK_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7230474894709076
-                ],
-                [
-                    "Very",
-                    "1600561359-sku23470973",
-                    "3045387243807",
-                    "Tefal SpheriCook Multicooker",
-                    "79",
-                    "https://www.very.co.uk/tefal-sphericook-multicooker/1600561359.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/RJ44M_SQ1_0000000088_NO_COLOR_SLf",
-                    "0",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7175057045819895
-                ],
-                [
-                    "Very",
-                    "1600278612-sku20747835",
-                    "3045386379828",
-                    "Tefal All-in-One CY505 Pressure Cooker 6L - Black and Stainless Steel",
-                    "99",
-                    "https://www.very.co.uk/tefal-all-in-onenbspcy505-pressure-cooker-6l-black-andnbspstainless-steel/1600278612.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/MTRQD_SQ1_0000000099_N_A_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7152277099743081
-                ],
-                [
-                    "Very",
-                    "1600788555-sku25281861",
-                    "3045387247843",
-                    "Tefal Turbo Cuisine 7.6L 15in1 Electric Pressure Cooker & Air Fryer CY778840",
-                    "249",
-                    "https://www.very.co.uk/tefal-turbo-cuisine-76l-15in1-electric-pressure-cooker-amp-air-fryer-cy778840/1600788555.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tefal",
-                    "https://media.very.co.uk/i/very/V6FZ6_SQ1_0000000088_NO_COLOR_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.6993057534163474
                 ],
                 [
@@ -5286,6 +4079,82 @@ dic_ = {
                     "https://www.appliancesdirect.co.uk/Images/444444481_1_LargeProductImage.jpg",
                     "49.95",
                     "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6903363187719396
+                ],
+                [
+                    "AppliancesDirect",
+                    "444410254",
+                    "444410254",
+                    "Stoves Richmond S1000DF 100cm Dual Fuel Range Cooker - Anthracite Grey",
+                    "2569.97",
+                    "https://www.appliancesdirect.co.uk/p/444410254/stoves-444410254-richmond-100cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444410254_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6863437502903043
+                ],
+                [
+                    "AppliancesDirect",
+                    "444444492",
+                    "444444492",
+                    "Stoves Sterling S1000DF 100cm Dual Fuel Range Cooker - Stainless Steel",
+                    "2569.97",
+                    "https://www.appliancesdirect.co.uk/p/444444492/stoves-444444492-richmond-100cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444492_1_LargeProductImage.jpg",
+                    "49.95",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6856037163230735
+                ],
+                [
+                    "AppliancesDirect",
+                    "444444488",
+                    "444444488",
+                    "Stoves Sterling S900Ei 90cm Electric Induction Range Cooker - Stainless Steel",
+                    "2769.97",
+                    "https://www.appliancesdirect.co.uk/p/444444488/stoves-444444488-sterling-90cm-electric-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444488_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.680384295052626
+                ],
+                [
+                    "AppliancesDirect",
+                    "444444452",
+                    "444444452",
+                    "Stoves Richmond S1000DF 100cm Dual Fuel Range Cooker - Cream",
+                    "2569.97",
+                    "https://www.appliancesdirect.co.uk/p/444444452/stoves-444444452-richmond-100cm-dual-fuel-range-cooker",
+                    "Cooking > Range Cookers > Stoves",
+                    "Stoves",
+                    "https://www.appliancesdirect.co.uk/Images/444444452_1_LargeProductImage.jpg",
+                    "49.95",
+                    "",
                     ""
                 ]
             ]
@@ -5347,25 +4216,6 @@ dic_ = {
             ],
             [
                 [
-                    0.6734937776830923
-                ],
-                [
-                    "Very",
-                    "1600618683-sku23856226",
-                    "t7ewy",
-                    "Tower Cavaletto Slow Cooker 3.5l - Grey",
-                    "34",
-                    "https://www.very.co.uk/tower-cavaletto-slow-cooker-35l-grey/1600618683.prd",
-                    "Slow Cookers > Appliances Kitchen Slow-Cooker",
-                    "Tower",
-                    "https://media.very.co.uk/i/very/T7EWY_SQ1_0000000005_GREY_SLf",
-                    "0",
-                    "1",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.6719460120722459
                 ],
                 [
@@ -5385,20 +4235,39 @@ dic_ = {
             ],
             [
                 [
-                    0.6050237345610916
+                    0.5938261857699677
                 ],
                 [
-                    "Argos",
-                    "865/3215",
-                    "865/3215",
-                    "Beko KDVF100K 100cm Dual Fuel Range Cooker - Black Home Delivery",
-                    "820.00",
-                    "https://www.argos.co.uk/product/8653215?clickPR=plp:9:23",
-                    "Appliances > Cookers, ovens and hobs > Range cookers",
-                    "Beko",
-                    "https://media.4rgos.it/s/Argos/8653215_R_SET?$Main768$&w=620&h=620",
+                    "AppliancesDirect",
+                    "CLA60CEC",
+                    "cla60cec",
+                    "Leisure Classic 60cm Double Oven Electric Cooker - Cream",
                     "0",
-                    "",
+                    "https://www.appliancesdirect.co.uk/p/cla60cec/leisure-cla60cec-60cm-electric-cooker",
+                    "Cooking > Range Cookers > Leisure",
+                    "Leisure",
+                    "https://www.appliancesdirect.co.uk/Images/782784781CLA60CEC_1_LargeProductImage.jpg",
+                    "49.95",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.5851737600078621
+                ],
+                [
+                    "AppliancesDirect",
+                    "CLA60GAC",
+                    "cla60gac",
+                    "Leisure Classic 60cm Double Oven Gas Cooker - Cream",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/cla60gac/leisure-cla60gac-60cm-gas-cooker",
+                    "Cooking > Range Cookers > Leisure",
+                    "Leisure",
+                    "https://www.appliancesdirect.co.uk/Images/CLA60GAC_1_LargeProductImage.jpg",
+                    "49.95",
+                    "0",
                     ""
                 ]
             ]
@@ -5573,18 +4442,18 @@ dic_ = {
             ],
             [
                 [
-                    0.668997774745836
+                    0.611458737027495
                 ],
                 [
                     "Currys",
-                    "775974",
-                    "775974",
-                    "LG Styler S3BF WiFi-enabled Steam Clothing Care System - Black",
-                    "1899.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3bf-wifienabled-steam-clothing-care-system-black-10212868.html",
+                    "526000",
+                    "526000",
+                    "AEG 7000 Series T7DBG840N 8 kg Heat Pump Tumble Dryer - White",
+                    "829.00",
+                    "https://www.currys.co.uk/products/aeg-7000-series-t7dbg840n-8-kg-heat-pump-tumble-dryer-white-10203135.html",
                     "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212868?$l-large$&fmt=auto",
+                    "AEG",
+                    "https://media.currys.biz/i/currysprod/10203135?$l-large$&fmt=auto",
                     "0.00",
                     "",
                     ""
@@ -5592,39 +4461,39 @@ dic_ = {
             ],
             [
                 [
-                    0.6486064556472283
+                    0.6042685811841623
                 ],
                 [
-                    "Currys",
-                    "623805",
-                    "623805",
-                    "LG Styler S3WF WiFi-enabled Steam Clothing Care System - White",
-                    "1849.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3wf-wifienabled-steam-clothing-care-system-white-10212837.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212837?$l-large$&fmt=auto",
-                    "0.00",
+                    "AppliancesDirect",
+                    "T6DBG720N",
+                    "t6dbg720n",
+                    "AEG 6000 Series 7kg ProSense Freestanding Condenser Tumble Dryer - White",
+                    "544.97",
+                    "https://www.appliancesdirect.co.uk/p/t6dbg720n/aeg-t6dbg720n-freestanding-condensing-tumble-dryer",
+                    "Laundry > Tumble Dryers > AEG",
+                    "AEG",
+                    "https://www.appliancesdirect.co.uk/Images/T6DBG720N_1_LargeProductImage.jpg",
+                    "24.95",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.6355094605794855
+                    0.535004695820797
                 ],
                 [
-                    "Currys",
-                    "531735",
-                    "531735",
-                    "HAIER I-Pro Series 7 HD90-A2979S 9 kg Heat Pump Tumble Dryer - Graphite",
-                    "679.00",
-                    "https://www.currys.co.uk/products/haier-ipro-series-7-hd90a2979s-9-kg-heat-pump-tumble-dryer-graphite-10222378.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "HAIER",
-                    "https://media.currys.biz/i/currysprod/10222378?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
+                    "AppliancesDirect",
+                    "T7DBK840N",
+                    "t7dbk840n",
+                    "AEG 8kg Freestanding Heat Pump Tumble Dryer - White",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/t7dbk840n/aeg-t7dbk840n-freestanding-air-vented-tumble-dryer",
+                    "Laundry > Tumble Dryers > AEG",
+                    "AEG",
+                    "https://www.appliancesdirect.co.uk/Images/T7DBK840N_1_11012561_LargeProductImage.jpg",
+                    "24.95",
+                    "0",
                     ""
                 ]
             ]
@@ -5646,44 +4515,6 @@ dic_ = {
             ""
         ],
         [
-            [
-                [
-                    0.7555665461823776
-                ],
-                [
-                    "Currys",
-                    "623805",
-                    "623805",
-                    "LG Styler S3WF WiFi-enabled Steam Clothing Care System - White",
-                    "1849.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3wf-wifienabled-steam-clothing-care-system-white-10212837.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212837?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7541267335018574
-                ],
-                [
-                    "Currys",
-                    "775974",
-                    "775974",
-                    "LG Styler S3BF WiFi-enabled Steam Clothing Care System - Black",
-                    "1899.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3bf-wifienabled-steam-clothing-care-system-black-10212868.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212868?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
             [
                 [
                     0.7311880386921289
@@ -5740,6 +4571,44 @@ dic_ = {
                     "",
                     ""
                 ]
+            ],
+            [
+                [
+                    0.5976406256473614
+                ],
+                [
+                    "Currys",
+                    "190106",
+                    "190106",
+                    "AEG ProSense T6DBG822N Condenser Tumble Dryer - White",
+                    "579.00",
+                    "https://www.currys.co.uk/products/aeg-prosense-t6dbg822n-condenser-tumble-dryer-white-10158126.html",
+                    "Appliances > Laundry > Tumble dryers",
+                    "AEG",
+                    "https://media.currys.biz/i/currysprod/10158126?$l-large$&fmt=auto",
+                    "0.00",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.5855315852563198
+                ],
+                [
+                    "AppliancesDirect",
+                    "T6DBG822N",
+                    "t6dbg822n",
+                    "AEG 6000 Series 8kg ProSense Freestanding Condenser Tumble Dryer - White",
+                    "565",
+                    "https://www.appliancesdirect.co.uk/p/t6dbg822n/aeg-t6dbg822n-freestanding-condensing-tumble-dryer",
+                    "Laundry > Tumble Dryers > AEG",
+                    "AEG",
+                    "https://www.appliancesdirect.co.uk/Images/T6DBG822N_1_LargeProductImage.jpg",
+                    "24.95",
+                    "",
+                    ""
+                ]
             ]
         ]
     ],
@@ -5774,82 +4643,6 @@ dic_ = {
                     "Zanussi",
                     "https://www.appliancesdirect.co.uk/Images/ZDH87A2PW_1_LargeProductImage.jpg",
                     "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.8081943079555342
-                ],
-                [
-                    "Argos",
-                    "762/5385",
-                    "762/5385",
-                    "Bush DHB7VTDB 7KG Vented Tumble Dryer - Black",
-                    "180.00",
-                    "https://www.argos.co.uk/product/7625385?clickPR=plp:8:82",
-                    "Appliances > Laundry > Tumble dryers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/7625385_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7999040833092108
-                ],
-                [
-                    "Argos",
-                    "881/5761",
-                    "881/5761",
-                    "Bush TD3CNBW 3KG Vented Tumble Dryer - White Collect from store",
-                    "160.00",
-                    "https://www.argos.co.uk/product/8815761?clickPR=plp:7:82",
-                    "Appliances > Laundry > Tumble dryers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/8815761_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7871222982265983
-                ],
-                [
-                    "Argos",
-                    "781/2143",
-                    "781/2143",
-                    "Bush DHB7VTDW 7KG Vented Tumble Dryer - White Home Delivery",
-                    "150.00",
-                    "https://www.argos.co.uk/product/7812143?clickPR=plp:11:82",
-                    "Appliances > Laundry > Tumble dryers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/7812143_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7832502364150873
-                ],
-                [
-                    "Argos",
-                    "582/4030",
-                    "582/4030",
-                    "Bush TD3CNBB 3KG Vented Tumble Dryer - Black",
-                    "170.00",
-                    "https://www.argos.co.uk/product/5824030?clickPR=plp:78:82",
-                    "Appliances > Laundry > Tumble dryers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/5824030_R_SET?$Main768$&w=620&h=620",
-                    "0",
                     "",
                     ""
                 ]
@@ -5893,44 +4686,6 @@ dic_ = {
             ],
             [
                 [
-                    0.7549691285521078
-                ],
-                [
-                    "Currys",
-                    "623805",
-                    "623805",
-                    "LG Styler S3WF WiFi-enabled Steam Clothing Care System - White",
-                    "1849.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3wf-wifienabled-steam-clothing-care-system-white-10212837.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212837?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.74913570300682
-                ],
-                [
-                    "Currys",
-                    "775974",
-                    "775974",
-                    "LG Styler S3BF WiFi-enabled Steam Clothing Care System - Black",
-                    "1899.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3bf-wifienabled-steam-clothing-care-system-black-10212868.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212868?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.6986509804968337
                 ],
                 [
@@ -5950,20 +4705,58 @@ dic_ = {
             ],
             [
                 [
-                    0.6982622037909498
+                    0.6695906681010955
+                ],
+                [
+                    "Very",
+                    "1600615773-sku23968323",
+                    "5054645634217",
+                    "Hotpoint H3D91WBUK 9kg Load Condenser Tumble Dryer - White",
+                    "379",
+                    "https://www.very.co.uk/hotpoint-h3d91wbuk-9kg-load-condenser-tumble-dryer-white/1600615773.prd",
+                    "Tumble Dryers > Appliances Tumble-Dryers Freestanding",
+                    "Hotpoint",
+                    "https://media.very.co.uk/i/very/T766Y_SQ1_0000000013_WHITE_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6659413777450462
                 ],
                 [
                     "AppliancesDirect",
-                    "DTGV8000W",
-                    "dtgv8000w",
-                    "Beko 8kg Freestanding Vented Tumble Dryer - White",
-                    "224.97",
-                    "https://www.appliancesdirect.co.uk/p/dtgv8000w/beko-dtgv8000w--freestanding-vented-tumble-dryer",
-                    "Laundry > Tumble Dryers > Beko",
-                    "Beko",
-                    "https://www.appliancesdirect.co.uk/Images/DTGV8000W_1_LargeProductImage.jpg",
+                    "A2/H3D81BUK",
+                    "a2/h3d81buk",
+                    "Refurbsihed Hotpoint H3D81BUK Freestanding Condenser 8KG Tumble Dryer Black",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/a2%2fh3d81buk/hotpoint-a2h3d81buk--freestanding-condenser-tumble-dryer",
+                    "Laundry > Tumble Dryers > Hotpoint",
+                    "Hotpoint",
+                    "https://www.appliancesdirect.co.uk/Images/H3D81BUK_1_LargeProductImage.png",
                     "24.95",
-                    "",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6637860614135351
+                ],
+                [
+                    "AppliancesDirect",
+                    "TVHM80CP",
+                    "tvhm80cp",
+                    "Hotpoint TVHM80CP 8kg Freestanding Vented Tumble Dryer White",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/tvhm80cp/hotpoint-tvhm80cp-freestanding-electric-tumble-dryer",
+                    "Laundry > Tumble Dryers > Hotpoint",
+                    "Hotpoint",
+                    "https://www.appliancesdirect.co.uk/Images/TVHM80CP_1_LargeProductImage.jpg",
+                    "24.95",
+                    "0",
                     ""
                 ]
             ]
@@ -6006,44 +4799,6 @@ dic_ = {
             ],
             [
                 [
-                    0.7360096302690833
-                ],
-                [
-                    "Currys",
-                    "623805",
-                    "623805",
-                    "LG Styler S3WF WiFi-enabled Steam Clothing Care System - White",
-                    "1849.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3wf-wifienabled-steam-clothing-care-system-white-10212837.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212837?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7293348337220371
-                ],
-                [
-                    "Currys",
-                    "775974",
-                    "775974",
-                    "LG Styler S3BF WiFi-enabled Steam Clothing Care System - Black",
-                    "1899.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3bf-wifienabled-steam-clothing-care-system-black-10212868.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212868?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.6845979121270963
                 ],
                 [
@@ -6063,451 +4818,37 @@ dic_ = {
             ],
             [
                 [
-                    0.672367686250187
+                    0.6536539820383244
+                ],
+                [
+                    "Very",
+                    "1600615802-sku23848643",
+                    "5054645631469",
+                    "Hotpoint NTM119X3EUK 9kg Load Heat Pump Tumble Dryer - White",
+                    "499",
+                    "https://www.very.co.uk/hotpoint-ntm119x3euk-9kg-load-heat-pumpnbsptumble-dryer-white/1600615802.prd",
+                    "Tumble Dryers > Appliances Tumble-Dryers Freestanding",
+                    "Hotpoint",
+                    "https://media.very.co.uk/i/very/T766V_SQ1_0000000013_WHITE_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6396775477779048
                 ],
                 [
                     "AppliancesDirect",
-                    "DTGV8000W",
-                    "dtgv8000w",
-                    "Beko 8kg Freestanding Vented Tumble Dryer - White",
-                    "224.97",
-                    "https://www.appliancesdirect.co.uk/p/dtgv8000w/beko-dtgv8000w--freestanding-vented-tumble-dryer",
-                    "Laundry > Tumble Dryers > Beko",
-                    "Beko",
-                    "https://www.appliancesdirect.co.uk/Images/DTGV8000W_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "Electra TDC7100S 7Kg Condenser Tumble Dryer - Silver - B Rated---https://media.ao.com/en-GB/Productimages/Images/rvMedium/electra_tdc7100s_si_01_m_p.jpg": [
-        [
-            "AO",
-            "64970",
-            "tdc7100s_si",
-            "Electra TDC7100S 7Kg Condenser Tumble Dryer - Silver - B Rated",
-            "239.00",
-            "https://ao.com/product/tdc7100s-electra-condenser-tumble-dryer-silver-64970-18.aspx",
-            "Condenser Tumble Dryers",
-            "Electra",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/electra_tdc7100s_si_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.6867371241431639
-                ],
-                [
-                    "Currys",
-                    "775974",
-                    "775974",
-                    "LG Styler S3BF WiFi-enabled Steam Clothing Care System - Black",
-                    "1899.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3bf-wifienabled-steam-clothing-care-system-black-10212868.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212868?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6821870594611128
-                ],
-                [
-                    "Currys",
-                    "623805",
-                    "623805",
-                    "LG Styler S3WF WiFi-enabled Steam Clothing Care System - White",
-                    "1849.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3wf-wifienabled-steam-clothing-care-system-white-10212837.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212837?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6384480769548837
-                ],
-                [
-                    "Argos",
-                    "941/7890",
-                    "941/7890",
-                    "Hotpoint NTM1192SK 9KG Heat Pump Tumble Dryer - White",
-                    "500.00",
-                    "https://www.argos.co.uk/product/9417890?clickPR=plp:59:84",
-                    "Appliances > Laundry > Tumble dryers",
-                    "Hotpoint",
-                    "https://media.4rgos.it/s/Argos/9417890_R_SET?$Main768$&w=620&h=620",
+                    "A2/H3D81BUK",
+                    "a2/h3d81buk",
+                    "Refurbsihed Hotpoint H3D81BUK Freestanding Condenser 8KG Tumble Dryer Black",
                     "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6357297852038659
-                ],
-                [
-                    "Argos",
-                    "888/3092",
-                    "888/3092",
-                    "Hotpoint NTM1182XB 8KG Heat Pump Tumble Dryer - White",
-                    "440.00",
-                    "https://www.argos.co.uk/product/8883092?clickPR=plp:43:86",
-                    "Appliances > Laundry > Tumble dryers",
-                    "Hotpoint",
-                    "https://media.4rgos.it/s/Argos/8883092_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6287907184498047
-                ],
-                [
-                    "AppliancesDirect",
-                    "NTM1192SKUK",
-                    "ntm1192skuk",
-                    "Hotpoint NTM1192SKUK 9kg Freestanding Condenser Tumble Dyer With heat Pump Tech - White",
-                    "0",
-                    "https://www.appliancesdirect.co.uk/p/ntm1192skuk/hotpoint-ntm1192skuk-freestanding-heat-pump-tumble-dryer",
+                    "https://www.appliancesdirect.co.uk/p/a2%2fh3d81buk/hotpoint-a2h3d81buk--freestanding-condenser-tumble-dryer",
                     "Laundry > Tumble Dryers > Hotpoint",
                     "Hotpoint",
-                    "https://www.appliancesdirect.co.uk/Images/NTM1192SKUK_1_LargeProductImage.jpg",
-                    "24.95",
-                    "0",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "Electra TDC7100B 7Kg Condenser Tumble Dryer - Black - B Rated---https://media.ao.com/en-GB/Productimages/Images/rvMedium/electra_tumbledryer_tdc7100b_bk_01_m_p.jpg": [
-        [
-            "AO",
-            "64971",
-            "tdc7100b_bk",
-            "Electra TDC7100B 7Kg Condenser Tumble Dryer - Black - B Rated",
-            "259.00",
-            "https://ao.com/product/tdc7100b-electra-condenser-tumble-dryer-black-64971-18.aspx",
-            "Condenser Tumble Dryers",
-            "Electra",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/electra_tumbledryer_tdc7100b_bk_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.676425523106823
-                ],
-                [
-                    "Currys",
-                    "623805",
-                    "623805",
-                    "LG Styler S3WF WiFi-enabled Steam Clothing Care System - White",
-                    "1849.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3wf-wifienabled-steam-clothing-care-system-white-10212837.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212837?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6673142077808343
-                ],
-                [
-                    "Currys",
-                    "775974",
-                    "775974",
-                    "LG Styler S3BF WiFi-enabled Steam Clothing Care System - Black",
-                    "1899.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3bf-wifienabled-steam-clothing-care-system-black-10212868.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212868?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.637321689441498
-                ],
-                [
-                    "AppliancesDirect",
-                    "T6DBG822N",
-                    "t6dbg822n",
-                    "AEG 6000 Series 8kg ProSense Freestanding Condenser Tumble Dryer - White",
-                    "565",
-                    "https://www.appliancesdirect.co.uk/p/t6dbg822n/aeg-t6dbg822n-freestanding-condensing-tumble-dryer",
-                    "Laundry > Tumble Dryers > AEG",
-                    "AEG",
-                    "https://www.appliancesdirect.co.uk/Images/T6DBG822N_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6336219881347804
-                ],
-                [
-                    "Currys",
-                    "190106",
-                    "190106",
-                    "AEG ProSense T6DBG822N Condenser Tumble Dryer - White",
-                    "579.00",
-                    "https://www.currys.co.uk/products/aeg-prosense-t6dbg822n-condenser-tumble-dryer-white-10158126.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "AEG",
-                    "https://media.currys.biz/i/currysprod/10158126?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6311112178156444
-                ],
-                [
-                    "AppliancesDirect",
-                    "NTM1192SKUK",
-                    "ntm1192skuk",
-                    "Hotpoint NTM1192SKUK 9kg Freestanding Condenser Tumble Dyer With heat Pump Tech - White",
-                    "0",
-                    "https://www.appliancesdirect.co.uk/p/ntm1192skuk/hotpoint-ntm1192skuk-freestanding-heat-pump-tumble-dryer",
-                    "Laundry > Tumble Dryers > Hotpoint",
-                    "Hotpoint",
-                    "https://www.appliancesdirect.co.uk/Images/NTM1192SKUK_1_LargeProductImage.jpg",
-                    "24.95",
-                    "0",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "Electra TDC7100W 7Kg Condenser Tumble Dryer - White - B Rated---https://media.ao.com/en-GB/Productimages/Images/rvMedium/electra_tdc7100w_wh_01_m_p.jpg": [
-        [
-            "AO",
-            "64972",
-            "tdc7100w_wh",
-            "Electra TDC7100W 7Kg Condenser Tumble Dryer - White - B Rated",
-            "239.00",
-            "https://ao.com/product/tdc7100w-electra-condenser-tumble-dryer-white-64972-18.aspx",
-            "Condenser Tumble Dryers",
-            "Electra",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/electra_tdc7100w_wh_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.6723982736483238
-                ],
-                [
-                    "Currys",
-                    "775974",
-                    "775974",
-                    "LG Styler S3BF WiFi-enabled Steam Clothing Care System - Black",
-                    "1899.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3bf-wifienabled-steam-clothing-care-system-black-10212868.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212868?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6607104482056474
-                ],
-                [
-                    "Currys",
-                    "623805",
-                    "623805",
-                    "LG Styler S3WF WiFi-enabled Steam Clothing Care System - White",
-                    "1849.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3wf-wifienabled-steam-clothing-care-system-white-10212837.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212837?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6483591792112064
-                ],
-                [
-                    "Argos",
-                    "888/3092",
-                    "888/3092",
-                    "Hotpoint NTM1182XB 8KG Heat Pump Tumble Dryer - White",
-                    "440.00",
-                    "https://www.argos.co.uk/product/8883092?clickPR=plp:43:86",
-                    "Appliances > Laundry > Tumble dryers",
-                    "Hotpoint",
-                    "https://media.4rgos.it/s/Argos/8883092_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6472640141562278
-                ],
-                [
-                    "Argos",
-                    "941/7890",
-                    "941/7890",
-                    "Hotpoint NTM1192SK 9KG Heat Pump Tumble Dryer - White",
-                    "500.00",
-                    "https://www.argos.co.uk/product/9417890?clickPR=plp:59:84",
-                    "Appliances > Laundry > Tumble dryers",
-                    "Hotpoint",
-                    "https://media.4rgos.it/s/Argos/9417890_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6450316651639648
-                ],
-                [
-                    "AppliancesDirect",
-                    "NTM1192SKUK",
-                    "ntm1192skuk",
-                    "Hotpoint NTM1192SKUK 9kg Freestanding Condenser Tumble Dyer With heat Pump Tech - White",
-                    "0",
-                    "https://www.appliancesdirect.co.uk/p/ntm1192skuk/hotpoint-ntm1192skuk-freestanding-heat-pump-tumble-dryer",
-                    "Laundry > Tumble Dryers > Hotpoint",
-                    "Hotpoint",
-                    "https://www.appliancesdirect.co.uk/Images/NTM1192SKUK_1_LargeProductImage.jpg",
-                    "24.95",
-                    "0",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "Electra TDC8112S 8Kg Condenser Tumble Dryer - Silver - B Rated---https://media.ao.com/en-GB/Productimages/Images/rvMedium/tdc8112s_si_electra_dryer_01a_m_p.jpg": [
-        [
-            "AO",
-            "64973",
-            "tdc8112s_si",
-            "Electra TDC8112S 8Kg Condenser Tumble Dryer - Silver - B Rated",
-            "249.00",
-            "https://ao.com/product/tdc8112s-electra-condenser-tumble-dryer-silver-64973-18.aspx",
-            "Condenser Tumble Dryers",
-            "Electra",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/tdc8112s_si_electra_dryer_01a_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.7056017892215767
-                ],
-                [
-                    "Currys",
-                    "775974",
-                    "775974",
-                    "LG Styler S3BF WiFi-enabled Steam Clothing Care System - Black",
-                    "1899.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3bf-wifienabled-steam-clothing-care-system-black-10212868.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212868?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7005141222797748
-                ],
-                [
-                    "Currys",
-                    "623805",
-                    "623805",
-                    "LG Styler S3WF WiFi-enabled Steam Clothing Care System - White",
-                    "1849.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3wf-wifienabled-steam-clothing-care-system-white-10212837.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212837?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.633904665103711
-                ],
-                [
-                    "Argos",
-                    "888/3092",
-                    "888/3092",
-                    "Hotpoint NTM1182XB 8KG Heat Pump Tumble Dryer - White",
-                    "440.00",
-                    "https://www.argos.co.uk/product/8883092?clickPR=plp:43:86",
-                    "Appliances > Laundry > Tumble dryers",
-                    "Hotpoint",
-                    "https://media.4rgos.it/s/Argos/8883092_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6279878359235702
-                ],
-                [
-                    "AppliancesDirect",
-                    "NTM1192SKUK",
-                    "ntm1192skuk",
-                    "Hotpoint NTM1192SKUK 9kg Freestanding Condenser Tumble Dyer With heat Pump Tech - White",
-                    "0",
-                    "https://www.appliancesdirect.co.uk/p/ntm1192skuk/hotpoint-ntm1192skuk-freestanding-heat-pump-tumble-dryer",
-                    "Laundry > Tumble Dryers > Hotpoint",
-                    "Hotpoint",
-                    "https://www.appliancesdirect.co.uk/Images/NTM1192SKUK_1_LargeProductImage.jpg",
+                    "https://www.appliancesdirect.co.uk/Images/H3D81BUK_1_LargeProductImage.png",
                     "24.95",
                     "0",
                     ""
@@ -6515,133 +4856,20 @@ dic_ = {
             ],
             [
                 [
-                    0.6269181266823236
+                    0.6385226236281778
                 ],
                 [
-                    "Argos",
-                    "941/7890",
-                    "941/7890",
-                    "Hotpoint NTM1192SK 9KG Heat Pump Tumble Dryer - White",
-                    "500.00",
-                    "https://www.argos.co.uk/product/9417890?clickPR=plp:59:84",
-                    "Appliances > Laundry > Tumble dryers",
+                    "Very",
+                    "1600615774-sku24277966",
+                    "5054645633753",
+                    "Hotpoint H8D94WBUK 9kg Load Heat Pump Tumble Dryer - White",
+                    "699",
+                    "https://www.very.co.uk/hotpoint-h8d94wbuk-9kg-load-heat-pump-tumble-dryer-white/1600615774.prd",
+                    "Tumble Dryers > Appliances Tumble-Dryers Freestanding",
                     "Hotpoint",
-                    "https://media.4rgos.it/s/Argos/9417890_R_SET?$Main768$&w=620&h=620",
+                    "https://media.very.co.uk/i/very/T7676_SQ1_0000000013_WHITE_SLf",
                     "0",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "Electra TDC8112B 8Kg Condenser Tumble Dryer - Black - B Rated---https://media.ao.com/en-GB/Productimages/Images/rvMedium/electra_tdc8112b_bk_01_m_p.jpg": [
-        [
-            "AO",
-            "64974",
-            "tdc8112b_bk",
-            "Electra TDC8112B 8Kg Condenser Tumble Dryer - Black - B Rated",
-            "239.00",
-            "https://ao.com/product/tdc8112b-electra-condenser-tumble-dryer-black-64974-18.aspx",
-            "Condenser Tumble Dryers",
-            "Electra",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/electra_tdc8112b_bk_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.6703783497328921
-                ],
-                [
-                    "Currys",
-                    "623805",
-                    "623805",
-                    "LG Styler S3WF WiFi-enabled Steam Clothing Care System - White",
-                    "1849.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3wf-wifienabled-steam-clothing-care-system-white-10212837.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212837?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6610923790395468
-                ],
-                [
-                    "Currys",
-                    "775974",
-                    "775974",
-                    "LG Styler S3BF WiFi-enabled Steam Clothing Care System - Black",
-                    "1899.00",
-                    "https://www.currys.co.uk/products/lg-styler-s3bf-wifienabled-steam-clothing-care-system-black-10212868.html",
-                    "Appliances > Laundry > Tumble dryers",
-                    "LG",
-                    "https://media.currys.biz/i/currysprod/10212868?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6494181291986283
-                ],
-                [
-                    "AppliancesDirect",
-                    "NTM1192SKUK",
-                    "ntm1192skuk",
-                    "Hotpoint NTM1192SKUK 9kg Freestanding Condenser Tumble Dyer With heat Pump Tech - White",
-                    "0",
-                    "https://www.appliancesdirect.co.uk/p/ntm1192skuk/hotpoint-ntm1192skuk-freestanding-heat-pump-tumble-dryer",
-                    "Laundry > Tumble Dryers > Hotpoint",
-                    "Hotpoint",
-                    "https://www.appliancesdirect.co.uk/Images/NTM1192SKUK_1_LargeProductImage.jpg",
-                    "24.95",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6492599706380822
-                ],
-                [
-                    "AppliancesDirect",
-                    "T6DBG822N",
-                    "t6dbg822n",
-                    "AEG 6000 Series 8kg ProSense Freestanding Condenser Tumble Dryer - White",
-                    "565",
-                    "https://www.appliancesdirect.co.uk/p/t6dbg822n/aeg-t6dbg822n-freestanding-condensing-tumble-dryer",
-                    "Laundry > Tumble Dryers > AEG",
-                    "AEG",
-                    "https://www.appliancesdirect.co.uk/Images/T6DBG822N_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6458918186354088
-                ],
-                [
-                    "AppliancesDirect",
-                    "NTM1192SK",
-                    "ntm1192sk",
-                    "Hotpoint 9kg Freestanding Heat Pump Tumble Dyer - White",
-                    "460.97",
-                    "https://www.appliancesdirect.co.uk/p/ntm1192sk/hotpoint-ntm1192sk-activecare-freestanding-condenser-tumble-dryer",
-                    "Laundry > Tumble Dryers > Hotpoint",
-                    "HOTPOINT",
-                    "https://www.appliancesdirect.co.uk/Images/NTM1192SKUK_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
+                    "1",
                     ""
                 ]
             ]
@@ -6741,20 +4969,20 @@ dic_ = {
             ],
             [
                 [
-                    0.8310110505828283
+                    0.7970640785740964
                 ],
                 [
-                    "Currys",
-                    "336285",
-                    "336285",
-                    "AVF AKVFSS1W2 Sonos One & Play:1 Floorstand Fixed Speaker Bracket Pair - White",
-                    "109.00",
-                    "https://www.currys.co.uk/products/avf-akvfss1w2-sonos-one-and-play1-floorstand-fixed-speaker-bracket-pair-white-10226254.html",
-                    "TV & Audio > Speakers & Hi-Fi systems > All speakers",
-                    "AVF",
-                    "https://media.currys.biz/i/currysprod/10226254?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
+                    "Very",
+                    "1600542123-sku23158596",
+                    "193575006420",
+                    "Google Nest Audio - Chalk - White",
+                    "89.99",
+                    "https://www.very.co.uk/google-nest-audio-chalk/1600542123.prd",
+                    "Speakers > Audio Speakers Smart",
+                    "Google",
+                    "https://media.very.co.uk/i/very/R9R7C_SQ1_0000000013_WHITE_SLf",
+                    "3.99",
+                    "1",
                     ""
                 ]
             ]
@@ -6967,20 +5195,20 @@ dic_ = {
             ],
             [
                 [
-                    0.8467974198120372
+                    0.8073560886690336
                 ],
                 [
-                    "Currys",
-                    "336285",
-                    "336285",
-                    "AVF AKVFSS1W2 Sonos One & Play:1 Floorstand Fixed Speaker Bracket Pair - White",
-                    "109.00",
-                    "https://www.currys.co.uk/products/avf-akvfss1w2-sonos-one-and-play1-floorstand-fixed-speaker-bracket-pair-white-10226254.html",
-                    "TV & Audio > Speakers & Hi-Fi systems > All speakers",
-                    "AVF",
-                    "https://media.currys.biz/i/currysprod/10226254?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
+                    "Very",
+                    "1600542123-sku23158596",
+                    "193575006420",
+                    "Google Nest Audio - Chalk - White",
+                    "89.99",
+                    "https://www.very.co.uk/google-nest-audio-chalk/1600542123.prd",
+                    "Speakers > Audio Speakers Smart",
+                    "Google",
+                    "https://media.very.co.uk/i/very/R9R7C_SQ1_0000000013_WHITE_SLf",
+                    "3.99",
+                    "1",
                     ""
                 ]
             ]
@@ -7080,133 +5308,20 @@ dic_ = {
             ],
             [
                 [
-                    0.8499013605903262
+                    0.8015272696262392
                 ],
                 [
-                    "Currys",
-                    "336285",
-                    "336285",
-                    "AVF AKVFSS1W2 Sonos One & Play:1 Floorstand Fixed Speaker Bracket Pair - White",
-                    "109.00",
-                    "https://www.currys.co.uk/products/avf-akvfss1w2-sonos-one-and-play1-floorstand-fixed-speaker-bracket-pair-white-10226254.html",
-                    "TV & Audio > Speakers & Hi-Fi systems > All speakers",
-                    "AVF",
-                    "https://media.currys.biz/i/currysprod/10226254?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
-    "Amazon Echo Flex with Alexa - White---https://media.ao.com/en-GB/Productimages/Images/rvMedium/b07pdj9jff_amazon_echoflex_01_m_p.jpg": [
-        [
-            "AO",
-            "72445",
-            "b07pdj9jff",
-            "Amazon Echo Flex with Alexa - White",
-            "19.00",
-            "https://ao.com/product/b07pdj9jff-amazon-echo-echo-flex-smart-speaker-white-72445-301.aspx",
-            "Smart Speakers",
-            "Amazon Echo",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/b07pdj9jff_amazon_echoflex_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.786784905484488
-                ],
-                [
-                    "Argos",
-                    "284/9991",
-                    "284/9991",
-                    "Google Nest Mini Smart Speaker - Chalk",
-                    "49.00",
-                    "https://www.argos.co.uk/product/2849991?clickPR=plp:8:25",
-                    "Technology > Speakers > Smart speakers",
-                    "Google Nest",
-                    "https://media.4rgos.it/s/Argos/2849991_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7643359055109893
-                ],
-                [
-                    "Argos",
-                    "303/6590",
-                    "303/6590",
-                    "Google Nest Hub Max Smart Display - Chalk",
-                    "219.00",
-                    "https://www.argos.co.uk/product/3036590?clickPR=plp:18:29",
-                    "Technology > Speakers > Smart speakers",
-                    "Google Nest",
-                    "https://media.4rgos.it/s/Argos/3036590_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7586851716331184
-                ],
-                [
-                    "Argos",
-                    "306/1149",
-                    "306/1149",
-                    "Google Nest Hub Max Smart Display - Charcoal",
-                    "219.00",
-                    "https://www.argos.co.uk/product/3061149?clickPR=plp:15:29",
-                    "Technology > Speakers > Bluetooth speakers",
-                    "Google Nest",
-                    "https://media.4rgos.it/s/Argos/3061149_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7454329964746755
-                ],
-                [
-                    "Currys",
-                    "331447",
-                    "331447",
-                    "AVF YAK90W Sound Bar Bracket - White",
-                    "29.99",
-                    "https://www.currys.co.uk/products/avf-yak90w-sound-bar-bracket-white-10222808.html",
-                    "TV & Audio > Speakers & Hi-Fi systems > All speakers",
-                    "AVF",
-                    "https://media.currys.biz/i/currysprod/10222808?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7449020049051115
-                ],
-                [
-                    "Currys",
-                    "336284",
-                    "336284",
-                    "AVF AKVFSS1B2 Sonos One & Play:1 Floorstand Fixed Speaker Bracket Pair - Black",
-                    "109.00",
-                    "https://www.currys.co.uk/products/avf-akvfss1b2-sonos-one-and-play1-floorstand-fixed-speaker-bracket-pair-black-10226253.html",
-                    "TV & Audio > Speakers & Hi-Fi systems > All speakers",
-                    "AVF",
-                    "https://media.currys.biz/i/currysprod/10226253?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
+                    "Very",
+                    "1600542123-sku23158596",
+                    "193575006420",
+                    "Google Nest Audio - Chalk - White",
+                    "89.99",
+                    "https://www.very.co.uk/google-nest-audio-chalk/1600542123.prd",
+                    "Speakers > Audio Speakers Smart",
+                    "Google",
+                    "https://media.very.co.uk/i/very/R9R7C_SQ1_0000000013_WHITE_SLf",
+                    "3.99",
+                    "1",
                     ""
                 ]
             ]
@@ -7249,77 +5364,77 @@ dic_ = {
             ],
             [
                 [
-                    0.8503565352657395
+                    0.7666360884445237
                 ],
                 [
-                    "Argos",
-                    "884/8044",
-                    "884/8044",
-                    "Sony MHCV13 High Power Bluetooth Party Speaker",
-                    "319.00",
-                    "https://www.argos.co.uk/product/8848044?clickPR=plp:69:91",
-                    "Technology > Speakers > Wireless speakers",
-                    "Sony",
-                    "https://media.4rgos.it/s/Argos/8848044_R_SET?$Main768$&w=620&h=620",
-                    "0",
+                    "Very",
+                    "1600542124-sku23158595",
+                    "193575006437",
+                    "Google Nest Audio - Charcoal",
+                    "89.99",
+                    "https://www.very.co.uk/google-nest-audio-charcoal/1600542124.prd",
+                    "Speakers > Audio Speakers Smart",
+                    "Google",
+                    "https://media.very.co.uk/i/very/R9R7A_SQ1_0000000071_CHARCOAL_SLf",
+                    "3.99",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7349784573138021
+                ],
+                [
+                    "AppliancesDirect",
+                    "GA00781-GB",
+                    "ga00781-gb",
+                    "Google Nest Mini 2nd Gen - Charcoal",
+                    "24.97",
+                    "https://www.appliancesdirect.co.uk/p/ga00781-gb/google-ga00781gb-smart-speaker",
+                    "HiFi and Home Cinema > Smart Speakers > Google",
+                    "Google",
+                    "https://www.appliancesdirect.co.uk/Images/GA00781-GB_1_LargeProductImage.jpg",
+                    "4.99",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.8447266011288457
+                    0.7048769550100119
                 ],
                 [
-                    "AppliancesDirect",
-                    "HTA5000CEK",
-                    "hta5000cek",
-                    "Sony HTA5000CEK Sound Bar",
-                    "899",
-                    "https://www.appliancesdirect.co.uk/p/hta5000cek/sony-hta5000cek-hta-soundbar-speaker",
-                    "HiFi and Home Cinema > Soundbar Speakers > Sony",
-                    "Sony",
-                    "https://www.appliancesdirect.co.uk/Images/HTA5000CEK_1_Classic.png",
-                    "0.0",
-                    "0",
+                    "Very",
+                    "1600542123-sku23158596",
+                    "193575006420",
+                    "Google Nest Audio - Chalk - White",
+                    "89.99",
+                    "https://www.very.co.uk/google-nest-audio-chalk/1600542123.prd",
+                    "Speakers > Audio Speakers Smart",
+                    "Google",
+                    "https://media.very.co.uk/i/very/R9R7C_SQ1_0000000013_WHITE_SLf",
+                    "3.99",
+                    "1",
                     ""
                 ]
             ],
             [
                 [
-                    0.8438147921697603
+                    0.6130564288634563
                 ],
                 [
-                    "AppliancesDirect",
-                    "HTA3000CEK",
-                    "hta3000cek",
-                    "SONY HTA3000CEK 3.1 ch Soundbar  Black",
-                    "454",
-                    "https://www.appliancesdirect.co.uk/p/hta3000cek/sony-hta3000cek-hta-soundbar-speaker",
-                    "HiFi and Home Cinema > Soundbar Speakers > Sony",
-                    "Sony",
-                    "https://www.appliancesdirect.co.uk/Images/HTA3000CEK_1_LargeProductImage.png",
-                    "0.0",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.8347382533597352
-                ],
-                [
-                    "Argos",
-                    "884/8082",
-                    "884/8082",
-                    "Sony MHCV73D High Power Bluetooth Party Speaker",
-                    "629.00",
-                    "https://www.argos.co.uk/product/8848082?clickPR=plp:68:91",
-                    "Technology > Speakers > Wireless speakers",
-                    "Sony",
-                    "https://media.4rgos.it/s/Argos/8848082_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
+                    "Very",
+                    "1600412344-sku22009891",
+                    "193575000886",
+                    "Google Nest Mini - Charcoal",
+                    "49",
+                    "https://www.very.co.uk/google-nestnbspmini-charcoal/1600412344.prd",
+                    "Speakers > Audio Speakers Smart",
+                    "Google",
+                    "https://media.very.co.uk/i/very/PM9VK_SQ1_0000000088_NO_COLOR_SLf",
+                    "3.99",
+                    "1",
                     ""
                 ]
             ]
@@ -7362,77 +5477,77 @@ dic_ = {
             ],
             [
                 [
-                    0.8352748696456754
+                    0.7356861116023856
                 ],
                 [
-                    "Argos",
-                    "884/8044",
-                    "884/8044",
-                    "Sony MHCV13 High Power Bluetooth Party Speaker",
-                    "319.00",
-                    "https://www.argos.co.uk/product/8848044?clickPR=plp:69:91",
-                    "Technology > Speakers > Wireless speakers",
-                    "Sony",
-                    "https://media.4rgos.it/s/Argos/8848044_R_SET?$Main768$&w=620&h=620",
-                    "0",
+                    "Very",
+                    "1600542124-sku23158595",
+                    "193575006437",
+                    "Google Nest Audio - Charcoal",
+                    "89.99",
+                    "https://www.very.co.uk/google-nest-audio-charcoal/1600542124.prd",
+                    "Speakers > Audio Speakers Smart",
+                    "Google",
+                    "https://media.very.co.uk/i/very/R9R7A_SQ1_0000000071_CHARCOAL_SLf",
+                    "3.99",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7205235331610567
+                ],
+                [
+                    "Very",
+                    "1600542123-sku23158596",
+                    "193575006420",
+                    "Google Nest Audio - Chalk - White",
+                    "89.99",
+                    "https://www.very.co.uk/google-nest-audio-chalk/1600542123.prd",
+                    "Speakers > Audio Speakers Smart",
+                    "Google",
+                    "https://media.very.co.uk/i/very/R9R7C_SQ1_0000000013_WHITE_SLf",
+                    "3.99",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6519651731574968
+                ],
+                [
+                    "AppliancesDirect",
+                    "GA00781-GB",
+                    "ga00781-gb",
+                    "Google Nest Mini 2nd Gen - Charcoal",
+                    "24.97",
+                    "https://www.appliancesdirect.co.uk/p/ga00781-gb/google-ga00781gb-smart-speaker",
+                    "HiFi and Home Cinema > Smart Speakers > Google",
+                    "Google",
+                    "https://www.appliancesdirect.co.uk/Images/GA00781-GB_1_LargeProductImage.jpg",
+                    "4.99",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.8206762806389277
+                    0.6021456795614661
                 ],
                 [
-                    "AppliancesDirect",
-                    "HTA5000CEK",
-                    "hta5000cek",
-                    "Sony HTA5000CEK Sound Bar",
-                    "899",
-                    "https://www.appliancesdirect.co.uk/p/hta5000cek/sony-hta5000cek-hta-soundbar-speaker",
-                    "HiFi and Home Cinema > Soundbar Speakers > Sony",
-                    "Sony",
-                    "https://www.appliancesdirect.co.uk/Images/HTA5000CEK_1_Classic.png",
-                    "0.0",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.8191689725639058
-                ],
-                [
-                    "Argos",
-                    "884/8082",
-                    "884/8082",
-                    "Sony MHCV73D High Power Bluetooth Party Speaker",
-                    "629.00",
-                    "https://www.argos.co.uk/product/8848082?clickPR=plp:68:91",
-                    "Technology > Speakers > Wireless speakers",
-                    "Sony",
-                    "https://media.4rgos.it/s/Argos/8848082_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.8190766460559773
-                ],
-                [
-                    "AppliancesDirect",
-                    "HTA3000CEK",
-                    "hta3000cek",
-                    "SONY HTA3000CEK 3.1 ch Soundbar  Black",
-                    "454",
-                    "https://www.appliancesdirect.co.uk/p/hta3000cek/sony-hta3000cek-hta-soundbar-speaker",
-                    "HiFi and Home Cinema > Soundbar Speakers > Sony",
-                    "Sony",
-                    "https://www.appliancesdirect.co.uk/Images/HTA3000CEK_1_LargeProductImage.png",
-                    "0.0",
-                    "0",
+                    "Very",
+                    "1600412341-sku22009890",
+                    "193575000787",
+                    "Google Nest Mini Chalk - Multi",
+                    "49",
+                    "https://www.very.co.uk/google-nestnbspmininbspchalk/1600412341.prd",
+                    "Speakers > Audio Speakers Smart",
+                    "Google",
+                    "https://media.very.co.uk/i/very/PM9VG_SQ1_0000000029_MULTI_SLf",
+                    "3.99",
+                    "1",
                     ""
                 ]
             ]
@@ -7777,119 +5892,6 @@ dic_ = {
             ]
         ]
     ],
-    "Stoves SDW60 Fully Integrated Standard Dishwasher - Silver Control Panel with Fixed Door Fixing Kit - D Rated---https://media.ao.com/en-GB/Productimages/Images/rvMedium/b6ects6rt85fysobcawtby-stoves_sdw60_bk_01_m_p.jpg": [
-        [
-            "AO",
-            "42961",
-            "sdw60_bk",
-            "Stoves SDW60 Fully Integrated Standard Dishwasher - Silver Control Panel with Fixed Door Fixing Kit - D Rated",
-            "449.00",
-            "https://ao.com/product/sdw60-stoves-standard-dishwasher-silver-42961-23.aspx",
-            "Standard Dishwashers",
-            "Stoves",
-            "https://media.ao.com/en-GB/Productimages/Images/rvMedium/b6ects6rt85fysobcawtby-stoves_sdw60_bk_01_m_p.jpg",
-            "0",
-            "",
-            ""
-        ],
-        [
-            [
-                [
-                    0.7398744623887445
-                ],
-                [
-                    "Currys",
-                    "361251",
-                    "361251",
-                    "LOGIK LID45W22 Slimline Fully Integrated Dishwasher",
-                    "229.00",
-                    "https://www.currys.co.uk/products/logik-lid45w22-slimline-fully-integrated-dishwasher-10240547.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "LOGIK",
-                    "https://media.currys.biz/i/currysprod/10240547?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7249474400611994
-                ],
-                [
-                    "AppliancesDirect",
-                    "SMS2HKI66G",
-                    "sms2hki66g",
-                    "Bosch Series 2 12 Place Settings Freestanding Dishwasher - Silver",
-                    "509",
-                    "https://www.appliancesdirect.co.uk/p/sms2hki66g/bosch-sms2hki66g-serie-2-freestanding-dishwasher",
-                    "Dishwashers > Dishwashers > Bosch",
-                    "Bosch",
-                    "https://www.appliancesdirect.co.uk/Images/SMS2HKI66G_1_LargeProductImage.png",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7246899136132077
-                ],
-                [
-                    "Currys",
-                    "361252",
-                    "361252",
-                    "LOGIK LID60W22 Full-size Fully Integrated Dishwasher",
-                    "249.00",
-                    "https://www.currys.co.uk/products/logik-lid60w22-fullsize-fully-integrated-dishwasher-10240548.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "LOGIK",
-                    "https://media.currys.biz/i/currysprod/10240548?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7112560855778944
-                ],
-                [
-                    "Argos",
-                    "113/9602",
-                    "113/9602",
-                    "Beko DIN59420D Integrated Full Size Dishwasher Home Delivery",
-                    "590.00",
-                    "https://www.argos.co.uk/product/1139602?clickPR=plp:25:27",
-                    "Appliances > Built in appliances > Integrated dishwashers",
-                    "Beko",
-                    "https://media.4rgos.it/s/Argos/1139602_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.6960289887192126
-                ],
-                [
-                    "Currys",
-                    "609606",
-                    "609606",
-                    "HOOVER H-Dish 300 HDIN 2L360PB-80 Full-size Fully Integrated WiFi-enabled Dishwasher",
-                    "359.00",
-                    "https://www.currys.co.uk/products/hoover-hdish-300-hdin-2l360pb80-fullsize-fully-integrated-wifienabled-dishwasher-10204846.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "HOOVER",
-                    "https://media.currys.biz/i/currysprod/10204846?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ]
-        ]
-    ],
     "AEG FFE83700PM Standard Dishwasher - Stainless Steel - D Rated---https://media.ao.com/en-GB/Productimages/Images/rvMedium/6qxjkeyxhwfachi5ir1tdb-aeg_ffe83700pm_ss_01_m_p.jpg": [
         [
             "AO",
@@ -7906,63 +5908,6 @@ dic_ = {
             ""
         ],
         [
-            [
-                [
-                    0.7483759205695203
-                ],
-                [
-                    "Currys",
-                    "713463",
-                    "713463",
-                    "AMICA ADI650 Full-size Fully Integrated Dishwasher",
-                    "399.00",
-                    "https://www.currys.co.uk/products/amica-adi650-fullsize-fully-integrated-dishwasher-10214070.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214070?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.737379100399365
-                ],
-                [
-                    "Currys",
-                    "760081",
-                    "760081",
-                    "AMICA ADI430 Slimline Fully Integrated Dishwasher",
-                    "319.00",
-                    "https://www.currys.co.uk/products/amica-adi430-slimline-fully-integrated-dishwasher-10214077.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214077?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7296421791713003
-                ],
-                [
-                    "Currys",
-                    "743521",
-                    "743521",
-                    "AMICA ADI460 Slimline Fully Integrated Dishwasher",
-                    "379.00",
-                    "https://www.currys.co.uk/products/amica-adi460-slimline-fully-integrated-dishwasher-10214073.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214073?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
             [
                 [
                     0.687489795151558
@@ -7984,19 +5929,76 @@ dic_ = {
             ],
             [
                 [
-                    0.6857768329611369
+                    0.679755850475942
                 ],
                 [
                     "Currys",
-                    "783629",
-                    "783629",
-                    "HAIER XIB 3B2SFS-80 Full-size Fully Integrated WiFi-enabled Dishwasher",
-                    "669.00",
-                    "https://www.currys.co.uk/products/haier-xib-3b2sfs80-fullsize-fully-integrated-wifienabled-dishwasher-10243769.html",
+                    "787837",
+                    "787837",
+                    "AEG SatelliteClean FSE62407P Slimline Fully Integrated Dishwasher",
+                    "502.00",
+                    "https://www.currys.co.uk/products/aeg-satelliteclean-fse62407p-slimline-fully-integrated-dishwasher-10214078.html",
                     "Appliances > Dishwashers > All dishwashers",
-                    "HAIER",
-                    "https://media.currys.biz/i/currysprod/10243769?$l-large$&fmt=auto",
+                    "AEG",
+                    "https://media.currys.biz/i/currysprod/10214078?$l-large$&fmt=auto",
                     "0.00",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6729105394740975
+                ],
+                [
+                    "Currys",
+                    "709821",
+                    "709821",
+                    "AEG SatelliteClean FSE72507P Slimline Fully Integrated Dishwasher",
+                    "679.00",
+                    "https://www.currys.co.uk/products/aeg-satelliteclean-fse72507p-slimline-fully-integrated-dishwasher-10215039.html",
+                    "Appliances > Dishwashers > All dishwashers",
+                    "AEG",
+                    "https://media.currys.biz/i/currysprod/10215039?$l-large$&fmt=auto",
+                    "0.00",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6694491234045103
+                ],
+                [
+                    "AppliancesDirect",
+                    "FSE62407P",
+                    "fse62407p",
+                    "AEG 9 Place Settings Fully Integrated Dishwasher",
+                    "509",
+                    "https://www.appliancesdirect.co.uk/p/fse62407p/aeg-fse62407p-slimline-fully-integrated-dishwasher",
+                    "Dishwashers > Dishwashers > AEG",
+                    "AEG",
+                    "https://www.appliancesdirect.co.uk/Images/FSE62407P_1_LargeProductImage.jpg",
+                    "0.0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6640876787804257
+                ],
+                [
+                    "AppliancesDirect",
+                    "FSS63607P",
+                    "fss63607p",
+                    "AEG 13 Place Settings Fully Integrated Dishwasher",
+                    "739",
+                    "https://www.appliancesdirect.co.uk/p/fss63607p/aeg-fss63607p-appliances-fully-integrated-dishwasher",
+                    "Dishwashers > Dishwashers > AEG",
+                    "AEG",
+                    "https://www.appliancesdirect.co.uk/Images/FSS63607P_1_LargeProductImage.jpg",
+                    "0.0",
                     "",
                     ""
                 ]
@@ -8019,63 +6021,6 @@ dic_ = {
             ""
         ],
         [
-            [
-                [
-                    0.7726617992943692
-                ],
-                [
-                    "Currys",
-                    "713463",
-                    "713463",
-                    "AMICA ADI650 Full-size Fully Integrated Dishwasher",
-                    "399.00",
-                    "https://www.currys.co.uk/products/amica-adi650-fullsize-fully-integrated-dishwasher-10214070.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214070?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7685746173533604
-                ],
-                [
-                    "Currys",
-                    "760081",
-                    "760081",
-                    "AMICA ADI430 Slimline Fully Integrated Dishwasher",
-                    "319.00",
-                    "https://www.currys.co.uk/products/amica-adi430-slimline-fully-integrated-dishwasher-10214077.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214077?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7419519858905195
-                ],
-                [
-                    "Currys",
-                    "743521",
-                    "743521",
-                    "AMICA ADI460 Slimline Fully Integrated Dishwasher",
-                    "379.00",
-                    "https://www.currys.co.uk/products/amica-adi460-slimline-fully-integrated-dishwasher-10214073.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214073?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
             [
                 [
                     0.7131278615693206
@@ -8113,6 +6058,63 @@ dic_ = {
                     "",
                     ""
                 ]
+            ],
+            [
+                [
+                    0.7015356914467953
+                ],
+                [
+                    "AppliancesDirect",
+                    "FSE62407P",
+                    "fse62407p",
+                    "AEG 9 Place Settings Fully Integrated Dishwasher",
+                    "509",
+                    "https://www.appliancesdirect.co.uk/p/fse62407p/aeg-fse62407p-slimline-fully-integrated-dishwasher",
+                    "Dishwashers > Dishwashers > AEG",
+                    "AEG",
+                    "https://www.appliancesdirect.co.uk/Images/FSE62407P_1_LargeProductImage.jpg",
+                    "0.0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6991733924602694
+                ],
+                [
+                    "AppliancesDirect",
+                    "FSS53907Z",
+                    "fss53907z",
+                    "AEG 14 Place Settings Fully Integrated Dishwasher",
+                    "660",
+                    "https://www.appliancesdirect.co.uk/p/fss53907z/aeg-fss53907z-built-in-dishwasher",
+                    "Dishwashers > Dishwashers > AEG",
+                    "AEG",
+                    "https://www.appliancesdirect.co.uk/Images/FSS53907Z_1_LargeProductImage.jpg",
+                    "0.0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6954704019908438
+                ],
+                [
+                    "Currys",
+                    "501144",
+                    "501144",
+                    "AEG AirDry Technology FSS63607P Full-sizeFully Integrated Dishwasher",
+                    "784.00",
+                    "https://www.currys.co.uk/products/aeg-airdry-technology-fss63607p-fullsize%C2%A0fully-integrated-dishwasher-10195291.html",
+                    "Appliances > Dishwashers > All dishwashers",
+                    "AEG",
+                    "https://media.currys.biz/i/currysprod/10195291?$l-large$&fmt=auto",
+                    "0.00",
+                    "",
+                    ""
+                ]
             ]
         ]
     ],
@@ -8134,44 +6136,6 @@ dic_ = {
         [
             [
                 [
-                    0.7325094501853218
-                ],
-                [
-                    "Argos",
-                    "890/7363",
-                    "890/7363",
-                    "Bush DW12SAE Full Size Integrated Dishwasher - White Home Delivery",
-                    "275.00",
-                    "https://www.argos.co.uk/product/8907363?clickPR=plp:6:27",
-                    "Appliances > Dishwashers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/8907363_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.727257507152614
-                ],
-                [
-                    "AppliancesDirect",
-                    "SN658D01NG",
-                    "sn658d01ng",
-                    "Siemens SN658D01NG iQ500 13 Place Fully Integrated Dishwasher With Cutlery Tray",
-                    "0",
-                    "https://www.appliancesdirect.co.uk/p/sn658d01ng/siemens-sn658d01ng-built-in-dishwasher",
-                    "Dishwashers > Dishwashers > Siemens",
-                    "Siemens",
-                    "https://www.appliancesdirect.co.uk/Images/SN658D01NG_2_LargeProductImage.jpg",
-                    "24.95",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7267128356038395
                 ],
                 [
@@ -8184,25 +6148,6 @@ dic_ = {
                     "Dishwashers > Dishwashers > Samsung",
                     "Samsung",
                     "https://www.appliancesdirect.co.uk/Images/DW60R7040FW_1_LargeProductImage.png",
-                    "24.95",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7262122310657846
-                ],
-                [
-                    "AppliancesDirect",
-                    "SN658D00MG",
-                    "sn658d00mg",
-                    "Siemens Integrated Dishwasher",
-                    "0",
-                    "https://www.appliancesdirect.co.uk/p/sn658d00mg/siemens-sn658d00mg-built-in-dishwasher",
-                    "Dishwashers > Dishwashers > Siemens",
-                    "Siemens",
-                    "https://www.appliancesdirect.co.uk/Images/A2SN658D00MG_1_LargeProductImage.jpg",
                     "24.95",
                     "0",
                     ""
@@ -8223,6 +6168,63 @@ dic_ = {
                     "Samsung",
                     "https://media.4rgos.it/s/Argos/9567915_R_SET?$Main768$&w=620&h=620",
                     "0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7146768484350997
+                ],
+                [
+                    "Argos",
+                    "727/2972",
+                    "727/2972",
+                    "Samsung Series 6 DW60M6050FS Full Size Dishwasher - Silver  Home Delivery",
+                    "549.00",
+                    "https://www.argos.co.uk/product/7272972?clickPR=plp:34:58",
+                    "Appliances > Dishwashers",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/7272972_R_SET?$Main768$&w=620&h=620",
+                    "0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7054391979907414
+                ],
+                [
+                    "AppliancesDirect",
+                    "DW60M5050FS",
+                    "dw60m5050fs",
+                    "Samsung Freestanding Dishwasher - Silver",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/dw60m5050fs/samsung-dw60m5050fs-5-series-freestanding-dishwasher",
+                    "Dishwashers > Dishwashers > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/DW60M5050FS_1_LargeProductImage.jpg",
+                    "24.95",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7019321454565113
+                ],
+                [
+                    "AppliancesDirect",
+                    "DW60A8060BB",
+                    "dw60a8060bb",
+                    "Samsung Series 11 14 Place Settings Fully Integrated Dishwasher",
+                    "978.97",
+                    "https://www.appliancesdirect.co.uk/p/dw60a8060bb/samsung-dw60a8060bb-series-11-fully-integrated-dishwasher",
+                    "Dishwashers > Dishwashers > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/DW60A8060BB_1_LargeProductImage.jpg",
+                    "24.95",
                     "",
                     ""
                 ]
@@ -8247,95 +6249,95 @@ dic_ = {
         [
             [
                 [
-                    0.8290122992302983
+                    0.685913748882611
                 ],
                 [
-                    "Argos",
-                    "890/7363",
-                    "890/7363",
-                    "Bush DW12SAE Full Size Integrated Dishwasher - White Home Delivery",
-                    "275.00",
-                    "https://www.argos.co.uk/product/8907363?clickPR=plp:6:27",
-                    "Appliances > Dishwashers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/8907363_R_SET?$Main768$&w=620&h=620",
+                    "AppliancesDirect",
+                    "ZDI26022XA",
+                    "zdi26022xa",
+                    "Zanussi ZDI26022XA 13 Place Semi-Integrated Dishwasher - Stainless Steel Control Panel",
                     "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.8091723024088178
-                ],
-                [
-                    "Argos",
-                    "933/2755",
-                    "933/2755",
-                    "Bush DW9SLSAEINTW Integrated Slimline Dishwasher - White Home Delivery",
-                    "265.00",
-                    "https://www.argos.co.uk/product/9332755?clickPR=plp:36:76",
-                    "Appliances > Dishwashers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/9332755_R_SET?$Main768$&w=620&h=620",
+                    "https://www.appliancesdirect.co.uk/p/zdi26022xa/zanussi-zdi26022xa-semi-integrated-dishwasher",
+                    "Dishwashers > Dishwashers > Zanussi",
+                    "Zanussi",
+                    "https://www.appliancesdirect.co.uk/Images/ZDI26022XA_1_LargeProductImage.jpg",
+                    "24.95",
                     "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6528749540647919
+                ],
+                [
+                    "AppliancesDirect",
+                    "ZSLN1211",
+                    "zsln1211",
+                    "Zanussi 9 Place Settings Fully Integrated Dishwasher",
+                    "449",
+                    "https://www.appliancesdirect.co.uk/p/zsln1211/zanussi-zsln1211-slimline-built-in-dishwasher",
+                    "Dishwashers > Dishwashers > Zanussi",
+                    "Zanussi",
+                    "https://www.appliancesdirect.co.uk/Images/ZSLN1211_1_LargeProductImage.jpg",
+                    "24.95",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.7556520042302646
+                    0.634052847120709
                 ],
                 [
-                    "Currys",
-                    "713463",
-                    "713463",
-                    "AMICA ADI650 Full-size Fully Integrated Dishwasher",
-                    "399.00",
-                    "https://www.currys.co.uk/products/amica-adi650-fullsize-fully-integrated-dishwasher-10214070.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214070?$l-large$&fmt=auto",
-                    "0.00",
+                    "AppliancesDirect",
+                    "ZDLN1512",
+                    "zdln1512",
+                    "Zanussi 13 Place Settings Fully Integrated Dishwasher",
+                    "451",
+                    "https://www.appliancesdirect.co.uk/p/zdln1512/zanussi-zdln1512-series-20-fully-integrated-dishwasher",
+                    "Dishwashers > Dishwashers > Zanussi",
+                    "Zanussi",
+                    "https://www.appliancesdirect.co.uk/Images/ZDLN1512_1_LargeProductImage.png",
+                    "24.95",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.7549139270980862
+                    0.6247501045183796
                 ],
                 [
-                    "Argos",
-                    "113/9602",
-                    "113/9602",
-                    "Beko DIN59420D Integrated Full Size Dishwasher Home Delivery",
-                    "590.00",
-                    "https://www.argos.co.uk/product/1139602?clickPR=plp:25:27",
-                    "Appliances > Built in appliances > Integrated dishwashers",
-                    "Beko",
-                    "https://media.4rgos.it/s/Argos/1139602_R_SET?$Main768$&w=620&h=620",
-                    "0",
+                    "AppliancesDirect",
+                    "ZDM17301WA",
+                    "zdm17301wa",
+                    "Zanussi Freestanding Table Top Dishwasher - White",
+                    "381",
+                    "https://www.appliancesdirect.co.uk/p/zdm17301wa/zanussi-zdm17301wa-freestanding-dishwasher",
+                    "Dishwashers > Dishwashers > Zanussi",
+                    "Zanussi",
+                    "https://www.appliancesdirect.co.uk/Images/ZDM17301WA_1_LargeProductImage.jpg",
+                    "24.95",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.7414896427322046
+                    0.6200699586742142
                 ],
                 [
-                    "Currys",
-                    "760081",
-                    "760081",
-                    "AMICA ADI430 Slimline Fully Integrated Dishwasher",
-                    "319.00",
-                    "https://www.currys.co.uk/products/amica-adi430-slimline-fully-integrated-dishwasher-10214077.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214077?$l-large$&fmt=auto",
-                    "0.00",
+                    "AppliancesDirect",
+                    "ZDLN2621",
+                    "zdln2621",
+                    "Zanussi 14 Place Settings Fully Integrated Dishwasher",
+                    "492",
+                    "https://www.appliancesdirect.co.uk/p/zdln2621/zanussi-zdln2621-fully-integrated-dishwasher",
+                    "Dishwashers > Dishwashers > Zanussi",
+                    "Zanussi",
+                    "https://www.appliancesdirect.co.uk/Images/ZDLN2621_1_LargeProductImage.jpg",
+                    "24.95",
                     "",
                     ""
                 ]
@@ -8360,18 +6362,18 @@ dic_ = {
         [
             [
                 [
-                    0.7662507767483797
+                    0.6980405759178291
                 ],
                 [
                     "AppliancesDirect",
-                    "SN658D01NG",
-                    "sn658d01ng",
-                    "Siemens SN658D01NG iQ500 13 Place Fully Integrated Dishwasher With Cutlery Tray",
+                    "DW60R7040FW",
+                    "dw60r7040fw",
+                    "Samsung Freestanding Dishwasher - White",
                     "0",
-                    "https://www.appliancesdirect.co.uk/p/sn658d01ng/siemens-sn658d01ng-built-in-dishwasher",
-                    "Dishwashers > Dishwashers > Siemens",
-                    "Siemens",
-                    "https://www.appliancesdirect.co.uk/Images/SN658D01NG_2_LargeProductImage.jpg",
+                    "https://www.appliancesdirect.co.uk/p/dw60r7040fw/samsung-dw60r7040fw-7-series-freestanding-dishwasher",
+                    "Dishwashers > Dishwashers > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/DW60R7040FW_1_LargeProductImage.png",
                     "24.95",
                     "0",
                     ""
@@ -8379,18 +6381,18 @@ dic_ = {
             ],
             [
                 [
-                    0.7650421048108791
+                    0.6750148853896276
                 ],
                 [
                     "Argos",
-                    "890/7363",
-                    "890/7363",
-                    "Bush DW12SAE Full Size Integrated Dishwasher - White Home Delivery",
-                    "275.00",
-                    "https://www.argos.co.uk/product/8907363?clickPR=plp:6:27",
+                    "956/7915",
+                    "956/7915",
+                    "Samsung DW60M5050FS/EU Full Size Dishwasher - Silver Home Delivery",
+                    "499.00",
+                    "https://www.argos.co.uk/product/9567915?clickPR=plp:1:56",
                     "Appliances > Dishwashers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/8907363_R_SET?$Main768$&w=620&h=620",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/9567915_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -8398,58 +6400,58 @@ dic_ = {
             ],
             [
                 [
-                    0.7614787605695144
+                    0.6679863828139265
                 ],
                 [
                     "AppliancesDirect",
-                    "SN658D00MG",
-                    "sn658d00mg",
-                    "Siemens Integrated Dishwasher",
-                    "0",
-                    "https://www.appliancesdirect.co.uk/p/sn658d00mg/siemens-sn658d00mg-built-in-dishwasher",
-                    "Dishwashers > Dishwashers > Siemens",
-                    "Siemens",
-                    "https://www.appliancesdirect.co.uk/Images/A2SN658D00MG_1_LargeProductImage.jpg",
+                    "DW60A8060BB",
+                    "dw60a8060bb",
+                    "Samsung Series 11 14 Place Settings Fully Integrated Dishwasher",
+                    "978.97",
+                    "https://www.appliancesdirect.co.uk/p/dw60a8060bb/samsung-dw60a8060bb-series-11-fully-integrated-dishwasher",
+                    "Dishwashers > Dishwashers > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/DW60A8060BB_1_LargeProductImage.jpg",
                     "24.95",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7543522631399451
-                ],
-                [
-                    "Currys",
-                    "713463",
-                    "713463",
-                    "AMICA ADI650 Full-size Fully Integrated Dishwasher",
-                    "399.00",
-                    "https://www.currys.co.uk/products/amica-adi650-fullsize-fully-integrated-dishwasher-10214070.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214070?$l-large$&fmt=auto",
-                    "0.00",
                     "",
                     ""
                 ]
             ],
             [
                 [
-                    0.7474268883236768
+                    0.6631097966005327
                 ],
                 [
                     "Argos",
-                    "933/2755",
-                    "933/2755",
-                    "Bush DW9SLSAEINTW Integrated Slimline Dishwasher - White Home Delivery",
-                    "265.00",
-                    "https://www.argos.co.uk/product/9332755?clickPR=plp:36:76",
+                    "727/2972",
+                    "727/2972",
+                    "Samsung Series 6 DW60M6050FS Full Size Dishwasher - Silver  Home Delivery",
+                    "549.00",
+                    "https://www.argos.co.uk/product/7272972?clickPR=plp:34:58",
                     "Appliances > Dishwashers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/9332755_R_SET?$Main768$&w=620&h=620",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/7272972_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6510861454235448
+                ],
+                [
+                    "AppliancesDirect",
+                    "DW60M5050FS",
+                    "dw60m5050fs",
+                    "Samsung Freestanding Dishwasher - Silver",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/dw60m5050fs/samsung-dw60m5050fs-5-series-freestanding-dishwasher",
+                    "Dishwashers > Dishwashers > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/DW60M5050FS_1_LargeProductImage.jpg",
+                    "24.95",
+                    "0",
                     ""
                 ]
             ]
@@ -8473,18 +6475,37 @@ dic_ = {
         [
             [
                 [
-                    0.7745092099166884
+                    0.6741741536149458
+                ],
+                [
+                    "AppliancesDirect",
+                    "DW60M6070IB",
+                    "dw60m6070ib",
+                    "Samsung Series 6 14 Place Settings Fully Integrated Dishwasher",
+                    "629.97",
+                    "https://www.appliancesdirect.co.uk/p/dw60m6070ib/samsung-dw60m6070ib-appliances-fully-integrated-dishwasher",
+                    "Dishwashers > Dishwashers > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/A1DW60M6070IB_3_LargeProductImage.jpg",
+                    "24.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6029990344601963
                 ],
                 [
                     "Argos",
-                    "890/7363",
-                    "890/7363",
-                    "Bush DW12SAE Full Size Integrated Dishwasher - White Home Delivery",
-                    "275.00",
-                    "https://www.argos.co.uk/product/8907363?clickPR=plp:6:27",
+                    "956/7915",
+                    "956/7915",
+                    "Samsung DW60M5050FS/EU Full Size Dishwasher - Silver Home Delivery",
+                    "499.00",
+                    "https://www.argos.co.uk/product/9567915?clickPR=plp:1:56",
                     "Appliances > Dishwashers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/8907363_R_SET?$Main768$&w=620&h=620",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/9567915_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -8492,37 +6513,37 @@ dic_ = {
             ],
             [
                 [
-                    0.7640793858344697
+                    0.5980162840622275
                 ],
                 [
-                    "Currys",
-                    "713463",
-                    "713463",
-                    "AMICA ADI650 Full-size Fully Integrated Dishwasher",
-                    "399.00",
-                    "https://www.currys.co.uk/products/amica-adi650-fullsize-fully-integrated-dishwasher-10214070.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214070?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
+                    "Very",
+                    "1600585729-sku23626118",
+                    "8806090476563",
+                    "Samsung DW60M5050FS/EU Series 5 Freestanding Full Size Dishwasher, 13 Place Settings, Silver",
+                    "499",
+                    "https://www.very.co.uk/samsung-dw60m5050fseu-series-5-freestanding-full-size-dishwasher-13-place-settings-silver/1600585729.prd",
+                    "Dishwashers > Appliances Dishwasher Full-Size",
+                    "Samsung",
+                    "https://media.very.co.uk/i/very/RQMVR_SQ1_0000000035_SILVER_SLf",
+                    "0",
+                    "1",
                     ""
                 ]
             ],
             [
                 [
-                    0.7625767672526704
+                    0.5976922775462163
                 ],
                 [
                     "Argos",
-                    "933/2755",
-                    "933/2755",
-                    "Bush DW9SLSAEINTW Integrated Slimline Dishwasher - White Home Delivery",
-                    "265.00",
-                    "https://www.argos.co.uk/product/9332755?clickPR=plp:36:76",
+                    "727/2972",
+                    "727/2972",
+                    "Samsung Series 6 DW60M6050FS Full Size Dishwasher - Silver  Home Delivery",
+                    "549.00",
+                    "https://www.argos.co.uk/product/7272972?clickPR=plp:34:58",
                     "Appliances > Dishwashers",
-                    "Bush",
-                    "https://media.4rgos.it/s/Argos/9332755_R_SET?$Main768$&w=620&h=620",
+                    "Samsung",
+                    "https://media.4rgos.it/s/Argos/7272972_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -8530,39 +6551,20 @@ dic_ = {
             ],
             [
                 [
-                    0.7568609349727377
+                    0.5897472195767988
                 ],
                 [
-                    "Currys",
-                    "760081",
-                    "760081",
-                    "AMICA ADI430 Slimline Fully Integrated Dishwasher",
-                    "319.00",
-                    "https://www.currys.co.uk/products/amica-adi430-slimline-fully-integrated-dishwasher-10214077.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "AMICA",
-                    "https://media.currys.biz/i/currysprod/10214077?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7536916698017231
-                ],
-                [
-                    "Currys",
-                    "361251",
-                    "361251",
-                    "LOGIK LID45W22 Slimline Fully Integrated Dishwasher",
-                    "229.00",
-                    "https://www.currys.co.uk/products/logik-lid45w22-slimline-fully-integrated-dishwasher-10240547.html",
-                    "Appliances > Dishwashers > All dishwashers",
-                    "LOGIK",
-                    "https://media.currys.biz/i/currysprod/10240547?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
+                    "AppliancesDirect",
+                    "DW60M5050FS",
+                    "dw60m5050fs",
+                    "Samsung Freestanding Dishwasher - Silver",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/dw60m5050fs/samsung-dw60m5050fs-5-series-freestanding-dishwasher",
+                    "Dishwashers > Dishwashers > Samsung",
+                    "Samsung",
+                    "https://www.appliancesdirect.co.uk/Images/DW60M5050FS_1_LargeProductImage.jpg",
+                    "24.95",
+                    "0",
                     ""
                 ]
             ]
@@ -8699,25 +6701,6 @@ dic_ = {
         [
             [
                 [
-                    0.7430246824839826
-                ],
-                [
-                    "Currys",
-                    "362475",
-                    "362475",
-                    "XAVAX Donatore 111059 Nespresso Coffee Capsule Holder - Silver",
-                    "12.99",
-                    "https://www.currys.co.uk/products/xavax-donatore-111059-nespresso-coffee-capsule-holder-silver-10241790.html",
-                    "Appliances > Coffee machines > Coffee accessories",
-                    "XAVAX",
-                    "https://media.currys.biz/i/currysprod/10241790?$l-large$&fmt=auto",
-                    "0.00",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7257212815235955
                 ],
                 [
@@ -8731,25 +6714,6 @@ dic_ = {
                     "Melitta",
                     "https://media.4rgos.it/s/Argos/8099006_R_SET?$Main768$&w=620&h=620",
                     "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7219388777432365
-                ],
-                [
-                    "Currys",
-                    "362473",
-                    "362473",
-                    "XAVAX Pilastro 111227 Dolce Gusto Coffee Capsule Holder - Silver",
-                    "9.99",
-                    "https://www.currys.co.uk/products/xavax-pilastro-111227-dolce-gusto-coffee-capsule-holder-silver-10241788.html",
-                    "Appliances > Coffee machines > Coffee accessories",
-                    "XAVAX",
-                    "https://media.currys.biz/i/currysprod/10241788?$l-large$&fmt=auto",
-                    "0.00",
                     "",
                     ""
                 ]
@@ -8789,6 +6753,44 @@ dic_ = {
                     "https://media.4rgos.it/s/Argos/8099013_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7064227179841343
+                ],
+                [
+                    "Argos",
+                    "946/1293",
+                    "946/1293",
+                    "Melitta 1021-01 AromaFresh Filter Coffee Machine",
+                    "90.00",
+                    "https://www.argos.co.uk/product/9461293?clickPR=plp:54:108",
+                    "Appliances > Coffee machines",
+                    "Melitta",
+                    "https://media.4rgos.it/s/Argos/9461293_R_SET?$Main768$&w=620&h=620",
+                    "0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7053879267006715
+                ],
+                [
+                    "Very",
+                    "1600825206-sku25751622",
+                    "4006508210152",
+                    "Melitta Caffeo Solo Full Automatic Bean To Cup Coffee Machine",
+                    "424",
+                    "https://www.very.co.uk/melitta-caffeo-solo-full-automatic-bean-to-cup-coffee-machine/1600825206.prd",
+                    "Coffee Machines > Appliances Kitchen Coffee-Maker",
+                    "Melitta",
+                    "https://media.very.co.uk/i/very/VBRZR_SQ1_0000000099_N_A_SLf",
+                    "3.99",
+                    "1",
                     ""
                 ]
             ]
@@ -8944,25 +6946,6 @@ dic_ = {
             ],
             [
                 [
-                    0.8010168452958637
-                ],
-                [
-                    "Currys",
-                    "364768",
-                    "364768",
-                    "ARIETE Vintage ARPK6 Coffee Machine, Toaster & Kettle Bundle - Blue",
-                    "199.00",
-                    "https://www.currys.co.uk/products/ariete-vintage-arpk6-coffee-machine-toaster-and-kettle-bundle-blue-10244476.html",
-                    "Appliances > Coffee machines > All Coffee machines",
-                    "ARIETE",
-                    "https://www.currys.co.uk/on/demandware.static/-/Sites-dcg-master-catalog/default/dwb1d26e81/images/no-image-found.png",
-                    "0.00",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7966098111008189
                 ],
                 [
@@ -9017,6 +7000,25 @@ dic_ = {
                     "",
                     ""
                 ]
+            ],
+            [
+                [
+                    0.773924488842016
+                ],
+                [
+                    "Argos",
+                    "946/3727",
+                    "946/3727",
+                    "De'Longhi EC785.GY Dedica Espresso Coffee Machine Bundle",
+                    "190.00",
+                    "https://www.argos.co.uk/product/9463727?clickPR=plp:41:96",
+                    "Appliances > Coffee machines",
+                    "De'Longhi",
+                    "https://media.4rgos.it/s/Argos/9463727_R_SET?$Main768$&w=620&h=620",
+                    "0",
+                    "",
+                    ""
+                ]
             ]
         ]
     ],
@@ -9051,25 +7053,6 @@ dic_ = {
                     "De'Longhi",
                     "https://media.4rgos.it/s/Argos/3268564_R_SET?$Main768$&w=620&h=620",
                     "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7950152333738558
-                ],
-                [
-                    "Currys",
-                    "364768",
-                    "364768",
-                    "ARIETE Vintage ARPK6 Coffee Machine, Toaster & Kettle Bundle - Blue",
-                    "199.00",
-                    "https://www.currys.co.uk/products/ariete-vintage-arpk6-coffee-machine-toaster-and-kettle-bundle-blue-10244476.html",
-                    "Appliances > Coffee machines > All Coffee machines",
-                    "ARIETE",
-                    "https://www.currys.co.uk/on/demandware.static/-/Sites-dcg-master-catalog/default/dwb1d26e81/images/no-image-found.png",
-                    "0.00",
                     "",
                     ""
                 ]
@@ -9114,20 +7097,39 @@ dic_ = {
             ],
             [
                 [
-                    0.7292342284966709
+                    0.7279161630500908
                 ],
                 [
-                    "Currys",
-                    "362475",
-                    "362475",
-                    "XAVAX Donatore 111059 Nespresso Coffee Capsule Holder - Silver",
-                    "12.99",
-                    "https://www.currys.co.uk/products/xavax-donatore-111059-nespresso-coffee-capsule-holder-silver-10241790.html",
-                    "Appliances > Coffee machines > Coffee accessories",
-                    "XAVAX",
-                    "https://media.currys.biz/i/currysprod/10241790?$l-large$&fmt=auto",
-                    "0.00",
+                    "Argos",
+                    "112/3773",
+                    "112/3773",
+                    "De'Longhi ECAM370 Dinamica Plus Bean to Cup Coffee Machine",
+                    "950.00",
+                    "https://www.argos.co.uk/product/1123773?clickPR=plp:97:98",
+                    "Appliances > Coffee machines",
+                    "De'Longhi",
+                    "https://media.4rgos.it/s/Argos/1123773_R_SET?$Main768$&w=620&h=620",
                     "0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7151482564717992
+                ],
+                [
+                    "Argos",
+                    "433/7353",
+                    "433/7353",
+                    "De'Longhi La Specialista Arte Bean to Cup Coffee Machine",
+                    "530.00",
+                    "https://www.argos.co.uk/product/4337353?clickPR=plp:36:103",
+                    "Appliances > Coffee machines",
+                    "De'Longhi",
+                    "https://media.4rgos.it/s/Argos/4337353_R_SET?$Main768$&w=620&h=620",
+                    "0",
+                    "",
                     ""
                 ]
             ]
@@ -9453,19 +7455,19 @@ dic_ = {
             ],
             [
                 [
-                    0.7406694788013131
+                    0.7227027307771633
                 ],
                 [
-                    "Currys",
-                    "346814",
-                    "346814",
-                    "XAVAX 111167 Piccolo Vacuum Jug - Stainless Steel",
-                    "14.99",
-                    "https://www.currys.co.uk/products/xavax-111167-piccolo-vacuum-jug-stainless-steel-10230984.html",
-                    "Appliances > Coffee machines > Coffee accessories",
-                    "XAVAX",
-                    "https://media.currys.biz/i/currysprod/10230984?$l-large$&fmt=auto",
-                    "0.00",
+                    "AppliancesDirect",
+                    "6774466",
+                    "6774466",
+                    "Melitta Caffeo Solo Bean To Cup Coffee Machine - Silver Stripes",
+                    "209",
+                    "https://www.appliancesdirect.co.uk/p/6774466/melitta-6774466-caffeo-coffee-machine",
+                    "Kitchen Essentials > Coffee Machines > Melitta",
+                    "Melitta",
+                    "https://www.appliancesdirect.co.uk/Images/6774466_1_LargeProductImage.jpg",
+                    "2.99",
                     "",
                     ""
                 ]
@@ -9679,20 +7681,20 @@ dic_ = {
             ],
             [
                 [
-                    0.8449320641430791
+                    0.8436858724499348
                 ],
                 [
-                    "AppliancesDirect",
-                    "UKes1752",
-                    "ukes1752",
-                    "Liebherr Built-under Beverage Centre - Stainless Steel",
-                    "1999.97",
-                    "https://www.appliancesdirect.co.uk/p/ukes1752/liebherr-ukes1752-built-under-beverage-chiller",
-                    "Refrigeration > Fridges > Liebherr",
-                    "Liebherr",
-                    "https://www.appliancesdirect.co.uk/Images/UKes1752_1_LargeProductImage.jpg",
-                    "24.95",
+                    "Argos",
+                    "873/5889",
+                    "873/5889",
+                    "Beko CFG3582B Fridge Freezer - Black Home Delivery",
+                    "440.00",
+                    "https://www.argos.co.uk/product/8735889?clickPR=plp:59:222",
+                    "Appliances > Fridges and freezers > Fridge freezers",
+                    "Beko",
+                    "https://media.4rgos.it/s/Argos/8735889_R_SET?$Main768$&w=620&h=620",
                     "0",
+                    "",
                     ""
                 ]
             ]
@@ -9773,25 +7775,6 @@ dic_ = {
             ],
             [
                 [
-                    0.83480448001722
-                ],
-                [
-                    "AppliancesDirect",
-                    "UKes1752",
-                    "ukes1752",
-                    "Liebherr Built-under Beverage Centre - Stainless Steel",
-                    "1999.97",
-                    "https://www.appliancesdirect.co.uk/p/ukes1752/liebherr-ukes1752-built-under-beverage-chiller",
-                    "Refrigeration > Fridges > Liebherr",
-                    "Liebherr",
-                    "https://www.appliancesdirect.co.uk/Images/UKes1752_1_LargeProductImage.jpg",
-                    "24.95",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.8278913912693977
                 ],
                 [
@@ -9804,6 +7787,25 @@ dic_ = {
                     "Appliances > Fridges and freezers > Fridge freezers",
                     "Beko",
                     "https://media.4rgos.it/s/Argos/8773896_R_SET?$Main768$&w=620&h=620",
+                    "0",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.8231582496957601
+                ],
+                [
+                    "Argos",
+                    "112/1971",
+                    "112/1971",
+                    "Beko BLSD3577 Integrated Tall Fridge - White Home Delivery",
+                    "490.00",
+                    "https://www.argos.co.uk/product/1121971?clickPR=plp:55:61",
+                    "Appliances > Built in appliances > Integrated fridges",
+                    "Beko",
+                    "https://media.4rgos.it/s/Argos/1121971_R_SET?$Main768$&w=620&h=620",
                     "0",
                     "",
                     ""
@@ -9867,25 +7869,6 @@ dic_ = {
             ],
             [
                 [
-                    0.8041075584586559
-                ],
-                [
-                    "Currys",
-                    "347709",
-                    "347709",
-                    "KUHLA KTTF4BGB-1014 Mini Fridge - Black",
-                    "169.00",
-                    "https://www.currys.co.uk/products/kuhla-kttf4bgb1014-mini-fridge-black-10231787.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "KUHLA",
-                    "https://media.currys.biz/i/currysprod/10231787?$l-large$&fmt=auto",
-                    "0.00",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7915140661927048
                 ],
                 [
@@ -9905,20 +7888,39 @@ dic_ = {
             ],
             [
                 [
-                    0.7810793758351435
+                    0.7793259206724664
                 ],
                 [
                     "AppliancesDirect",
-                    "UKes1752",
-                    "ukes1752",
-                    "Liebherr Built-under Beverage Centre - Stainless Steel",
-                    "1999.97",
-                    "https://www.appliancesdirect.co.uk/p/ukes1752/liebherr-ukes1752-built-under-beverage-chiller",
-                    "Refrigeration > Fridges > Liebherr",
-                    "Liebherr",
-                    "https://www.appliancesdirect.co.uk/Images/UKes1752_1_LargeProductImage.jpg",
+                    "K7743E",
+                    "k7743e",
+                    "Miele 294 Litre In-column Integrated Fridge",
+                    "1898.97",
+                    "https://www.appliancesdirect.co.uk/p/k7743e/miele-k7743e--built-in-fridge",
+                    "Refrigeration > Fridges > Miele",
+                    "Miele",
+                    "https://www.appliancesdirect.co.uk/Images/K7743E_1_LargeProductImage.png",
                     "24.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7634647918686117
+                ],
+                [
+                    "Argos",
+                    "130/1904",
+                    "130/1904",
+                    "Miele KFN29142D Fridge Freezer - Stainless Steel",
+                    "799.00",
+                    "https://www.argos.co.uk/product/1301904?clickPR=plp:2:201",
+                    "Appliances > Fridges and freezers > Fridge freezers",
+                    "Miele",
+                    "https://media.4rgos.it/s/Argos/1301904_R_SET?$Main768$&w=620&h=620",
                     "0",
+                    "",
                     ""
                 ]
             ]
@@ -9942,82 +7944,6 @@ dic_ = {
         [
             [
                 [
-                    0.8109116984779858
-                ],
-                [
-                    "Argos",
-                    "124/2348",
-                    "124/2348",
-                    "Hoover HWCB 60 UK 46 Bottle Wine Cooler - Black",
-                    "730.00",
-                    "https://www.argos.co.uk/product/1242348?clickPR=plp:56:58",
-                    "Appliances > Fridges and freezers > Fridges",
-                    "Hoover",
-                    "https://media.4rgos.it/s/Argos/1242348_R_SET?$Main768$&w=620&h=620",
-                    "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.8022546958986729
-                ],
-                [
-                    "AppliancesDirect",
-                    "HU218",
-                    "hu218",
-                    "Husky 122 Litre Stella Drink Fridge - White",
-                    "386.97",
-                    "https://www.appliancesdirect.co.uk/p/hu218/husky-hu218-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU218_1_LargeProductImage.png",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.8019133913978183
-                ],
-                [
-                    "Currys",
-                    "644252",
-                    "644252",
-                    "HOOVER HWCB 60 UK/N Wine Cooler  Black",
-                    "629.00",
-                    "https://www.currys.co.uk/products/hoover-hwcb-60-ukn-wine-cooler-black-10219969.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "HOOVER",
-                    "https://media.currys.biz/i/currysprod/10219969?$l-large$&fmt=auto",
-                    "0.00",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7942201142354746
-                ],
-                [
-                    "Currys",
-                    "347709",
-                    "347709",
-                    "KUHLA KTTF4BGB-1014 Mini Fridge - Black",
-                    "169.00",
-                    "https://www.currys.co.uk/products/kuhla-kttf4bgb1014-mini-fridge-black-10231787.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "KUHLA",
-                    "https://media.currys.biz/i/currysprod/10231787?$l-large$&fmt=auto",
-                    "0.00",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.792330006316641
                 ],
                 [
@@ -10030,6 +7956,82 @@ dic_ = {
                     "Fridges > Appliances Refrigeration Fridge Tall",
                     "Swan",
                     "https://media.very.co.uk/i/very/UVSUQ_SQ1_0000000004_BLACK_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.776088958947153
+                ],
+                [
+                    "Very",
+                    "1600748410-sku25339994",
+                    "uvstj",
+                    "Swan SR15880B 50cm Wide, 146cm High Freestanding Low Frost-Fridge Freezer - Black",
+                    "269",
+                    "https://www.very.co.uk/swan-sr15880b-50cm-wide-146cm-high-freestanding-low-frost-fridge-freezer-black/1600748410.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSTJ_SQ1_0000000004_BLACK_SLf",
+                    "0",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7484944882995206
+                ],
+                [
+                    "Very",
+                    "1600748422-sku25343193",
+                    "uvst8",
+                    "Swan SR158110B 54cm Wide Freestanding Frost-Free Fridge Freezer - Black",
+                    "359",
+                    "https://www.very.co.uk/swan-sr158110b-54cm-wide-freestanding-frost-free-fridge-freezer-black/1600748422.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVST8_SQ1_0000000004_BLACK_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7377372819085214
+                ],
+                [
+                    "Very",
+                    "1600748398-sku25318093",
+                    "uvsta",
+                    "Swan SR158120W 54cm Wide, 183cm High Freestanding Frost-Free Fridge Freezer with Water Dispenser - White",
+                    "359",
+                    "https://www.very.co.uk/swan-sr158120w-54cm-widenbsp183cm-high-freestanding-frost-free-fridge-freezer-with-water-dispenser-white/1600748398.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSTA_SQ1_0000000013_WHITE_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7354466566979031
+                ],
+                [
+                    "Very",
+                    "1600748421-sku25318180",
+                    "uvstc",
+                    "Swan SR158120S 54cm Wide, 183cm High Freestanding Frost-Free Fridge Freezer with Water Dispenser - Silver",
+                    "369",
+                    "https://www.very.co.uk/swan-sr158120s-54cm-widenbsp183cm-high-freestanding-frost-free-fridge-freezer-with-water-dispensernbsp--silver/1600748421.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSTC_SQ1_0000000035_SILVER_SLf",
                     "0",
                     "1",
                     ""
@@ -10055,96 +8057,96 @@ dic_ = {
         [
             [
                 [
-                    0.7874246367797477
+                    0.7040072640751878
                 ],
                 [
-                    "Argos",
-                    "124/2348",
-                    "124/2348",
-                    "Hoover HWCB 60 UK 46 Bottle Wine Cooler - Black",
-                    "730.00",
-                    "https://www.argos.co.uk/product/1242348?clickPR=plp:56:58",
-                    "Appliances > Fridges and freezers > Fridges",
-                    "Hoover",
-                    "https://media.4rgos.it/s/Argos/1242348_R_SET?$Main768$&w=620&h=620",
+                    "Very",
+                    "1600517338-sku23328994",
+                    "qvha9",
+                    "Swan SR70181B 55cm Wide Under-Counter Freezer - Black",
+                    "169",
+                    "https://www.very.co.uk/swan-sr70181b-55cm-wide-under-counter-freezer-black/1600517338.prd",
+                    "Freezers > Appliances Refrigeration Freezer Under Counter",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/QVHA9_SQ1_0000000004_BLACK_SLf",
                     "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7817496790520162
-                ],
-                [
-                    "Currys",
-                    "644252",
-                    "644252",
-                    "HOOVER HWCB 60 UK/N Wine Cooler  Black",
-                    "629.00",
-                    "https://www.currys.co.uk/products/hoover-hwcb-60-ukn-wine-cooler-black-10219969.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "HOOVER",
-                    "https://media.currys.biz/i/currysprod/10219969?$l-large$&fmt=auto",
-                    "0.00",
                     "0",
                     ""
                 ]
             ],
             [
                 [
-                    0.7737838011349419
+                    0.7039984130118044
                 ],
                 [
-                    "AppliancesDirect",
-                    "KUL15AFF0G",
-                    "kul15aff0g",
-                    "Bosch Series 4 Under Counter Integrated Fridge With Icebox",
-                    "515",
-                    "https://www.appliancesdirect.co.uk/p/kul15aff0g/bosch-kul15aff0g-serie-6-integrated-fridge",
-                    "Refrigeration > Fridges > Bosch",
-                    "Bosch",
-                    "https://www.appliancesdirect.co.uk/Images/KUL15AFF0G_2_LargeProductImage.png",
-                    "24.95",
-                    "",
+                    "Very",
+                    "1600517341-sku23267038",
+                    "qvhc3",
+                    "Swan SR70201B 55cm Wide Under-Counter Larder Fridge - Black",
+                    "159",
+                    "https://www.very.co.uk/swan-sr70201b-55cmnbspwide-under-counter-larder-fridge-black/1600517341.prd",
+                    "Fridges > Appliances Refrigeration Fridge Under Counter",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/QVHC3_SQ1_0000000004_BLACK_SLf",
+                    "0",
+                    "0",
                     ""
                 ]
             ],
             [
                 [
-                    0.7710717013622463
+                    0.6934913046431335
                 ],
                 [
-                    "AppliancesDirect",
-                    "HU225",
-                    "hu225",
-                    "Husky 45.8 Litre Mini Fridge/Drinks Cooler - Budweiser",
-                    "211.97",
-                    "https://www.appliancesdirect.co.uk/p/hu225/husky-hu225-drinks-fridges-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU225_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
+                    "Very",
+                    "1600748415-sku25307322",
+                    "uvsuq",
+                    "Swan SR15860B 54cm Wide, 144cm High Freestanding Tall Larder Fridge - Black",
+                    "269",
+                    "https://www.very.co.uk/swan-sr15860b-54cm-wide-144cm-high-freestandingnbsptall-larder-fridge-black/1600748415.prd",
+                    "Fridges > Appliances Refrigeration Fridge Tall",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSUQ_SQ1_0000000004_BLACK_SLf",
+                    "0",
+                    "1",
                     ""
                 ]
             ],
             [
                 [
-                    0.7687479276143014
+                    0.6906440469431328
                 ],
                 [
-                    "Currys",
-                    "245707",
-                    "245707",
-                    "HUSKY Budweiser HUS-HU253 Drinks Cooler - Red",
-                    "149.00",
-                    "https://www.currys.co.uk/products/husky-budweiser-hushu253-drinks-cooler-red-10183088.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "HUSKY",
-                    "https://media.currys.biz/i/currysprod/10183088?$l-large$&fmt=auto",
-                    "0.00",
-                    "",
+                    "Very",
+                    "1600583599-sku23853219",
+                    "rpgqj",
+                    "Swan SR4176W 198L Chest Freezer - White",
+                    "199",
+                    "https://www.very.co.uk/swan-sr4176w-198l-chest-freezer-white/1600583599.prd",
+                    "Freezers > Appliances Refrigeration Freezer Chest",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/RPGQJ_SQ1_0000000013_WHITE_SLf",
+                    "0",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6895142329779018
+                ],
+                [
+                    "Very",
+                    "1600517336-sku23267041",
+                    "qvhay",
+                    "Swan SR70201W 55cm Wide Under-Counter Larder Fridge - White",
+                    "159",
+                    "https://www.very.co.uk/swan-sr70201wnbsp55cmnbspwide-under-counter-larder-fridge-white/1600517336.prd",
+                    "Fridges > Appliances Refrigeration Fridge Under Counter",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/QVHAY_SQ1_0000000013_WHITE_SLf",
+                    "0",
+                    "0",
                     ""
                 ]
             ]
@@ -10168,96 +8170,96 @@ dic_ = {
         [
             [
                 [
-                    0.8038808691976564
+                    0.7480618856496579
                 ],
                 [
-                    "Argos",
-                    "124/2348",
-                    "124/2348",
-                    "Hoover HWCB 60 UK 46 Bottle Wine Cooler - Black",
-                    "730.00",
-                    "https://www.argos.co.uk/product/1242348?clickPR=plp:56:58",
-                    "Appliances > Fridges and freezers > Fridges",
-                    "Hoover",
-                    "https://media.4rgos.it/s/Argos/1242348_R_SET?$Main768$&w=620&h=620",
+                    "Very",
+                    "1600583599-sku23853219",
+                    "rpgqj",
+                    "Swan SR4176W 198L Chest Freezer - White",
+                    "199",
+                    "https://www.very.co.uk/swan-sr4176w-198l-chest-freezer-white/1600583599.prd",
+                    "Freezers > Appliances Refrigeration Freezer Chest",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/RPGQJ_SQ1_0000000013_WHITE_SLf",
                     "0",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7983921231857121
-                ],
-                [
-                    "Currys",
-                    "644252",
-                    "644252",
-                    "HOOVER HWCB 60 UK/N Wine Cooler  Black",
-                    "629.00",
-                    "https://www.currys.co.uk/products/hoover-hwcb-60-ukn-wine-cooler-black-10219969.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "HOOVER",
-                    "https://media.currys.biz/i/currysprod/10219969?$l-large$&fmt=auto",
-                    "0.00",
                     "0",
                     ""
                 ]
             ],
             [
                 [
-                    0.7886120536069474
+                    0.7423572644835742
                 ],
                 [
-                    "AppliancesDirect",
-                    "HU225",
-                    "hu225",
-                    "Husky 45.8 Litre Mini Fridge/Drinks Cooler - Budweiser",
-                    "211.97",
-                    "https://www.appliancesdirect.co.uk/p/hu225/husky-hu225-drinks-fridges-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU225_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7871589012987358
-                ],
-                [
-                    "Currys",
-                    "347712",
-                    "347712",
-                    "KUHLA KTTF4BGB-1017 Mini Fridge - Black",
-                    "169.00",
-                    "https://www.currys.co.uk/products/kuhla-kttf4bgb1017-mini-fridge-black-10231790.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "KUHLA",
-                    "https://media.currys.biz/i/currysprod/10231790?$l-large$&fmt=auto",
-                    "0.00",
+                    "Very",
+                    "1600583600-sku23888908",
+                    "rpgqf",
+                    "Swan SR4156W 99L Chest Freezer - White",
+                    "149",
+                    "https://www.very.co.uk/swan-sr4156w-99l-chest-freezer-white/1600583600.prd",
+                    "Freezers > Appliances Refrigeration Freezer Chest",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/RPGQF_SQ1_0000000013_WHITE_SLf",
+                    "0",
                     "0",
                     ""
                 ]
             ],
             [
                 [
-                    0.7847946702014859
+                    0.7352194102990697
                 ],
                 [
-                    "Argos",
-                    "862/9713",
-                    "862/9713",
-                    "Husky Stella Artois 48 Litre Drinks Cooler - White",
-                    "160.00",
-                    "https://www.argos.co.uk/product/8629713?clickPR=plp:6:7",
-                    "Appliances > Fridges and freezers > Mini fridges",
-                    "Husky",
-                    "https://media.4rgos.it/s/Argos/8629713_R_SET?$Main768$&w=620&h=620",
+                    "Very",
+                    "1600583598-sku23782376",
+                    "rpgqg",
+                    "Swan SR4162W 142L Chest Freezer - White",
+                    "169",
+                    "https://www.very.co.uk/swan-sr4162w-142l-chest-freezer-white/1600583598.prd",
+                    "Freezers > Appliances Refrigeration Freezer Chest",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/RPGQG_SQ1_0000000013_WHITE_SLf",
                     "0",
-                    "",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.72188558271008
+                ],
+                [
+                    "Very",
+                    "1600748414-sku25318092",
+                    "uvsuw",
+                    "Swan SR15850S 54cm Wide Freestanding Under-Counter Freezer - Silver",
+                    "189",
+                    "https://www.very.co.uk/swan-sr15850s-54cm-wide-freestanding-under-counter-freezer-silver/1600748414.prd",
+                    "Freezers > Appliances Refrigeration Freezer Under Counter",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSUW_SQ1_0000000035_SILVER_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7153408813264756
+                ],
+                [
+                    "Very",
+                    "1600748398-sku25318093",
+                    "uvsta",
+                    "Swan SR158120W 54cm Wide, 183cm High Freestanding Frost-Free Fridge Freezer with Water Dispenser - White",
+                    "359",
+                    "https://www.very.co.uk/swan-sr158120w-54cm-widenbsp183cm-high-freestanding-frost-free-fridge-freezer-with-water-dispenser-white/1600748398.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSTA_SQ1_0000000013_WHITE_SLf",
+                    "0",
+                    "1",
                     ""
                 ]
             ]
@@ -10281,96 +8283,96 @@ dic_ = {
         [
             [
                 [
-                    0.8042944672086231
+                    0.7344203104041447
                 ],
                 [
-                    "Argos",
-                    "124/2348",
-                    "124/2348",
-                    "Hoover HWCB 60 UK 46 Bottle Wine Cooler - Black",
-                    "730.00",
-                    "https://www.argos.co.uk/product/1242348?clickPR=plp:56:58",
-                    "Appliances > Fridges and freezers > Fridges",
-                    "Hoover",
-                    "https://media.4rgos.it/s/Argos/1242348_R_SET?$Main768$&w=620&h=620",
+                    "Very",
+                    "1600748415-sku25307322",
+                    "uvsuq",
+                    "Swan SR15860B 54cm Wide, 144cm High Freestanding Tall Larder Fridge - Black",
+                    "269",
+                    "https://www.very.co.uk/swan-sr15860b-54cm-wide-144cm-high-freestandingnbsptall-larder-fridge-black/1600748415.prd",
+                    "Fridges > Appliances Refrigeration Fridge Tall",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSUQ_SQ1_0000000004_BLACK_SLf",
                     "0",
-                    "",
+                    "1",
                     ""
                 ]
             ],
             [
                 [
-                    0.7962106833512512
+                    0.7164888082396518
                 ],
                 [
-                    "Currys",
-                    "644252",
-                    "644252",
-                    "HOOVER HWCB 60 UK/N Wine Cooler  Black",
-                    "629.00",
-                    "https://www.currys.co.uk/products/hoover-hwcb-60-ukn-wine-cooler-black-10219969.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "HOOVER",
-                    "https://media.currys.biz/i/currysprod/10219969?$l-large$&fmt=auto",
-                    "0.00",
+                    "Very",
+                    "1600748410-sku25339994",
+                    "uvstj",
+                    "Swan SR15880B 50cm Wide, 146cm High Freestanding Low Frost-Fridge Freezer - Black",
+                    "269",
+                    "https://www.very.co.uk/swan-sr15880b-50cm-wide-146cm-high-freestanding-low-frost-fridge-freezer-black/1600748410.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSTJ_SQ1_0000000004_BLACK_SLf",
                     "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7830872360242003
-                ],
-                [
-                    "AppliancesDirect",
-                    "HU218",
-                    "hu218",
-                    "Husky 122 Litre Stella Drink Fridge - White",
-                    "386.97",
-                    "https://www.appliancesdirect.co.uk/p/hu218/husky-hu218-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU218_1_LargeProductImage.png",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7820398994434286
-                ],
-                [
-                    "Currys",
-                    "347709",
-                    "347709",
-                    "KUHLA KTTF4BGB-1014 Mini Fridge - Black",
-                    "169.00",
-                    "https://www.currys.co.uk/products/kuhla-kttf4bgb1014-mini-fridge-black-10231787.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "KUHLA",
-                    "https://media.currys.biz/i/currysprod/10231787?$l-large$&fmt=auto",
-                    "0.00",
                     "0",
                     ""
                 ]
             ],
             [
                 [
-                    0.7782825857799784
+                    0.7062272039651701
                 ],
                 [
-                    "AppliancesDirect",
-                    "HU225",
-                    "hu225",
-                    "Husky 45.8 Litre Mini Fridge/Drinks Cooler - Budweiser",
-                    "211.97",
-                    "https://www.appliancesdirect.co.uk/p/hu225/husky-hu225-drinks-fridges-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU225_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
+                    "Very",
+                    "1600583599-sku23853219",
+                    "rpgqj",
+                    "Swan SR4176W 198L Chest Freezer - White",
+                    "199",
+                    "https://www.very.co.uk/swan-sr4176w-198l-chest-freezer-white/1600583599.prd",
+                    "Freezers > Appliances Refrigeration Freezer Chest",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/RPGQJ_SQ1_0000000013_WHITE_SLf",
+                    "0",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6826967648819855
+                ],
+                [
+                    "Very",
+                    "1600748420-sku25318171",
+                    "5055784701099",
+                    "Swan SR158120B 54cm Wide, 183cm High Freestanding Frost-Free Fridge Freezer with Water Dispenser - Black",
+                    "369",
+                    "https://www.very.co.uk/swan-sr158120b-54cm-wide-183cm-high-freestanding-frost-free-fridge-freezer-with-water-dispenser-black/1600748420.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSTB_SQ1_0000000004_BLACK_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6822175353985234
+                ],
+                [
+                    "Very",
+                    "1600748422-sku25343193",
+                    "uvst8",
+                    "Swan SR158110B 54cm Wide Freestanding Frost-Free Fridge Freezer - Black",
+                    "359",
+                    "https://www.very.co.uk/swan-sr158110b-54cm-wide-freestanding-frost-free-fridge-freezer-black/1600748422.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVST8_SQ1_0000000004_BLACK_SLf",
+                    "0",
+                    "1",
                     ""
                 ]
             ]
@@ -10394,96 +8396,96 @@ dic_ = {
         [
             [
                 [
-                    0.8001229367780048
+                    0.7384700160327877
                 ],
                 [
-                    "Argos",
-                    "124/2348",
-                    "124/2348",
-                    "Hoover HWCB 60 UK 46 Bottle Wine Cooler - Black",
-                    "730.00",
-                    "https://www.argos.co.uk/product/1242348?clickPR=plp:56:58",
-                    "Appliances > Fridges and freezers > Fridges",
-                    "Hoover",
-                    "https://media.4rgos.it/s/Argos/1242348_R_SET?$Main768$&w=620&h=620",
+                    "Very",
+                    "1600748415-sku25307322",
+                    "uvsuq",
+                    "Swan SR15860B 54cm Wide, 144cm High Freestanding Tall Larder Fridge - Black",
+                    "269",
+                    "https://www.very.co.uk/swan-sr15860b-54cm-wide-144cm-high-freestandingnbsptall-larder-fridge-black/1600748415.prd",
+                    "Fridges > Appliances Refrigeration Fridge Tall",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSUQ_SQ1_0000000004_BLACK_SLf",
                     "0",
-                    "",
+                    "1",
                     ""
                 ]
             ],
             [
                 [
-                    0.7932073436764564
+                    0.7297420536785264
                 ],
                 [
-                    "Currys",
-                    "644252",
-                    "644252",
-                    "HOOVER HWCB 60 UK/N Wine Cooler  Black",
-                    "629.00",
-                    "https://www.currys.co.uk/products/hoover-hwcb-60-ukn-wine-cooler-black-10219969.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "HOOVER",
-                    "https://media.currys.biz/i/currysprod/10219969?$l-large$&fmt=auto",
-                    "0.00",
+                    "Very",
+                    "1600748410-sku25339994",
+                    "uvstj",
+                    "Swan SR15880B 50cm Wide, 146cm High Freestanding Low Frost-Fridge Freezer - Black",
+                    "269",
+                    "https://www.very.co.uk/swan-sr15880b-50cm-wide-146cm-high-freestanding-low-frost-fridge-freezer-black/1600748410.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSTJ_SQ1_0000000004_BLACK_SLf",
                     "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7857340498296007
-                ],
-                [
-                    "Currys",
-                    "347709",
-                    "347709",
-                    "KUHLA KTTF4BGB-1014 Mini Fridge - Black",
-                    "169.00",
-                    "https://www.currys.co.uk/products/kuhla-kttf4bgb1014-mini-fridge-black-10231787.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "KUHLA",
-                    "https://media.currys.biz/i/currysprod/10231787?$l-large$&fmt=auto",
-                    "0.00",
                     "0",
                     ""
                 ]
             ],
             [
                 [
-                    0.7783601883423927
+                    0.7115054314599865
                 ],
                 [
-                    "AppliancesDirect",
-                    "HU218",
-                    "hu218",
-                    "Husky 122 Litre Stella Drink Fridge - White",
-                    "386.97",
-                    "https://www.appliancesdirect.co.uk/p/hu218/husky-hu218-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU218_1_LargeProductImage.png",
-                    "24.95",
-                    "",
+                    "Very",
+                    "1600583599-sku23853219",
+                    "rpgqj",
+                    "Swan SR4176W 198L Chest Freezer - White",
+                    "199",
+                    "https://www.very.co.uk/swan-sr4176w-198l-chest-freezer-white/1600583599.prd",
+                    "Freezers > Appliances Refrigeration Freezer Chest",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/RPGQJ_SQ1_0000000013_WHITE_SLf",
+                    "0",
+                    "0",
                     ""
                 ]
             ],
             [
                 [
-                    0.7766916145835064
+                    0.6884684189398751
                 ],
                 [
-                    "AppliancesDirect",
-                    "HU225",
-                    "hu225",
-                    "Husky 45.8 Litre Mini Fridge/Drinks Cooler - Budweiser",
-                    "211.97",
-                    "https://www.appliancesdirect.co.uk/p/hu225/husky-hu225-drinks-fridges-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU225_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
+                    "Very",
+                    "1600748422-sku25343193",
+                    "uvst8",
+                    "Swan SR158110B 54cm Wide Freestanding Frost-Free Fridge Freezer - Black",
+                    "359",
+                    "https://www.very.co.uk/swan-sr158110b-54cm-wide-freestanding-frost-free-fridge-freezer-black/1600748422.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVST8_SQ1_0000000004_BLACK_SLf",
+                    "0",
+                    "1",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.6883066757483303
+                ],
+                [
+                    "Very",
+                    "1600748420-sku25318171",
+                    "5055784701099",
+                    "Swan SR158120B 54cm Wide, 183cm High Freestanding Frost-Free Fridge Freezer with Water Dispenser - Black",
+                    "369",
+                    "https://www.very.co.uk/swan-sr158120b-54cm-wide-183cm-high-freestanding-frost-free-fridge-freezer-with-water-dispenser-black/1600748420.prd",
+                    "Fridge Freezers > Appliances Refrigeration Fridge-Freezer",
+                    "Swan",
+                    "https://media.very.co.uk/i/very/UVSTB_SQ1_0000000004_BLACK_SLf",
+                    "0",
+                    "1",
                     ""
                 ]
             ]
@@ -10526,18 +8528,18 @@ dic_ = {
             ],
             [
                 [
-                    0.7993578213592889
+                    0.7598546994555195
                 ],
                 [
                     "AppliancesDirect",
-                    "RTB515E1AW",
-                    "rtb515e1aw",
-                    "AEG 145 Litre Freestanding Under Counter Larder Fridge - White",
-                    "384",
-                    "https://www.appliancesdirect.co.uk/p/rtb515e1aw/aeg-rtb515e1aw-3000-series-freestanding-fridge",
-                    "Refrigeration > Fridges > AEG",
-                    "AEG",
-                    "https://www.appliancesdirect.co.uk/Images/RTB515E1AW_2_LargeProductImage.png",
+                    "FM0613",
+                    "fm0613",
+                    "Amica 47 Litre Tabletop Fridge With Icebox - White",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/fm0613/amica-fm0613-freestanding-fridge",
+                    "Refrigeration > Fridges > Amica",
+                    "Amica",
+                    "https://www.appliancesdirect.co.uk/Images/FM061.3_1_LargeProductImage.jpg",
                     "24.95",
                     "0",
                     ""
@@ -10545,57 +8547,19 @@ dic_ = {
             ],
             [
                 [
-                    0.7865536230257604
+                    0.6926473063181968
                 ],
                 [
                     "AppliancesDirect",
-                    "HU231",
-                    "hu231",
-                    "Husky 42 Litre Rubiks Cube Table Top Chiller",
-                    "186.97",
-                    "https://www.appliancesdirect.co.uk/p/hu231/husky-hu231-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU231_1_LargeProductImage.png",
+                    "FC1534",
+                    "fc1534",
+                    "Amica 121 Litre Freestanding Under Counter Larder Fridge - White",
+                    "261.97",
+                    "https://www.appliancesdirect.co.uk/p/fc1534/amica-fc1534-appliances",
+                    "Refrigeration > Fridges > Amica",
+                    "Amica",
+                    "https://www.appliancesdirect.co.uk/Images/FC1534_1_LargeProductImage.jpg",
                     "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7731700330639524
-                ],
-                [
-                    "AppliancesDirect",
-                    "EL196",
-                    "el196",
-                    "Husky 48 Litre Mini Fridge/Drinks Cooler - Coca Cola",
-                    "189.97",
-                    "https://www.appliancesdirect.co.uk/p/el196/husky-el196-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/780948461EL196_1_LargeProductImage.png",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.7625964315726403
-                ],
-                [
-                    "Currys",
-                    "237631",
-                    "237631",
-                    "CDA FWC153BL Wine Cooler - Black",
-                    "329.00",
-                    "https://www.currys.co.uk/products/cda-fwc153bl-wine-cooler-black-10179468.html",
-                    "Appliances > Refrigeration > Fridges",
-                    "CDA",
-                    "https://media.currys.biz/i/currysprod/10179468?$l-large$&fmt=auto",
-                    "0.00",
                     "",
                     ""
                 ]
@@ -10620,82 +8584,6 @@ dic_ = {
         [
             [
                 [
-                    0.8173513060276465
-                ],
-                [
-                    "AppliancesDirect",
-                    "RTB515E1AW",
-                    "rtb515e1aw",
-                    "AEG 145 Litre Freestanding Under Counter Larder Fridge - White",
-                    "384",
-                    "https://www.appliancesdirect.co.uk/p/rtb515e1aw/aeg-rtb515e1aw-3000-series-freestanding-fridge",
-                    "Refrigeration > Fridges > AEG",
-                    "AEG",
-                    "https://www.appliancesdirect.co.uk/Images/RTB515E1AW_2_LargeProductImage.png",
-                    "24.95",
-                    "0",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.8135712991139865
-                ],
-                [
-                    "AppliancesDirect",
-                    "HU231",
-                    "hu231",
-                    "Husky 42 Litre Rubiks Cube Table Top Chiller",
-                    "186.97",
-                    "https://www.appliancesdirect.co.uk/p/hu231/husky-hu231-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU231_1_LargeProductImage.png",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.799057806894161
-                ],
-                [
-                    "AppliancesDirect",
-                    "HU218",
-                    "hu218",
-                    "Husky 122 Litre Stella Drink Fridge - White",
-                    "386.97",
-                    "https://www.appliancesdirect.co.uk/p/hu218/husky-hu218-drinks-chiller",
-                    "Refrigeration > Fridges > Husky",
-                    "Husky",
-                    "https://www.appliancesdirect.co.uk/Images/HU218_1_LargeProductImage.png",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
-                    0.798361623522411
-                ],
-                [
-                    "AppliancesDirect",
-                    "ZRME38FW2",
-                    "zrme38fw2",
-                    "Zanussi 380 Litre MultiFlow Tall Freestanding Fridge - White",
-                    "613",
-                    "https://www.appliancesdirect.co.uk/p/zrme38fw2/zanussi-zrme38fw2-fridge",
-                    "Refrigeration > Fridges > Zanussi",
-                    "Zanussi",
-                    "https://www.appliancesdirect.co.uk/Images/ZRME38FW2_1_LargeProductImage.jpg",
-                    "24.95",
-                    "",
-                    ""
-                ]
-            ],
-            [
-                [
                     0.7980496761436379
                 ],
                 [
@@ -10708,6 +8596,44 @@ dic_ = {
                     "Refrigeration > Fridges > Amica",
                     "Amica",
                     "https://www.appliancesdirect.co.uk/Images/778202201FC1264_1_LargeProductImage.jpg",
+                    "24.95",
+                    "0",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.7687166007510506
+                ],
+                [
+                    "AppliancesDirect",
+                    "FC1534",
+                    "fc1534",
+                    "Amica 121 Litre Freestanding Under Counter Larder Fridge - White",
+                    "261.97",
+                    "https://www.appliancesdirect.co.uk/p/fc1534/amica-fc1534-appliances",
+                    "Refrigeration > Fridges > Amica",
+                    "Amica",
+                    "https://www.appliancesdirect.co.uk/Images/FC1534_1_LargeProductImage.jpg",
+                    "24.95",
+                    "",
+                    ""
+                ]
+            ],
+            [
+                [
+                    0.717303256176089
+                ],
+                [
+                    "AppliancesDirect",
+                    "FM0613",
+                    "fm0613",
+                    "Amica 47 Litre Tabletop Fridge With Icebox - White",
+                    "0",
+                    "https://www.appliancesdirect.co.uk/p/fm0613/amica-fm0613-freestanding-fridge",
+                    "Refrigeration > Fridges > Amica",
+                    "Amica",
+                    "https://www.appliancesdirect.co.uk/Images/FM061.3_1_LargeProductImage.jpg",
                     "24.95",
                     "0",
                     ""
