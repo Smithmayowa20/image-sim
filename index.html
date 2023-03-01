@@ -115,7 +115,7 @@
             new_row.appendChild(anchor_element);
 
           for(let j = 0; j < ls.length; j++){
-            if (((ls[j]['image_ratio'][0]) >= 0.5) || ((ls[j]['image_ratio'][0]) == 0)){
+            if ((ls[j]['name_ratio'])/100 >= 0.75){
                 var name = ls[j]['row'][2];
                 var score = (ls[j]['name_ratio'])/100;
                 var img_score = ls[j]['image_ratio'][0] ? (ls[j]['image_ratio'][0]) : 'No value' ;
@@ -132,7 +132,7 @@
                                 <div class='btn-group'>
                                 </div>
                                 <small class='text-muted'>Name Similarity Score:${score}</small>
-                                <small class='text-muted'>Image Similarity Score:${img_score}</small>
+                                
                             </div>
                         </div>
                     </div>
