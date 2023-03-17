@@ -16,9 +16,7 @@ dic_ = {
         [
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.02518756550498502
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "130/6260",
@@ -36,9 +34,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.03925320451983061
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "670909",
@@ -56,9 +52,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "C61R1AAMST",
@@ -76,9 +70,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0.07376497411963134
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "907902",
@@ -96,9 +88,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "140/7097",
@@ -116,9 +106,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "140/7145",
@@ -136,9 +124,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "783/4688",
@@ -156,9 +142,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "918/7319",
@@ -176,9 +160,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "918/7405",
@@ -196,9 +178,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "C61R1AAMST",
@@ -251,9 +231,7 @@ dic_ = {
         [
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.38556514740160297
-                ],
+                "image_ratio": 46,
                 "brand_ratio": 100,
                 "row": [
                     "H2267-1BP",
@@ -271,9 +249,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.0807269344038124
-                ],
+                "image_ratio": 49,
                 "brand_ratio": 100,
                 "row": [
                     "KM2032",
@@ -326,9 +302,7 @@ dic_ = {
         [
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.3816581560471545
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "H2267-1BP",
@@ -346,9 +320,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.07011556700707722
-                ],
+                "image_ratio": 53,
                 "brand_ratio": 100,
                 "row": [
                     "KM2010",
@@ -393,9 +365,7 @@ dic_ = {
         [
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.08396736541057992
-                ],
+                "image_ratio": 5,
                 "brand_ratio": 100,
                 "row": [
                     "444441979",
@@ -413,9 +383,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.06455582279961647
-                ],
+                "image_ratio": 5,
                 "brand_ratio": 100,
                 "row": [
                     "444449013",
@@ -433,9 +401,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0.04834908920105563
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "444449014",
@@ -453,9 +419,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0.10187599118095048
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "444444719",
@@ -473,9 +437,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.3773919918148979
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "444410243",
@@ -493,9 +455,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.09194828944535516
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "444444729",
@@ -513,9 +473,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410246",
@@ -533,9 +491,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410249",
@@ -553,9 +509,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0.08465535747735209
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "444442895",
@@ -573,9 +527,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444444446",
@@ -620,9 +572,7 @@ dic_ = {
         [
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.07000808814032833
-                ],
+                "image_ratio": 5,
                 "brand_ratio": 100,
                 "row": [
                     "444441979",
@@ -640,9 +590,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.05152342444827207
-                ],
+                "image_ratio": 5,
                 "brand_ratio": 100,
                 "row": [
                     "444449013",
@@ -660,9 +608,7 @@ dic_ = {
             },
             {
                 "name_ratio": 70,
-                "image_ratio": [
-                    0.036028256440261086
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "444449014",
@@ -680,9 +626,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0.08646880486496333
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "444444719",
@@ -700,9 +644,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.09628199783396407
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "444444729",
@@ -720,9 +662,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0.07077813061824678
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "444442895",
@@ -740,9 +680,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444444446",
@@ -760,9 +698,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410244",
@@ -780,9 +716,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444444461",
@@ -800,9 +734,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444444476",
@@ -847,9 +779,7 @@ dic_ = {
         [
             {
                 "name_ratio": 97,
-                "image_ratio": [
-                    0.011083472154131524
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "517745",
@@ -867,9 +797,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.006021761731597963
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "543/5649",
@@ -887,9 +815,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "112/3474",
@@ -907,9 +833,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.03849315538515352
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "253916",
@@ -927,9 +851,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "112/3711",
@@ -947,9 +869,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "718/3078",
@@ -967,9 +887,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0.2684229006026104
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "212596",
@@ -987,9 +905,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0.2549036417426038
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "740944",
@@ -1007,9 +923,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0.45449377193424334
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "244391",
@@ -1027,9 +941,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0.4091529354069534
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "649751",
@@ -1090,9 +1002,7 @@ dic_ = {
         [
             {
                 "name_ratio": 92,
-                "image_ratio": [
-                    0.038101763933340305
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "517745",
@@ -1110,9 +1020,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.026993125466869494
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "543/5649",
@@ -1130,9 +1038,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "112/3474",
@@ -1150,9 +1056,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "112/3711",
@@ -1170,9 +1074,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.06009177032038715
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "253916",
@@ -1190,9 +1092,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.23107914118591488
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "740944",
@@ -1210,9 +1110,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0.25190625397050614
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "212596",
@@ -1230,9 +1128,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "718/3078",
@@ -1250,9 +1146,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "HIC64402T",
@@ -1270,9 +1164,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "112/3443",
@@ -1325,9 +1217,7 @@ dic_ = {
         [
             {
                 "name_ratio": 60,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 80,
                 "row": [
                     "237/7690",
@@ -1363,9 +1253,7 @@ dic_ = {
         [
             {
                 "name_ratio": 60,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 80,
                 "row": [
                     "237/7690",
@@ -1401,9 +1289,7 @@ dic_ = {
         [
             {
                 "name_ratio": 60,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 80,
                 "row": [
                     "237/7690",
@@ -1439,9 +1325,7 @@ dic_ = {
         [
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.1407891827490073
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "LI97SA561B",
@@ -1459,9 +1343,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.041404757471898423
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "LC94BBC50B",
@@ -1479,9 +1361,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.3465121122908963
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "LR97CAQ50B",
@@ -1499,9 +1379,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.07693810191666395
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "LC91BUV50B",
@@ -1519,9 +1397,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "LC94PBC50B",
@@ -1539,9 +1415,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.09345836454765821
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "LC64BBC50B",
@@ -1559,9 +1433,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.09189226083117874
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "LC77BHM50B",
@@ -1579,9 +1451,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.3465121122908963
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "LR96CAQ50B",
@@ -1599,9 +1469,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "LC64PBC50B",
@@ -1619,9 +1487,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "LF91BUV50B",
@@ -1657,9 +1523,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.01981688274452409
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "507277",
@@ -1677,9 +1541,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.26378869277037087
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "682033",
@@ -1697,9 +1559,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0.05057819600846947
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "244970",
@@ -1717,9 +1577,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0.03699295298453642
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "169495",
@@ -1737,9 +1595,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0.06529571154192582
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "250825",
@@ -1757,9 +1613,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "256287",
@@ -1777,9 +1631,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "722938",
@@ -1797,9 +1649,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "234666",
@@ -1817,9 +1667,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "244972",
@@ -1837,9 +1685,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "695285",
@@ -1892,9 +1738,7 @@ dic_ = {
         [
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "262699",
@@ -1912,9 +1756,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.10072972038503192
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "571313",
@@ -1932,9 +1774,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.13708264394346759
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "579732",
@@ -1952,9 +1792,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "630466",
@@ -1972,9 +1810,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "738844",
@@ -1992,9 +1828,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.08269287336016251
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "1600340068-sku21258646",
@@ -2012,9 +1846,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.08275157813197598
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "506981",
@@ -2032,9 +1864,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "548824",
@@ -2052,9 +1882,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "648947",
@@ -2072,9 +1900,7 @@ dic_ = {
             },
             {
                 "name_ratio": 70,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "262710",
@@ -2135,9 +1961,7 @@ dic_ = {
         [
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444444034",
@@ -2155,9 +1979,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444444344",
@@ -2193,9 +2015,7 @@ dic_ = {
         [
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.09243461758875471
-                ],
+                "image_ratio": 1,
                 "brand_ratio": 100,
                 "row": [
                     "444440830",
@@ -2213,9 +2033,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.13300481858395108
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "444440831",
@@ -2233,9 +2051,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.1372568496884855
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "444410212",
@@ -2253,9 +2069,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.10386290111025431
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "444444842",
@@ -2273,9 +2087,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0.16119784291495187
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "444410817",
@@ -2293,9 +2105,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0.1621483585317306
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "444440991",
@@ -2313,9 +2123,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.14186392012392135
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "444444843",
@@ -2333,9 +2141,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0.10841182795237747
-                ],
+                "image_ratio": 7,
                 "brand_ratio": 100,
                 "row": [
                     "444410216",
@@ -2353,9 +2159,7 @@ dic_ = {
             },
             {
                 "name_ratio": 60,
-                "image_ratio": [
-                    0.1396778629757368
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "444410034",
@@ -2373,9 +2177,7 @@ dic_ = {
             },
             {
                 "name_ratio": 60,
-                "image_ratio": [
-                    0.27736797633219135
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "444411405",
@@ -2420,9 +2222,7 @@ dic_ = {
         [
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.13026029287658625
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "444440830",
@@ -2440,9 +2240,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.12567998162697458
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "444440831",
@@ -2460,9 +2258,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.11107080736367547
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "444410212",
@@ -2480,9 +2276,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.11183851414487167
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "444444842",
@@ -2500,9 +2294,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0.11834366663615004
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "444410817",
@@ -2520,9 +2312,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.09900775700969444
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "444444843",
@@ -2567,9 +2357,7 @@ dic_ = {
         [
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.027025184062340557
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "169495",
@@ -2587,9 +2375,7 @@ dic_ = {
             },
             {
                 "name_ratio": 70,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "HGB95522YM",
@@ -2607,9 +2393,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0.10623605667087088
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "244970",
@@ -2627,9 +2411,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0.0470527380239687
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "507277",
@@ -2647,9 +2429,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0.26766834063171674
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "682033",
@@ -2667,9 +2447,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "HGB64200SM",
@@ -2687,9 +2465,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0.01589185127081738
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "HK634060XB",
@@ -2707,9 +2483,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "722938",
@@ -2727,9 +2501,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "DCE5260HM",
@@ -2747,9 +2519,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "DCE5960HM",
@@ -2802,9 +2572,7 @@ dic_ = {
         [
             {
                 "name_ratio": 89,
-                "image_ratio": [
-                    0.05092328481202979
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "141152",
@@ -2822,9 +2590,7 @@ dic_ = {
             },
             {
                 "name_ratio": 89,
-                "image_ratio": [
-                    0.04456764719658568
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "506828",
@@ -2842,9 +2608,7 @@ dic_ = {
             },
             {
                 "name_ratio": 85,
-                "image_ratio": [
-                    0.056741785857145954
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "615433",
@@ -2862,9 +2626,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.08792180607418631
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "CG92PX9",
@@ -2882,9 +2644,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.047996694723009825
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "SUK61MX9",
@@ -2902,9 +2662,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "263655",
@@ -2922,9 +2680,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "551644",
@@ -2942,9 +2698,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.06082563561729071
-                ],
+                "image_ratio": 3,
                 "brand_ratio": 100,
                 "row": [
                     "SUK61MBL9",
@@ -2962,9 +2716,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.0826547253105041
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "687344",
@@ -2982,9 +2734,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.06694509262767756
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "577151",
@@ -3029,9 +2779,7 @@ dic_ = {
         [
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0.509242791780995
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "177277",
@@ -3049,9 +2797,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0.6903629114159171
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PGF95-4",
@@ -3069,9 +2815,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0.5176681219950408
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "PGF96",
@@ -3089,9 +2833,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0.42758133886590377
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "134/9227",
@@ -3109,9 +2851,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "619306",
@@ -3129,9 +2869,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.4288876680391528
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "SF6300TVX",
@@ -3149,9 +2887,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "SFR9390X",
@@ -3169,9 +2905,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0.5059191054031329
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "907276",
@@ -3189,9 +2923,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "134/9193",
@@ -3209,9 +2941,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.4519051471326869
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "533008",
@@ -3256,9 +2986,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.10270660982249447
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "444444481",
@@ -3276,9 +3004,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.09965091536696824
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "444444491",
@@ -3296,9 +3022,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.10215810323128338
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "444444501",
@@ -3316,9 +3040,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.11168754347853993
-                ],
+                "image_ratio": 15,
                 "brand_ratio": 100,
                 "row": [
                     "444444435",
@@ -3336,9 +3058,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.10842320014480133
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "444444451",
@@ -3356,9 +3076,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.1233192278254075
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "444444466",
@@ -3376,9 +3094,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "247220",
@@ -3396,9 +3112,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "247005",
@@ -3416,9 +3130,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0.13682006992732054
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "444444436",
@@ -3436,9 +3148,7 @@ dic_ = {
             },
             {
                 "name_ratio": 70,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "247008",
@@ -3474,9 +3184,7 @@ dic_ = {
         [
             {
                 "name_ratio": 87,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "247008",
@@ -3494,9 +3202,7 @@ dic_ = {
             },
             {
                 "name_ratio": 87,
-                "image_ratio": [
-                    0.11055876015642607
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "444444482",
@@ -3514,9 +3220,7 @@ dic_ = {
             },
             {
                 "name_ratio": 86,
-                "image_ratio": [
-                    0.11877077664153024
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "444444492",
@@ -3534,9 +3238,7 @@ dic_ = {
             },
             {
                 "name_ratio": 86,
-                "image_ratio": [
-                    0.12693079764100323
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "444444502",
@@ -3554,9 +3256,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.029343537170633538
-                ],
+                "image_ratio": 3,
                 "brand_ratio": 100,
                 "row": [
                     "444440991",
@@ -3574,9 +3274,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.13710491973469874
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "444444481",
@@ -3594,9 +3292,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.1316917220340209
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "444444491",
@@ -3614,9 +3310,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.13697950428839945
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "444444501",
@@ -3634,9 +3328,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.13053524352487256
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "444410807",
@@ -3654,9 +3346,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.10899947170992652
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "444410809",
@@ -3701,9 +3391,7 @@ dic_ = {
         [
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444440987",
@@ -3721,9 +3409,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410810",
@@ -3741,9 +3427,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410809",
@@ -3761,9 +3445,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410831",
@@ -3781,9 +3463,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410237",
@@ -3801,9 +3481,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410807",
@@ -3821,9 +3499,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410239",
@@ -3841,9 +3517,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410241",
@@ -3861,9 +3535,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410236",
@@ -3881,9 +3553,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410798",
@@ -3936,9 +3606,7 @@ dic_ = {
         [
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444440987",
@@ -3956,9 +3624,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410810",
@@ -3976,9 +3642,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0.10996034264902499
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "444410809",
@@ -3996,9 +3660,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0.45912962998989226
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "444410831",
@@ -4016,9 +3678,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410237",
@@ -4036,9 +3696,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0.1389855549965101
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "444410807",
@@ -4056,9 +3714,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410239",
@@ -4076,9 +3732,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410241",
@@ -4096,9 +3750,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0.4498772402238729
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "444410236",
@@ -4116,9 +3768,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410250",
@@ -4163,9 +3813,7 @@ dic_ = {
         [
             {
                 "name_ratio": 70,
-                "image_ratio": [
-                    0.11607461847733003
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "444444487",
@@ -4183,9 +3831,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "261756",
@@ -4203,9 +3849,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410237",
@@ -4223,9 +3867,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0.0958456776626726
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "444444497",
@@ -4243,9 +3885,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0.107337395393162
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "444444507",
@@ -4263,9 +3903,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0.4248516472847744
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "444410831",
@@ -4283,9 +3921,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0.13209744555286518
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "444444719",
@@ -4303,9 +3939,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410246",
@@ -4323,9 +3957,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410249",
@@ -4343,9 +3975,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0.06626131851141626
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "444449014",
@@ -4390,9 +4020,7 @@ dic_ = {
         [
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.028103052008247253
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "444440991",
@@ -4410,9 +4038,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.09025438874587577
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "444444488",
@@ -4430,9 +4056,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "247018",
@@ -4450,9 +4074,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.09516780763284838
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "444444498",
@@ -4470,9 +4092,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.10233244789490958
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "444444508",
@@ -4490,9 +4110,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410250",
@@ -4510,9 +4128,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "261756",
@@ -4530,9 +4146,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410237",
@@ -4550,9 +4164,7 @@ dic_ = {
             },
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0.4255473338357487
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "444410831",
@@ -4570,9 +4182,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0.13575749682874738
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "444444719",
@@ -4617,9 +4227,7 @@ dic_ = {
         [
             {
                 "name_ratio": 88,
-                "image_ratio": [
-                    0.08964692524386142
-                ],
+                "image_ratio": 4,
                 "brand_ratio": 100,
                 "row": [
                     "177277",
@@ -4637,9 +4245,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.17056170233963475
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "210065",
@@ -4657,9 +4263,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.10559068878112488
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "907276",
@@ -4677,9 +4281,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.17421057844917853
-                ],
+                "image_ratio": 11,
                 "brand_ratio": 100,
                 "row": [
                     "238312",
@@ -4697,9 +4299,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "134/9193",
@@ -4717,9 +4317,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.6619905100508212
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "PGF95-4",
@@ -4737,9 +4335,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.08462600483085148
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "PGF96",
@@ -4757,9 +4353,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.1424844272828495
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "134/9227",
@@ -4777,9 +4371,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PGF75-4",
@@ -4797,9 +4389,7 @@ dic_ = {
             },
             {
                 "name_ratio": 70,
-                "image_ratio": [
-                    0.1663107083205304
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "P272XGH",
@@ -4852,9 +4442,7 @@ dic_ = {
         [
             {
                 "name_ratio": 93,
-                "image_ratio": [
-                    0.09436369742607664
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "177277",
@@ -4872,9 +4460,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.11281814700978299
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "210065",
@@ -4892,9 +4478,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.07807563881468238
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "907276",
@@ -4912,9 +4496,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "134/9193",
@@ -4932,9 +4514,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.13814924160565434
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "238312",
@@ -4952,9 +4532,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PGF75-4",
@@ -4972,9 +4550,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.09913426166163863
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "134/9227",
@@ -4992,9 +4568,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.6651254009036527
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "PGF95-4",
@@ -5012,9 +4586,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.04605765136633522
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "PGF96",
@@ -5032,9 +4604,7 @@ dic_ = {
             },
             {
                 "name_ratio": 70,
-                "image_ratio": [
-                    0.13593833402341005
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "P272XGH",
@@ -5087,9 +4657,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "IHPC94LMX",
@@ -5107,9 +4675,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "IHF65LMX",
@@ -5127,9 +4693,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "IHBS65LMX",
@@ -5147,9 +4711,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "IHVP62FLTK",
@@ -5167,9 +4729,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "IHGC65LMX",
@@ -5187,9 +4747,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "IHVP65FLMK",
@@ -5207,9 +4765,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "IHVP66LMK",
@@ -5227,9 +4783,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "ISLK66LSX",
@@ -5247,9 +4801,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "UHPM63FCSX",
@@ -5267,9 +4819,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "K90-AM-HX-A",
@@ -5305,9 +4855,7 @@ dic_ = {
         [
             {
                 "name_ratio": 88,
-                "image_ratio": [
-                    0.09514298105255425
-                ],
+                "image_ratio": 4,
                 "brand_ratio": 100,
                 "row": [
                     "177277",
@@ -5325,9 +4873,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.6694728197502336
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "PGF95-4",
@@ -5345,9 +4891,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.022804011891450093
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "PGF96",
@@ -5365,9 +4909,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.10031614052996551
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "134/9227",
@@ -5385,9 +4927,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.10890251718315591
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "210065",
@@ -5405,9 +4945,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "134/9193",
@@ -5425,9 +4963,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.07938580097017922
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "907276",
@@ -5445,9 +4981,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.12271498957360172
-                ],
+                "image_ratio": 11,
                 "brand_ratio": 100,
                 "row": [
                     "238312",
@@ -5465,9 +4999,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0.13185702739472427
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "P272XGH",
@@ -5485,9 +5017,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0.09644613053777529
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "S64S",
@@ -5540,9 +5070,7 @@ dic_ = {
         [
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.056767694932806534
-                ],
+                "image_ratio": 11,
                 "brand_ratio": 100,
                 "row": [
                     "444441979",
@@ -5560,9 +5088,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.07996230907353086
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "444449013",
@@ -5580,9 +5106,7 @@ dic_ = {
             },
             {
                 "name_ratio": 70,
-                "image_ratio": [
-                    0.08263425174565997
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "444449014",
@@ -5600,9 +5124,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0.05807273014876091
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "444444719",
@@ -5620,9 +5142,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.14660499121239523
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "444444729",
@@ -5640,9 +5160,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0.05593634028237682
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "444442895",
@@ -5660,9 +5178,7 @@ dic_ = {
             },
             {
                 "name_ratio": 63,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444444446",
@@ -5680,9 +5196,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410244",
@@ -5700,9 +5214,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444444461",
@@ -5720,9 +5232,7 @@ dic_ = {
             },
             {
                 "name_ratio": 61,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444444476",
@@ -5767,9 +5277,7 @@ dic_ = {
         [
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "CDLHD8K-01K",
@@ -5805,9 +5313,7 @@ dic_ = {
         [
             {
                 "name_ratio": 67,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 75,
                 "row": [
                     "CDLHD8K-01K",
@@ -5843,9 +5349,7 @@ dic_ = {
         [
             {
                 "name_ratio": 94,
-                "image_ratio": [
-                    0.09634912701083298
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "444410717",
@@ -5863,9 +5367,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09681013747265588
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "251304",
@@ -5883,9 +5385,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.10064287174465092
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "444410351",
@@ -5903,9 +5403,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410354",
@@ -5923,9 +5421,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.10371858614544605
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "444410357",
@@ -5943,9 +5439,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410352",
@@ -5963,9 +5457,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410355",
@@ -5983,9 +5475,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "444410358",
@@ -6003,9 +5493,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.13141545932451904
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "444410345",
@@ -6023,9 +5511,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.12865055321587315
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "444410348",
@@ -6061,9 +5547,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.44468771579811117
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "LI97SA561B",
@@ -6081,9 +5565,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.3558439340352787
-                ],
+                "image_ratio": 46,
                 "brand_ratio": 100,
                 "row": [
                     "LC94BBC50B",
@@ -6101,9 +5583,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.33064630294952124
-                ],
+                "image_ratio": 46,
                 "brand_ratio": 100,
                 "row": [
                     "LC64BBC50B",
@@ -6121,9 +5601,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.3435881558676508
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "LC77BHM50B",
@@ -6141,9 +5619,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.35586930402833294
-                ],
+                "image_ratio": 48,
                 "brand_ratio": 100,
                 "row": [
                     "LC91BUV50B",
@@ -6161,9 +5637,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "LC94PBC50B",
@@ -6181,9 +5655,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.438309393668327
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "LR97CAQ50B",
@@ -6201,9 +5673,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "LC64PBC50B",
@@ -6221,9 +5691,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "LI94MA531B",
@@ -6241,9 +5709,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0.438309393668327
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "LR96CAQ50B",
@@ -6279,9 +5745,7 @@ dic_ = {
         [
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.4921284746312595
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "888/5650",
@@ -6299,9 +5763,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.4803780182338233
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "785774",
@@ -6319,9 +5781,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0.42777827287576853
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "630458",
@@ -6339,9 +5799,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0.38975382147907545
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "749632",
@@ -6359,9 +5817,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0.3023082021138487
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "202/9883",
@@ -6379,9 +5835,7 @@ dic_ = {
             },
             {
                 "name_ratio": 69,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "670/9817",
@@ -6399,9 +5853,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "877/7380",
@@ -6419,9 +5871,7 @@ dic_ = {
             },
             {
                 "name_ratio": 66,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "784/5134",
@@ -6439,9 +5889,7 @@ dic_ = {
             },
             {
                 "name_ratio": 65,
-                "image_ratio": [
-                    0.33998944880042514
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "749663",
@@ -6459,9 +5907,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "900/7853",
@@ -6514,9 +5960,7 @@ dic_ = {
         [
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.31844910792679726
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "749663",
@@ -6534,9 +5978,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0.12350283703619414
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "112/1878",
@@ -6554,9 +5996,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "825/0876",
@@ -6574,9 +6014,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0.49705001688479067
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "888/5650",
@@ -6594,9 +6032,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "899/7964",
@@ -6614,9 +6050,7 @@ dic_ = {
             },
             {
                 "name_ratio": 64,
-                "image_ratio": [
-                    0.484635825977789
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "785774",
@@ -6634,9 +6068,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.24169273117736567
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "112/1768",
@@ -6654,9 +6086,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.26991730729149443
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "549809",
@@ -6674,9 +6104,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.439485485602633
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "630458",
@@ -6694,9 +6122,7 @@ dic_ = {
             },
             {
                 "name_ratio": 62,
-                "image_ratio": [
-                    0.39106761218349395
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "749632",
@@ -6749,9 +6175,7 @@ dic_ = {
         [
             {
                 "name_ratio": 100,
-                "image_ratio": [
-                    0.3067822236827509
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "112/1885",
@@ -6769,9 +6193,7 @@ dic_ = {
             },
             {
                 "name_ratio": 98,
-                "image_ratio": [
-                    0.18376208756675105
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "877/5148",
@@ -6789,9 +6211,7 @@ dic_ = {
             },
             {
                 "name_ratio": 90,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "733301",
@@ -6809,9 +6229,7 @@ dic_ = {
             },
             {
                 "name_ratio": 89,
-                "image_ratio": [
-                    0.24444551019522642
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "112/1892",
@@ -6829,9 +6247,7 @@ dic_ = {
             },
             {
                 "name_ratio": 88,
-                "image_ratio": [
-                    0.1652726728308629
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "112/1861",
@@ -6849,9 +6265,7 @@ dic_ = {
             },
             {
                 "name_ratio": 85,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "649755",
@@ -6869,9 +6283,7 @@ dic_ = {
             },
             {
                 "name_ratio": 85,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "713011",
@@ -6889,9 +6301,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "112/1847",
@@ -6909,9 +6319,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "621640",
@@ -6929,9 +6337,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.13446182263034345
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "112/1878",
@@ -6984,9 +6390,7 @@ dic_ = {
         [
             {
                 "name_ratio": 100,
-                "image_ratio": [
-                    0.04804527142348369
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "112/1902",
@@ -7004,9 +6408,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.04609627769373592
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "CF1300APW",
@@ -7024,9 +6426,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.19146523403196336
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "CF374W",
@@ -7044,9 +6444,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.3193369250007727
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "886/8990",
@@ -7064,9 +6462,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.19190106691914655
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "112/1706",
@@ -7084,9 +6480,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.3918673819579279
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "851/6455",
@@ -7104,9 +6498,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CF1100APW",
@@ -7124,9 +6516,7 @@ dic_ = {
             },
             {
                 "name_ratio": 72,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "900/7853",
@@ -7144,9 +6534,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "112/1720",
@@ -7164,9 +6552,7 @@ dic_ = {
             },
             {
                 "name_ratio": 71,
-                "image_ratio": [
-                    0.2867918140123187
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "572/3588",
@@ -7219,9 +6605,7 @@ dic_ = {
         [
             {
                 "name_ratio": 70,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "169807",
@@ -7239,9 +6623,7 @@ dic_ = {
             },
             {
                 "name_ratio": 68,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "244149",
@@ -7277,9 +6659,7 @@ dic_ = {
         [
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.021848553836981255
-                ],
+                "image_ratio": 1,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLB",
@@ -7297,9 +6677,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.05011416729559692
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLB",
@@ -7317,9 +6695,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.017607284394551614
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFSLB",
@@ -7337,9 +6713,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -7357,9 +6731,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.04293667661828682
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLC",
@@ -7377,9 +6749,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.08936108634260986
-                ],
+                "image_ratio": 3,
                 "brand_ratio": 100,
                 "row": [
                     "630757",
@@ -7397,9 +6767,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.05311049036758264
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -7417,9 +6785,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.07122672887659542
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFCBC",
@@ -7437,9 +6803,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.0662789959502148
-                ],
+                "image_ratio": 4,
                 "brand_ratio": 100,
                 "row": [
                     "262472",
@@ -7457,9 +6821,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.08019346288917406
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -7520,9 +6882,7 @@ dic_ = {
         [
             {
                 "name_ratio": 86,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -7540,9 +6900,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.09509382448307324
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100DFFBLC",
@@ -7560,9 +6918,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09743359148549646
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFSLB",
@@ -7580,9 +6936,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.14810734546833115
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "630757",
@@ -7600,9 +6954,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.09563162955493787
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLB",
@@ -7620,9 +6972,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.0807659497390224
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLC",
@@ -7640,9 +6990,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.1846703130113161
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "739661",
@@ -7660,9 +7008,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.10833274195835996
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -7680,9 +7026,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.14220961803997623
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFCBC",
@@ -7700,9 +7044,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.11796089736581494
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "262472",
@@ -7763,9 +7105,7 @@ dic_ = {
         [
             {
                 "name_ratio": 86,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -7783,9 +7123,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.059127543614865385
-                ],
+                "image_ratio": 11,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRB",
@@ -7803,9 +7141,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07497119572405231
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFSLB",
@@ -7823,9 +7159,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.07793665810539219
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLC",
@@ -7843,9 +7177,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.0944665145437299
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -7863,9 +7195,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.0781383281889182
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLB",
@@ -7883,9 +7213,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.04814734505737306
-                ],
+                "image_ratio": 3,
                 "brand_ratio": 100,
                 "row": [
                     "CLA90DFFCRC",
@@ -7903,9 +7231,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRB",
@@ -7923,9 +7249,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRC",
@@ -7943,9 +7267,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.10152342644948631
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "CLAS90FXDFFCRB",
@@ -7998,9 +7320,7 @@ dic_ = {
         [
             {
                 "name_ratio": 93,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -8018,9 +7338,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.06275488589727163
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRC",
@@ -8038,9 +7356,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.029990792001240885
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFSLB",
@@ -8058,9 +7374,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.06783505297105918
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLC",
@@ -8078,9 +7392,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.016671013503685606
-                ],
+                "image_ratio": 4,
                 "brand_ratio": 100,
                 "row": [
                     "CLA90DFFCRC",
@@ -8098,9 +7410,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.05409092812468608
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100DFFBLC",
@@ -8118,9 +7428,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.07894349785695354
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -8138,9 +7446,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.049057111630961825
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFCYC",
@@ -8158,9 +7464,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.0921379720113692
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "CLAS90FXDFFCRC",
@@ -8178,9 +7482,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRB",
@@ -8233,9 +7535,7 @@ dic_ = {
         [
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -8253,9 +7553,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.017688560580707002
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFSLB",
@@ -8273,9 +7571,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.05481099661592259
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCYB",
@@ -8293,9 +7589,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.062103180970595195
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCYC",
@@ -8313,9 +7607,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.043954220697760116
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLC",
@@ -8333,9 +7625,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.023647022670198248
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFCYC",
@@ -8353,9 +7643,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.057857303275576255
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -8373,9 +7661,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.09612852020908536
-                ],
+                "image_ratio": 3,
                 "brand_ratio": 100,
                 "row": [
                     "630757",
@@ -8393,9 +7679,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.040560124708134526
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "938604",
@@ -8413,9 +7697,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.0916170977498022
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRB",
@@ -8468,9 +7750,7 @@ dic_ = {
         [
             {
                 "name_ratio": 89,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -8488,9 +7768,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.04326608826406653
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFCYC",
@@ -8508,9 +7786,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.03896479943274278
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFSLB",
@@ -8528,9 +7804,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.05744358588776577
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCYB",
@@ -8548,9 +7822,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.06270507118438173
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCYC",
@@ -8568,9 +7840,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.026257083131249637
-                ],
+                "image_ratio": 0,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLC",
@@ -8588,9 +7858,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.054216942643258714
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -8608,9 +7876,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.09101162037961985
-                ],
+                "image_ratio": 3,
                 "brand_ratio": 100,
                 "row": [
                     "630757",
@@ -8628,9 +7894,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CLA90DFFCYC",
@@ -8648,9 +7912,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.08995317675085113
-                ],
+                "image_ratio": 7,
                 "brand_ratio": 100,
                 "row": [
                     "597320",
@@ -8711,9 +7973,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.01953987007611313
-                ],
+                "image_ratio": 5,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECSLC",
@@ -8731,9 +7991,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09680663350389052
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -8751,9 +8009,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.1041968933709877
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EIBLC",
@@ -8771,9 +8027,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.03877348331927788
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100EIBLC",
@@ -8791,9 +8045,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.051747749875555304
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "CLA110EIBLC",
@@ -8811,9 +8063,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.13620613365577705
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "ELA110EICR",
@@ -8831,9 +8081,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.14085413629796595
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110EIBLC",
@@ -8851,9 +8099,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.03435388877664447
-                ],
+                "image_ratio": 9,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100EIBLC",
@@ -8871,9 +8117,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.10951083627465252
-                ],
+                "image_ratio": 15,
                 "brand_ratio": 100,
                 "row": [
                     "CLA60EIBLC",
@@ -8891,9 +8135,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "ELA110EIBL",
@@ -8946,9 +8188,7 @@ dic_ = {
         [
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.04954281393532778
-                ],
+                "image_ratio": 9,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100EIBLC",
@@ -8966,9 +8206,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.03904868893847013
-                ],
+                "image_ratio": 5,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECSLC",
@@ -8986,9 +8224,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.05784514054262169
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100EIBLC",
@@ -9006,9 +8242,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07197470652912163
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "CLA110EIBLC",
@@ -9026,9 +8260,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.12377829725668632
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EIBLC",
@@ -9046,9 +8278,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.11279154259804902
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -9066,9 +8296,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.13966945606373404
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110EIBLC",
@@ -9086,9 +8314,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.13333010480988972
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "CLA60EIBLC",
@@ -9106,9 +8332,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.15449394209024148
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "ELA110EICR",
@@ -9126,9 +8350,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "ELA110EIBL",
@@ -9181,9 +8403,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0310663814741462
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECSLC",
@@ -9201,9 +8421,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.10920710478506213
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -9221,9 +8439,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.11906260295370508
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "CLA60EICRC",
@@ -9241,9 +8457,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.11447905753271981
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "ELA110EICR",
@@ -9261,9 +8475,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.15798530041793424
-                ],
+                "image_ratio": 47,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110EIBLC",
@@ -9281,9 +8493,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.1306287192251845
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EIBLC",
@@ -9301,9 +8511,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.12151054466638422
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EISLC",
@@ -9321,9 +8529,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.06566060412463381
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100EIBLC",
@@ -9341,9 +8547,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.07007594656013905
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "CLA110EIBLC",
@@ -9361,9 +8565,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.12637196353591096
-                ],
+                "image_ratio": 46,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110EISLC",
@@ -9416,9 +8618,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0310663814741462
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECSLC",
@@ -9436,9 +8636,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.10920710478506213
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -9456,9 +8654,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.0609332539908809
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100EIBLC",
@@ -9476,9 +8672,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.11906260295370508
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "CLA60EICRC",
@@ -9496,9 +8690,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.11447905753271981
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "ELA110EICR",
@@ -9516,9 +8708,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.15798530041793424
-                ],
+                "image_ratio": 47,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110EIBLC",
@@ -9536,9 +8726,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.06566060412463381
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100EIBLC",
@@ -9556,9 +8744,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.07007594656013905
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "CLA110EIBLC",
@@ -9576,9 +8762,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.1306287192251845
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EIBLC",
@@ -9596,9 +8780,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.12151054466638422
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EISLC",
@@ -9651,9 +8833,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.02894454148745862
-                ],
+                "image_ratio": 4,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECSLC",
@@ -9671,9 +8851,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09816920852517064
-                ],
+                "image_ratio": 15,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -9691,9 +8869,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.14462151364526254
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "ELA110EICR",
@@ -9711,9 +8887,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.1362427904042972
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110EIBLC",
@@ -9731,9 +8905,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.11077352598183954
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EIBLC",
@@ -9751,9 +8923,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.11572190798917625
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EISLC",
@@ -9771,9 +8941,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.05623753935132292
-                ],
+                "image_ratio": 7,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100EIBLC",
@@ -9791,9 +8959,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.07022928578817711
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "CLA110EIBLC",
@@ -9811,9 +8977,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.15651934991418315
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "CLA60EICRC",
@@ -9831,9 +8995,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.12062144206845338
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110EISLC",
@@ -9886,9 +9048,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.017575259296165546
-                ],
+                "image_ratio": 4,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECSLC",
@@ -9906,9 +9066,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09775381053560017
-                ],
+                "image_ratio": 15,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -9926,9 +9084,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.0391220150626157
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100EIBLC",
@@ -9946,9 +9102,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.1371291890413594
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "ELA110EICR",
@@ -9966,9 +9120,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.1402149310880525
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110EIBLC",
@@ -9986,9 +9138,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.10806290599039003
-                ],
+                "image_ratio": 15,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EIBLC",
@@ -10006,9 +9156,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.11672902287593345
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EISLC",
@@ -10026,9 +9174,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.04202562358049633
-                ],
+                "image_ratio": 7,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100EIBLC",
@@ -10046,9 +9192,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.05749922852614875
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "CLA110EIBLC",
@@ -10066,9 +9210,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.15870007779018158
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "CLA60EICRC",
@@ -10121,9 +9263,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.033938595029525676
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECSLC",
@@ -10141,9 +9281,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.07199602165196206
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "CLA90ECCRC",
@@ -10161,9 +9299,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECBLB",
@@ -10181,9 +9317,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECBLC",
@@ -10201,9 +9335,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECCRB",
@@ -10221,9 +9353,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECCRC",
@@ -10241,9 +9371,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECCYB",
@@ -10261,9 +9389,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECCYC",
@@ -10281,9 +9407,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECOGC",
@@ -10301,9 +9425,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90ECRPC",
@@ -10339,9 +9461,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.06968655094606613
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "262472",
@@ -10359,9 +9479,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH90DFFCRC",
@@ -10379,9 +9497,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.03316438283687062
-                ],
+                "image_ratio": 4,
                 "brand_ratio": 100,
                 "row": [
                     "KCH90DFFCRC",
@@ -10399,9 +9515,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.07171135963619046
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "CLA90DFFCRC",
@@ -10419,9 +9533,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "244454",
@@ -10439,9 +9551,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "244455",
@@ -10459,9 +9569,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.11574956912001688
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "630757",
@@ -10479,9 +9587,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.07047390443470658
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "CLA110DFFCRC",
@@ -10499,9 +9605,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100DFFCRC",
@@ -10519,9 +9623,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.044028686294349084
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "KCH110DFFCRC",
@@ -10582,9 +9684,7 @@ dic_ = {
         [
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100ECBLC",
@@ -10602,9 +9702,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.10213872492873488
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "KCH110ECCRC",
@@ -10622,9 +9720,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH90ECBLC",
@@ -10642,9 +9738,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.07744563812795668
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EIBLC",
@@ -10662,9 +9756,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH110ECBLC",
@@ -10682,9 +9774,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "203132",
@@ -10702,9 +9792,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100ECSSC",
@@ -10722,9 +9810,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.09775196384342999
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "NEX110EIBLC",
@@ -10742,9 +9828,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.08683901539135341
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EISLC",
@@ -10762,9 +9846,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.09084325400094295
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100EIBLC",
@@ -10825,9 +9907,7 @@ dic_ = {
         [
             {
                 "name_ratio": 85,
-                "image_ratio": [
-                    0.06596233135151774
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "KCH110ECCRC",
@@ -10845,9 +9925,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07944272031422339
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "CLA90ECCRC",
@@ -10865,9 +9943,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100ECBLC",
@@ -10885,9 +9961,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH90ECBLC",
@@ -10905,9 +9979,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "203132",
@@ -10925,9 +9997,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH110ECBLC",
@@ -10945,9 +10015,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100ECSSC",
@@ -10965,9 +10033,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.06654205862547746
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "KCH90ECCRC",
@@ -10985,9 +10051,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.14325399822444262
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "ELA110EICR",
@@ -11005,9 +10069,7 @@ dic_ = {
             },
             {
                 "name_ratio": 73,
-                "image_ratio": [
-                    0.12354365490766428
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EIBLC",
@@ -11068,9 +10130,7 @@ dic_ = {
         [
             {
                 "name_ratio": 88,
-                "image_ratio": [
-                    0.06072634961217849
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "262472",
@@ -11088,9 +10148,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100DFFBLC",
@@ -11108,9 +10166,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0898451764522068
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100DFFBLC",
@@ -11128,9 +10184,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "244455",
@@ -11148,9 +10202,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07708101496027453
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110DFFBLC",
@@ -11168,9 +10220,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "244454",
@@ -11188,9 +10238,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.08390086244617934
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "583004",
@@ -11208,9 +10256,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.09682582961514263
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "630757",
@@ -11228,9 +10274,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.08924072227903657
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100DFFBLC",
@@ -11248,9 +10292,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.12195852881870983
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "NEX110DFFBLC",
@@ -11311,9 +10353,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -11331,9 +10371,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100DFFCRC",
@@ -11351,9 +10389,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "244455",
@@ -11371,9 +10407,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.0525059258898436
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "262472",
@@ -11391,9 +10425,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.06184108940668198
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "CLA110DFFCRC",
@@ -11411,9 +10443,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.06388399849310278
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "KCH110DFFCRC",
@@ -11431,9 +10461,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "244454",
@@ -11451,9 +10479,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.04445800632462926
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100DFFSSC",
@@ -11471,9 +10497,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.050075903744966954
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "KCH110DFFSSC",
@@ -11491,9 +10515,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH90DFFCRC",
@@ -11546,9 +10568,7 @@ dic_ = {
         [
             {
                 "name_ratio": 85,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100DFFSSC",
@@ -11566,9 +10586,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.07946023015092907
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110DFFSSC",
@@ -11586,9 +10604,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.08207654005625953
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "262472",
@@ -11606,9 +10622,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.11265571810366559
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "ELS110DFFSS",
@@ -11626,9 +10640,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.0565285028324668
-                ],
+                "image_ratio": 11,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90DFFSSC",
@@ -11646,9 +10658,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "244455",
@@ -11666,9 +10676,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.04104307445772193
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "746715",
@@ -11686,9 +10694,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.0462651616272034
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "KCH100DFFSSC",
@@ -11706,9 +10712,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.057846109086123865
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "KCH110DFFSSC",
@@ -11726,9 +10730,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "181580",
@@ -11789,9 +10791,7 @@ dic_ = {
         [
             {
                 "name_ratio": 88,
-                "image_ratio": [
-                    0.11259447674597511
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -11809,9 +10809,7 @@ dic_ = {
             },
             {
                 "name_ratio": 85,
-                "image_ratio": [
-                    0.11214970201396568
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -11829,9 +10827,7 @@ dic_ = {
             },
             {
                 "name_ratio": 85,
-                "image_ratio": [
-                    0.1454841891145604
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -11849,9 +10845,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.07757885334733361
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "699737",
@@ -11869,9 +10863,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.11551794186068443
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -11889,9 +10881,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.11155932512470856
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -11909,9 +10899,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.06370501388473293
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFSSC",
@@ -11929,9 +10917,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.11796612545065432
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -11949,9 +10935,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.11683569981893893
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -11969,9 +10953,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.06798167274491884
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFSSC",
@@ -12040,9 +11022,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.102666801196442
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -12060,9 +11040,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.12236408563025492
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -12080,9 +11058,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFCRC",
@@ -12100,9 +11076,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.121304499684176
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -12120,9 +11094,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.1123462080091101
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -12140,9 +11112,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.08375922884089415
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -12160,9 +11130,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.11789354248133554
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -12180,9 +11148,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.12495932658854692
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -12200,9 +11166,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.07532635825583689
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFSSC",
@@ -12220,9 +11184,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.13437656061958325
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -12283,9 +11245,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.0803050911454325
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -12303,9 +11263,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.11662835623638479
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -12323,9 +11281,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.1587717197153572
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -12343,9 +11299,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.1192564855156596
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -12363,9 +11317,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFCRC",
@@ -12383,9 +11335,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.15085864789657233
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -12403,9 +11353,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.11341254330377071
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -12423,9 +11371,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.18214550499544824
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -12443,9 +11389,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.11609842054060882
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -12463,9 +11407,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.13723908251876293
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFSSC",
@@ -12510,9 +11452,7 @@ dic_ = {
         [
             {
                 "name_ratio": 88,
-                "image_ratio": [
-                    0.16133898190456353
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -12530,9 +11470,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.1361078732905865
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -12550,9 +11488,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.17643650166097036
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -12570,9 +11506,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.1677869582088951
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -12590,9 +11524,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09675695323885192
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "596758",
@@ -12610,9 +11542,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.22210188433541467
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -12630,9 +11560,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.15852616412069864
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -12650,9 +11578,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.15857424807333242
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFSSC",
@@ -12670,9 +11596,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.18744853742699552
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFSSC",
@@ -12690,9 +11614,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.20473098117475996
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -12745,9 +11667,7 @@ dic_ = {
         [
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.10433189483051308
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECBLC",
@@ -12765,9 +11685,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.1057037795593393
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECGBC",
@@ -12785,9 +11703,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.04208273564702991
-                ],
+                "image_ratio": 13,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECSSC",
@@ -12805,9 +11721,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.042418766831904264
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECSSC",
@@ -12825,9 +11739,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.07470978837220377
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -12845,9 +11757,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.07370315129953997
-                ],
+                "image_ratio": 51,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECGBC",
@@ -12865,9 +11775,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXEIGBC",
@@ -12885,9 +11793,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100EIGBC",
@@ -12905,9 +11811,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.06604354753182762
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECSSC",
@@ -12925,9 +11829,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90EIGBC",
@@ -12972,9 +11874,7 @@ dic_ = {
         [
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.05038799523723925
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECBLC",
@@ -12992,9 +11892,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.045316698050329784
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECGBC",
@@ -13012,9 +11910,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.08234458182363236
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECSSC",
@@ -13032,9 +11928,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.08638218914278395
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECSSC",
@@ -13052,9 +11946,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.053066442142429504
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -13072,9 +11964,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.061813651189508545
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECGBC",
@@ -13092,9 +11982,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXEIGBC",
@@ -13112,9 +12000,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100EIGBC",
@@ -13132,9 +12018,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.1390721926824282
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECSSC",
@@ -13152,9 +12036,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90EIGBC",
@@ -13199,9 +12081,7 @@ dic_ = {
         [
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.05329934287662652
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECBLC",
@@ -13219,9 +12099,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.09035575401087093
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECGBC",
@@ -13239,9 +12117,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.10782425839491616
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECSSC",
@@ -13259,9 +12135,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.11216476939767595
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECSSC",
@@ -13279,9 +12153,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.08581718042425401
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -13299,9 +12171,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.10381764925068115
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECGBC",
@@ -13319,9 +12189,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXEIGBC",
@@ -13339,9 +12207,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100EIGBC",
@@ -13359,9 +12225,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.18479015339963112
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECSSC",
@@ -13379,9 +12243,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90EIGBC",
@@ -13434,9 +12296,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.09345967726582427
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -13454,9 +12314,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.1446655885174004
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "ELS110EISS",
@@ -13474,9 +12332,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.12481831764423512
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECBLC",
@@ -13494,9 +12350,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.14380743571744226
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECGBC",
@@ -13514,9 +12368,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.05220013184857297
-                ],
+                "image_ratio": 11,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECSSC",
@@ -13534,9 +12386,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.05572476441380325
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECSSC",
@@ -13554,9 +12404,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.07149440905242366
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EISSC",
@@ -13574,9 +12422,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.10308787762568072
-                ],
+                "image_ratio": 49,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECGBC",
@@ -13594,9 +12440,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.08368166470044769
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110EISSC",
@@ -13614,9 +12458,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100EIGBC",
@@ -13669,9 +12511,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.07424977215337347
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -13689,9 +12529,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.10655004421538783
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECBLC",
@@ -13709,9 +12547,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.10561610229688023
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECGBC",
@@ -13729,9 +12565,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.04061857806677094
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECSSC",
@@ -13749,9 +12583,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.040913351685427424
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECSSC",
@@ -13769,9 +12601,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.07439814300336134
-                ],
+                "image_ratio": 52,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECGBC",
@@ -13789,9 +12619,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100EIGBC",
@@ -13809,9 +12637,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.06463198514679469
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECSSC",
@@ -13829,9 +12655,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90EIGBC",
@@ -13849,9 +12673,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXEIGBC",
@@ -13896,9 +12718,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.050558569087481464
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -13916,9 +12736,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.048723379322798244
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECBLC",
@@ -13936,9 +12754,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.03909834479790686
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECGBC",
@@ -13956,9 +12772,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.08063759313325025
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECSSC",
@@ -13976,9 +12790,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.08442211686709766
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECSSC",
@@ -13996,9 +12808,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.06018906518641376
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECGBC",
@@ -14016,9 +12826,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100EIGBC",
@@ -14036,9 +12844,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.13956462750225118
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECSSC",
@@ -14056,9 +12862,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90EIGBC",
@@ -14076,9 +12880,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXEIGBC",
@@ -14123,9 +12925,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.09856563359999748
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90EIGBC",
@@ -14143,9 +12943,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.07036834049799012
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECBLC",
@@ -14163,9 +12961,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.060601147902839325
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECGBC",
@@ -14183,9 +12979,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.13009216302220905
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90ECSSC",
@@ -14203,9 +12997,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.13322022455347327
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100ECSSC",
@@ -14223,9 +13015,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.11141672191502194
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90EIBLC",
@@ -14243,9 +13033,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.10773810561950614
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECGBC",
@@ -14263,9 +13051,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.1178593967700512
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "NEX110SOEICBC",
@@ -14283,9 +13069,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100EIGBC",
@@ -14303,9 +13087,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.19851301882996952
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110ECSSC",
@@ -14358,9 +13140,7 @@ dic_ = {
         [
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.12273807929083491
-                ],
+                "image_ratio": 49,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFSSC",
@@ -14378,9 +13158,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.06388343097770677
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100NGFCRC",
@@ -14398,9 +13176,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.108160186070827
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFGBC",
@@ -14418,9 +13194,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.12128656572092777
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110NGFSSC",
@@ -14438,9 +13212,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.12206553262418463
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -14458,9 +13230,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.10065415406431977
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFGBC",
@@ -14478,9 +13248,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "RMB6013PBLSS",
@@ -14498,9 +13266,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFSSC",
@@ -14518,9 +13284,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.1391934435439427
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110NGFGBC",
@@ -14538,9 +13302,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.1330879635122646
-                ],
+                "image_ratio": 55,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFGBC",
@@ -14593,9 +13355,7 @@ dic_ = {
         [
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.10626336972822137
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFSSC",
@@ -14613,9 +13373,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.03486190341484818
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100NGFCRC",
@@ -14633,9 +13391,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.10598053320737466
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFGBC",
@@ -14653,9 +13409,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.10028652465924859
-                ],
+                "image_ratio": 40,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110NGFSSC",
@@ -14673,9 +13427,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.11032703139042288
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -14693,9 +13445,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.10043595061913435
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFGBC",
@@ -14713,9 +13463,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFSSC",
@@ -14733,9 +13481,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.14472945848387775
-                ],
+                "image_ratio": 49,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110NGFGBC",
@@ -14753,9 +13499,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.12506859988240904
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFGBC",
@@ -14773,9 +13517,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.09725352946024568
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -14820,9 +13562,7 @@ dic_ = {
         [
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.16281042541313417
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFSSC",
@@ -14840,9 +13580,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.12280690987933973
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100NGFCRC",
@@ -14860,9 +13598,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.049966371423740275
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFGBC",
@@ -14880,9 +13616,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.2002981228432249
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110NGFSSC",
@@ -14900,9 +13634,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.129356896565065
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -14920,9 +13652,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.09783109625026642
-                ],
+                "image_ratio": 9,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFGBC",
@@ -14940,9 +13670,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFSSC",
@@ -14960,9 +13688,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.07345264533184814
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110NGFGBC",
@@ -14980,9 +13706,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.07906039035666279
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFGBC",
@@ -15000,9 +13724,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.09501762836806427
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -15047,9 +13769,7 @@ dic_ = {
         [
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.17865243986829682
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFSSC",
@@ -15067,9 +13787,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.15216426033899133
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100NGFCRC",
@@ -15087,9 +13805,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.07058313723303666
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFGBC",
@@ -15107,9 +13823,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.2219777018922343
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110NGFSSC",
@@ -15127,9 +13841,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.1579397300503177
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -15147,9 +13859,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.12407492575941115
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFGBC",
@@ -15167,9 +13877,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90NGFSSC",
@@ -15187,9 +13895,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.0848709065251656
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110NGFGBC",
@@ -15207,9 +13913,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.08085985182579036
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFGBC",
@@ -15227,9 +13931,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.11267034433245326
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -15282,9 +13984,7 @@ dic_ = {
         [
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.1092899502454795
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -15302,9 +14002,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.1175356765416935
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -15322,9 +14020,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.08877097111969123
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -15342,9 +14038,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "P90FXPDFFCRC",
@@ -15362,9 +14056,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.061036207945817544
-                ],
+                "image_ratio": 15,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -15382,9 +14074,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.10238162711603926
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -15402,9 +14092,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.08140098180135313
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -15422,9 +14110,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.08582527995081002
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -15442,9 +14128,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.10137850970270734
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -15462,9 +14146,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFCRC",
@@ -15517,9 +14199,7 @@ dic_ = {
         [
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.12207239781179346
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -15537,9 +14217,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.17005528507877088
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -15557,9 +14235,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.10120761624770225
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -15577,9 +14253,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.12235914617333543
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -15597,9 +14271,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.058172626593772536
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -15617,9 +14289,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.10265442856889839
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -15637,9 +14307,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.15995489357111659
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -15657,9 +14325,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.09608311981579631
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -15677,9 +14343,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "P90FXPDFFCRC",
@@ -15697,9 +14361,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFCRC",
@@ -15752,9 +14414,7 @@ dic_ = {
         [
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.06794238428296262
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -15772,9 +14432,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.08362462726448461
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -15792,9 +14450,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.12601483866506902
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -15812,9 +14468,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.08582180481958401
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -15832,9 +14486,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PR90FXDFFGBC",
@@ -15852,9 +14504,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.11754495893508421
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -15872,9 +14522,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.02307020767849588
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -15892,9 +14540,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.07164271239672726
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -15912,9 +14558,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.0681560414158513
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -15932,9 +14576,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.07791513611124978
-                ],
+                "image_ratio": 5,
                 "brand_ratio": 100,
                 "row": [
                     "630757",
@@ -15979,9 +14621,7 @@ dic_ = {
         [
             {
                 "name_ratio": 86,
-                "image_ratio": [
-                    0.09240766380704457
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -15999,9 +14639,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.1180318195867972
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -16019,9 +14657,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.08853955215253362
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -16039,9 +14675,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.08449395329484488
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90DFFSSC",
@@ -16059,9 +14693,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.0709327085510274
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -16079,9 +14711,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.09362298586425255
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "699737",
@@ -16099,9 +14729,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.09833360610137276
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "740959",
@@ -16119,9 +14747,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.09969405677978027
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "745422",
@@ -16139,9 +14765,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.09197085837510688
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -16159,9 +14783,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.0941884144151206
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -16214,9 +14836,7 @@ dic_ = {
         [
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.09946732619827325
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -16234,9 +14854,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.06636204129973089
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -16254,9 +14872,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.02765830813750858
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -16274,9 +14890,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.05189397543158314
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -16294,9 +14908,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "P90FXPDFFCRC",
@@ -16314,9 +14926,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.05090698343873212
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -16334,9 +14944,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PR90FXDFFGBC",
@@ -16354,9 +14962,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.054644285328702136
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -16374,9 +14980,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -16394,9 +14998,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.04549911294016362
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -16449,9 +15051,7 @@ dic_ = {
         [
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.07194530141775923
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -16469,9 +15069,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.07535153545009388
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -16489,9 +15087,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.052894122503353236
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -16509,9 +15105,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.08096007435939645
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -16529,9 +15123,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "P90FXPDFFCRC",
@@ -16549,9 +15141,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.04036731278225092
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -16569,9 +15159,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PR90FXDFFGBC",
@@ -16589,9 +15177,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.03838453569191491
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -16609,9 +15195,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.02611821059232733
-                ],
+                "image_ratio": 22,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFGBC",
@@ -16629,9 +15213,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.04210155302549534
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -16684,9 +15266,7 @@ dic_ = {
         [
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07381232285946537
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -16704,9 +15284,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.08078678041367249
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -16724,9 +15302,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.05355615630309585
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -16744,9 +15320,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.08197669475385261
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -16764,9 +15338,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PR90FXDFFGBC",
@@ -16784,9 +15356,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.06130508031654058
-                ],
+                "image_ratio": 15,
                 "brand_ratio": 100,
                 "row": [
                     "630757",
@@ -16804,9 +15374,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.039784147985314156
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -16824,9 +15392,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0.04187410888520293
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -16844,9 +15410,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "P90FXPDFFCRC",
@@ -16864,9 +15428,7 @@ dic_ = {
             },
             {
                 "name_ratio": 74,
-                "image_ratio": [
-                    0.05437572060576956
-                ],
+                "image_ratio": 15,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90DFFBLC",
@@ -16927,9 +15489,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -16947,9 +15507,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90DFFSSC",
@@ -16967,9 +15525,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -16987,9 +15543,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -17007,9 +15561,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -17027,9 +15579,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -17047,9 +15597,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -17067,9 +15615,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "039097",
@@ -17087,9 +15633,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "699737",
@@ -17107,9 +15651,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "745422",
@@ -17170,9 +15712,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.05418523549895693
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -17190,9 +15730,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.06607375873862098
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -17210,9 +15748,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.06508232599049923
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFCBC",
@@ -17230,9 +15766,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.05748337155788119
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSLC",
@@ -17250,9 +15784,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0534087582032261
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFSLC",
@@ -17270,9 +15802,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.03514143564194416
-                ],
+                "image_ratio": 11,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCRC",
@@ -17290,9 +15820,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.06679190214541797
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFGBC",
@@ -17310,9 +15838,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.05210563579612104
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSSC",
@@ -17330,9 +15856,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07062409695200056
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSLC",
@@ -17350,9 +15874,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07159424275911219
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFGBC",
@@ -17405,9 +15927,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.05595542145272547
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -17425,9 +15945,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.051539543361141194
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -17445,9 +15963,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.04654355897486284
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFCBC",
@@ -17465,9 +15981,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.05264849737055777
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSLC",
@@ -17485,9 +15999,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.06742620010595324
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFSLC",
@@ -17505,9 +16017,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.10960922107140603
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCRC",
@@ -17525,9 +16035,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.05580330425166813
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFGBC",
@@ -17545,9 +16053,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.11970223341348352
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSSC",
@@ -17565,9 +16071,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07459962045831992
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSLC",
@@ -17585,9 +16089,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.048165696648659106
-                ],
+                "image_ratio": 9,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFGBC",
@@ -17640,9 +16142,7 @@ dic_ = {
         [
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.0826785607254148
-                ],
+                "image_ratio": 10,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -17660,9 +16160,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.0739741747643291
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -17680,9 +16178,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.06809619812491163
-                ],
+                "image_ratio": 16,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFCBC",
@@ -17700,9 +16196,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.08255460858800512
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSLC",
@@ -17720,9 +16214,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.10269689927337522
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFSLC",
@@ -17740,9 +16232,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.1689584974677416
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFSSC",
@@ -17760,9 +16250,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.11701749768031111
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -17780,9 +16268,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.14934708238054217
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCRC",
@@ -17800,9 +16286,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.08544025486558071
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFGBC",
@@ -17820,9 +16304,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.159730575206514
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSSC",
@@ -17883,9 +16365,7 @@ dic_ = {
         [
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.08301218764036367
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -17903,9 +16383,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.092725702368042
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -17923,9 +16401,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.059156465205118525
-                ],
+                "image_ratio": 7,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSSC",
@@ -17943,9 +16419,7 @@ dic_ = {
             },
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.06081766468580241
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFSSC",
@@ -17963,9 +16437,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "181857",
@@ -17983,9 +16455,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.09042599267302776
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSLC",
@@ -18003,9 +16473,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.07818210767873324
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSSC",
@@ -18023,9 +16491,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.09468677962988448
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFCBC",
@@ -18043,9 +16509,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.07925721544755349
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFSLC",
@@ -18063,9 +16527,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09837095809130314
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -18126,9 +16588,7 @@ dic_ = {
         [
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.078071141104057
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -18146,9 +16606,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0887320897084003
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -18166,9 +16624,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0793497477677444
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSLC",
@@ -18186,9 +16642,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.08879982058847569
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFCBC",
@@ -18206,9 +16660,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.07398715533986888
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFSLC",
@@ -18226,9 +16678,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.03698486182351146
-                ],
+                "image_ratio": 11,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCRC",
@@ -18246,9 +16696,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.08326463039597132
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFGBC",
@@ -18266,9 +16714,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.05596496244912741
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSSC",
@@ -18286,9 +16732,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.0843747664336375
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSLC",
@@ -18306,9 +16750,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09031901946801268
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFGBC",
@@ -18361,9 +16803,7 @@ dic_ = {
         [
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.18134037431306382
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "ELS90DFFSL",
@@ -18381,9 +16821,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.06428249242476103
-                ],
+                "image_ratio": 9,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90DFFSLC",
@@ -18401,9 +16839,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "ELS90DFFCR",
@@ -18421,9 +16857,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.16074753653194207
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "ELS90DFFWH",
@@ -18441,9 +16875,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.09395899805452446
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "NEX90DFFBLC",
@@ -18461,9 +16893,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.14463969626912287
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "ELS90DFFCA",
@@ -18481,9 +16911,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.10689467478075154
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "CLAS90FXDFFSLB",
@@ -18501,9 +16929,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.11276027878498784
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90DFFGBC",
@@ -18521,9 +16947,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.1940878388980024
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "ELS90DFFRD",
@@ -18541,9 +16965,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "ELS90DFFSS",
@@ -18579,9 +17001,7 @@ dic_ = {
         [
             {
                 "name_ratio": 91,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -18599,9 +17019,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.04359929502784887
-                ],
+                "image_ratio": 7,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100DFFBLC",
@@ -18619,9 +17037,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.0510762595577573
-                ],
+                "image_ratio": 25,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLB",
@@ -18639,9 +17055,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.05282849363568143
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -18659,9 +17073,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.099635718709437
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRC",
@@ -18679,9 +17091,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.04853267588480015
-                ],
+                "image_ratio": 11,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100DFFBLC",
@@ -18699,9 +17109,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFCBC",
@@ -18719,9 +17127,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -18739,9 +17145,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.05476097390916679
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLB",
@@ -18759,9 +17163,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.10724649661092
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110DFFBLC",
@@ -18814,9 +17216,7 @@ dic_ = {
         [
             {
                 "name_ratio": 92,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -18834,9 +17234,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.0575864666400826
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRB",
@@ -18854,9 +17252,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRB",
@@ -18874,9 +17270,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRC",
@@ -18894,9 +17288,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.09005468093173563
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -18914,9 +17306,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.05806275445194353
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRC",
@@ -18934,9 +17324,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CLA100DFFCRC",
@@ -18954,9 +17342,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.07464618020928537
-                ],
+                "image_ratio": 24,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFSLB",
@@ -18974,9 +17360,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0.06561902659182017
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "CLA110DFFCRC",
@@ -18994,9 +17378,7 @@ dic_ = {
             },
             {
                 "name_ratio": 75,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFTPC",
@@ -19032,9 +17414,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0873437467072028
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -19052,9 +17432,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.10212343852454575
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -19072,9 +17450,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09072150994445005
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -19092,9 +17468,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.10717349943325638
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -19112,9 +17486,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.03425045449593789
-                ],
+                "image_ratio": 6,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFSSC",
@@ -19132,9 +17504,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.08284514176655611
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110DFFSSC",
@@ -19152,9 +17522,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PRO110DFFCRC",
@@ -19172,9 +17540,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.08306160386690353
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -19192,9 +17558,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -19212,9 +17576,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.1053199357007456
-                ],
+                "image_ratio": 46,
                 "brand_ratio": 100,
                 "row": [
                     "596758",
@@ -19275,9 +17637,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0968611371106648
-                ],
+                "image_ratio": 20,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -19295,9 +17655,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.08794853450005835
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -19315,9 +17673,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.16991581204475514
-                ],
+                "image_ratio": 23,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -19335,9 +17691,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.10661486770419004
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -19355,9 +17709,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.07798238410810521
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFSSC",
@@ -19375,9 +17727,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.1603856677464428
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110DFFSSC",
@@ -19395,9 +17745,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.06761199289702868
-                ],
+                "image_ratio": 30,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -19415,9 +17763,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PRO110DFFCRC",
@@ -19435,9 +17781,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.03246415883547871
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "596758",
@@ -19455,9 +17799,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.09940616363776367
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "699737",
@@ -19510,9 +17852,7 @@ dic_ = {
         [
             {
                 "name_ratio": 86,
-                "image_ratio": [
-                    0.17050396973998716
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -19530,9 +17870,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.16850653111557423
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -19550,9 +17888,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09655327709598127
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "596758",
@@ -19570,9 +17906,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.1561898550374391
-                ],
+                "image_ratio": 31,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -19590,9 +17924,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.23822486749254013
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -19610,9 +17942,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.16410718162256765
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFSSC",
@@ -19630,9 +17960,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.24430583804224082
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110DFFSSC",
@@ -19650,9 +17978,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PRO110DFFGBC",
@@ -19670,9 +17996,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFGB",
@@ -19690,9 +18014,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.14992676305233688
-                ],
+                "image_ratio": 32,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSLC",
@@ -19745,9 +18067,7 @@ dic_ = {
         [
             {
                 "name_ratio": 88,
-                "image_ratio": [
-                    0.11277643652098224
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -19765,9 +18085,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.055629016656689845
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "699737",
@@ -19785,9 +18103,7 @@ dic_ = {
             },
             {
                 "name_ratio": 84,
-                "image_ratio": [
-                    0.09795270963256408
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -19805,9 +18121,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.09302044265060405
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSLC",
@@ -19825,9 +18139,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09838839180077263
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXDFFSSC",
@@ -19845,9 +18157,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.13078387974217354
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "PROP90FXPDFFSSC",
@@ -19865,9 +18175,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.10842268989457393
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFGBC",
@@ -19885,9 +18193,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.043087435223862935
-                ],
+                "image_ratio": 5,
                 "brand_ratio": 100,
                 "row": [
                     "PROP100DFFSSC",
@@ -19905,9 +18211,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.09402550238399277
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "PROP110DFFSSC",
@@ -19925,9 +18229,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.11679678284180484
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "726748",
@@ -19988,9 +18290,7 @@ dic_ = {
         [
             {
                 "name_ratio": 85,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -20008,9 +18308,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.07226332712294092
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -20028,9 +18326,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07259136861409221
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -20048,9 +18344,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.06387910063246949
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSLC",
@@ -20068,9 +18362,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.05704633575938345
-                ],
+                "image_ratio": 8,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSSC",
@@ -20088,9 +18380,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.0824851284661835
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSLC",
@@ -20108,9 +18398,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07730878781355244
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSSC",
@@ -20128,9 +18416,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.038912447885192214
-                ],
+                "image_ratio": 2,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCRC",
@@ -20148,9 +18434,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.07485048799511296
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFGBC",
@@ -20168,9 +18452,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFCBC",
@@ -20231,9 +18513,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.00881548337960214
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -20251,9 +18531,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.037297974596201655
-                ],
+                "image_ratio": 42,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -20271,9 +18549,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.00915902607065422
-                ],
+                "image_ratio": 5,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSLC",
@@ -20291,9 +18567,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.07735364697823155
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSSC",
@@ -20311,9 +18585,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.06641837868123679
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSLC",
@@ -20331,9 +18603,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09949188519631391
-                ],
+                "image_ratio": 12,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSSC",
@@ -20351,9 +18621,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -20371,9 +18639,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.06137816464457446
-                ],
+                "image_ratio": 39,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCRC",
@@ -20391,9 +18657,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.010743095870015207
-                ],
+                "image_ratio": 9,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFGBC",
@@ -20411,9 +18675,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFCBC",
@@ -20466,9 +18728,7 @@ dic_ = {
         [
             {
                 "name_ratio": 83,
-                "image_ratio": [
-                    0.10329819724355616
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "579652",
@@ -20486,9 +18746,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.10817176675761342
-                ],
+                "image_ratio": 43,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -20506,9 +18764,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0674964998738643
-                ],
+                "image_ratio": 7,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSSC",
@@ -20526,9 +18782,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.0824506566101012
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSSC",
@@ -20546,9 +18800,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "181857",
@@ -20566,9 +18818,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09430434838862889
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -20586,9 +18836,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09828945437525283
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSLC",
@@ -20606,9 +18854,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09582778876640385
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSLC",
@@ -20626,9 +18872,7 @@ dic_ = {
             },
             {
                 "name_ratio": 80,
-                "image_ratio": [
-                    0.09690034808622305
-                ],
+                "image_ratio": 26,
                 "brand_ratio": 100,
                 "row": [
                     "PROPL100FXDFFSSC",
@@ -20646,9 +18890,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.07352850821435197
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "699737",
@@ -20709,9 +18951,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.07842391178034447
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -20729,9 +18969,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.08087056673621662
-                ],
+                "image_ratio": 34,
                 "brand_ratio": 100,
                 "row": [
                     "263426",
@@ -20749,9 +18987,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.0721178191373707
-                ],
+                "image_ratio": 35,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSLC",
@@ -20769,9 +19005,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.0785371889728883
-                ],
+                "image_ratio": 9,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFSSC",
@@ -20789,9 +19023,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.09784636168540317
-                ],
+                "image_ratio": 44,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSLC",
@@ -20809,9 +19041,7 @@ dic_ = {
             },
             {
                 "name_ratio": 81,
-                "image_ratio": [
-                    0.1005096185702734
-                ],
+                "image_ratio": 38,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFSSC",
@@ -20829,9 +19059,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.053893359088121096
-                ],
+                "image_ratio": 3,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCRC",
@@ -20849,9 +19077,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.08429725014462341
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFGBC",
@@ -20869,9 +19095,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.11713039697382388
-                ],
+                "image_ratio": 47,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFGBC",
@@ -20889,9 +19113,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.08774520818723541
-                ],
+                "image_ratio": 36,
                 "brand_ratio": 100,
                 "row": [
                     "PDL90DFFCBC",
@@ -20944,9 +19166,7 @@ dic_ = {
         [
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -20964,9 +19184,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.09237032980834559
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLB",
@@ -20984,9 +19202,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.0738255789969573
-                ],
+                "image_ratio": 14,
                 "brand_ratio": 100,
                 "row": [
                     "CDL90DFFBLB",
@@ -21004,9 +19220,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.08611786361511464
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100DFFBLC",
@@ -21024,9 +19238,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.09580603701604562
-                ],
+                "image_ratio": 28,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -21044,9 +19256,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -21064,9 +19274,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.1347693966894209
-                ],
+                "image_ratio": 33,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRB",
@@ -21084,9 +19292,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.16305411930436808
-                ],
+                "image_ratio": 21,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110DFFBLC",
@@ -21104,9 +19310,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0.1379400735248908
-                ],
+                "image_ratio": 17,
                 "brand_ratio": 100,
                 "row": [
                     "PDL100DFFCBC",
@@ -21124,9 +19328,7 @@ dic_ = {
             },
             {
                 "name_ratio": 76,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "249731",
@@ -21195,9 +19397,7 @@ dic_ = {
         [
             {
                 "name_ratio": 89,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "260573",
@@ -21215,9 +19415,7 @@ dic_ = {
             },
             {
                 "name_ratio": 82,
-                "image_ratio": [
-                    0.062072101929947165
-                ],
+                "image_ratio": 29,
                 "brand_ratio": 100,
                 "row": [
                     "CDL100DFFBLC",
@@ -21235,9 +19433,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.049885511840725205
-                ],
+                "image_ratio": 19,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLB",
@@ -21255,9 +19451,7 @@ dic_ = {
             },
             {
                 "name_ratio": 79,
-                "image_ratio": [
-                    0.09938111823234785
-                ],
+                "image_ratio": 37,
                 "brand_ratio": 100,
                 "row": [
                     "NEXSE110DFFBLC",
@@ -21275,9 +19469,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.10814781842674992
-                ],
+                "image_ratio": 27,
                 "brand_ratio": 100,
                 "row": [
                     "583004",
@@ -21295,9 +19487,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.052267737401992975
-                ],
+                "image_ratio": 18,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
@@ -21315,9 +19505,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.09251553069904628
-                ],
+                "image_ratio": 41,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFCRC",
@@ -21335,9 +19523,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0.12080294874408448
-                ],
+                "image_ratio": 45,
                 "brand_ratio": 100,
                 "row": [
                     "NEX110DFFBLC",
@@ -21355,9 +19541,7 @@ dic_ = {
             },
             {
                 "name_ratio": 78,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "PDL110DFFCBC",
@@ -21375,9 +19559,7 @@ dic_ = {
             },
             {
                 "name_ratio": 77,
-                "image_ratio": [
-                    0
-                ],
+                "image_ratio": 50,
                 "brand_ratio": 100,
                 "row": [
                     "CDL110DFFBLC",
