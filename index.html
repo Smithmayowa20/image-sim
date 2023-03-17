@@ -157,7 +157,7 @@
                 var store_name = '';
                 if ((img_score <= 5 && (100 * score) > 80)) {
                 var element_str = `
-                    <div class='card mb-2 box-shadow' style='border: 5px solid red;'>
+                    <div class='card mb-2 box-shadow' style='border: 5px solid blue;'>
                         <img class='card-img-top' src='${image_url}' alt='Card image cap'>
                         <div class='card-body'>
                             <p>Store:${store_name}</p>
@@ -173,7 +173,7 @@
                 `
                 } else if (((img_score <= 14 && (100 * score) > 70)) || ((100 * score) > 79) || (img_score < 5)) {
                   var element_str = `
-                    <div class='card mb-2 box-shadow' style='border: 5px solid orange;'>
+                    <div class='card mb-2 box-shadow' style='border: 5px solid blue;'>
                         <img class='card-img-top' src='${image_url}' alt='Card image cap'>
                         <div class='card-body'>
                             <p>Store:${store_name}</p>
