@@ -155,9 +155,9 @@
                 var image_url = ls[j]['row'][7];
                 var product_url = ls[j]['row'][4];
                 var store_name = '';
-                if ((img_score <= 5 && (100 * score) > 80)) {
+                if (img_score <= 0.04) {
                 var element_str = `
-                    <div class='card mb-2 box-shadow' style='border: 5px solid blue;'>
+                    <div class='card mb-2 box-shadow' style='border: 5px solid red;'>
                         <img class='card-img-top' src='${image_url}' alt='Card image cap'>
                         <div class='card-body'>
                             <p>Store:${store_name}</p>
