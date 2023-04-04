@@ -80,6 +80,7 @@
     <script src="js/vendor/holder.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
     <script src="js/index_11.js"></script>
+    <script src="js/image.js"></script>
     <script>
       var dict_ls = (Object.keys(dic_));
       for(let i = 0; i < dict_ls.length; i++){
@@ -87,15 +88,30 @@
         var match_ls = dic_[dict_ls[i]][2];
         if (ls.length >= 1){   
 
+          var containing_row = document.createElement("div");
+          containing_row.className = "row";
+          containing_row.style = "margin-bottom:40px"
+          document.getElementById("container").appendChild(containing_row);
+
+          var left_div = document.createElement("div");
+          left_div.className = "col-md-3 col-sm-3"
+          containing_row.appendChild(left_div);
+
+          var right_div = document.createElement("div");
+          right_div.className = "col-md-9 col-sm-9"
+          right_div.style = "overflow-x: scroll; display:flex;"
+          containing_row.appendChild(right_div);
+
+
           var new_row = document.createElement("div");
           new_row.className = "";
-          new_row.style = "margin-bottom:10px; overflow-x: scroll; display:flex; height:530px;"
-          document.getElementById("container").appendChild(new_row);
+         new_row.style = "margin-bottom:10px; overflow-x: scroll; display:flex"
+
   
           var new_row_1 = document.createElement("div");
           new_row_1.className = "";
           new_row_1.style = "overflow-x: scroll; display:flex; height:470px;"
-          document.getElementById("container").appendChild(new_row_1);
+
 
 
           image_url_1 = dic_[dict_ls[i]][0][7];;
@@ -104,7 +120,7 @@
           store_name = '';
 
           var anchor_element_str = `
-                <div class='card mb-2 box-shadow' style='border: solid 5px red'>
+                <div class='card mb-2 box-shadow' style='border: solid 2px red'>
                   <img class='card-img-top' src='${image_url_1}' alt='Card image cap'>
                   <div class='card-body'>
                     <p>Store:${store_name}</p>
@@ -117,13 +133,25 @@
                   </div>
                 </div>
             `
-            anchor_element = document.createElement("div");
-            anchor_element.innerHTML = anchor_element_str;
-            anchor_element.style = "width:230px; height: 450px; margin-right:10px; padding-top:20px"
-            new_row.appendChild(anchor_element);
+          anchor_element = document.createElement("div");
+          anchor_element.innerHTML = anchor_element_str;
+          anchor_element.style = "width:230px; margin-right:10px; padding-top:20px"
+          left_div.appendChild(anchor_element);
+          
+          var lsNameArray = [];
 
+          for(let j = 0; j < ls.length; j++){
+            if (ls[j]['name_ratio']){
+              var name = ls[j]['row'][2];
+              lsNameArray.push(name);
+            }
+          }
+  
           for(let k = 0; k < match_ls.length; k++){
             var name = match_ls[k][2];
+
+            
+
             var product_url = match_ls[k][4];
             if (match_ls[k][6]) {
               var found = "True";
@@ -131,26 +159,56 @@
               var found = "False";
             }
 
-            var element_str = `
-                <div class='card mb-2 box-shadow' style='border: solid 5px green'>
+            if (dic_img_.hasOwnProperty(name)){
+              var img_found = "True";
+            } else {
+              var img_found = "False";
+            }
+
+            if (lsNameArray.includes(name)) {
+              var element_str = `
+                <div class='card mb-2 box-shadow' style='border: solid 2px gold'>
                     <img class='card-img-top' src='' alt='Card image cap'>
                     <div class='card-body'>
                       <p>Store:</p>
                       <p class='card-text'><a href="${product_url}">${name}</a></p>
-                      <div class='d-flex justify-content-between align-items-center'>
+                      <div class=''>
                         <div class='btn-group'>
                         </div>
-                        <small class='text-muted'>Data Matched</small>
+                        <p class='text-muted'>Data Matched</p>
                         <br/>
-                        <small class='text-muted'>Data found in file : ${found}</small>
+                        <p class='text-muted'>Data found in file : ${found}</p>
+                        <br/>
+                        <p class='text-muted'>Image was downloaded : ${img_found}</p>
                       </div>
                     </div>
                 </div>
             `
+            } else {
+              var element_str = `
+                <div class='card mb-2 box-shadow' style='border: solid 2px green'>
+                    <img class='card-img-top' src='' alt='Card image cap'>
+                    <div class='card-body'>
+                      <p>Store:</p>
+                      <p class='card-text'><a href="${product_url}">${name}</a></p>
+                      <div class=''>
+                        <div class='btn-group'>
+                        </div>
+                        <p class='text-muted'>Data Matched</p>
+                        <br/>
+                        <p class='text-muted'>Data found in file : ${found}</p>
+                        <br/>
+                        <p class='text-muted'>Image was downloaded : ${img_found}</p>
+                      </div>
+                    </div>
+                </div>
+            `
+            }
+            
             new_element = document.createElement("div");
             new_element.innerHTML = element_str;
-            new_element.style = "width:230px; height: 450px; margin-right:10px; padding-top:20px"
-            new_row.appendChild(new_element);
+            new_element.style = "width:230px; margin-right:10px; "
+            right_div.appendChild(new_element);
           }
 
           for(let j = 0; j < ls.length; j++){
@@ -163,7 +221,7 @@
                 var store_name = '';
                 if (img_score <= 0.01) {
                 var element_str = `
-                    <div class='card mb-2 box-shadow' style='border: 5px solid blue;'>
+                    <div class='card mb-2 box-shadow' style='border: 2px solid blue;'>
                         <img class='card-img-top' src='${image_url}' alt='Card image cap'>
                         <div class='card-body'>
                             <p>Store:${store_name}</p>
@@ -179,7 +237,7 @@
                 `
                 } else if (((img_score <= 14 && (100 * score) > 70)) || ((100 * score) > 79) || (img_score < 5)) {
                   var element_str = `
-                    <div class='card mb-2 box-shadow' style='border: 5px solid blue;'>
+                    <div class='card mb-2 box-shadow' style='border: 2px solid blue;'>
                         <img class='card-img-top' src='${image_url}' alt='Card image cap'>
                         <div class='card-body'>
                             <p>Store:${store_name}</p>
@@ -194,7 +252,7 @@
                     </div>`
                 } else {
                   var element_str = `
-                    <div class='card mb-2 box-shadow' style='border: 5px solid blue;'>
+                    <div class='card mb-2 box-shadow' style='border: 2px solid blue;'>
                         <img class='card-img-top' src='${image_url}' alt='Card image cap'>
                         <div class='card-body'>
                             <p>Store:${store_name}</p>
@@ -210,10 +268,11 @@
                 }
                 new_element = document.createElement("div");
                 new_element.innerHTML = element_str;
-                new_element.style = "width:230px; height: 450px; margin-right:10px; padding-top:20px"
-                new_row.appendChild(new_element);
+                new_element.style = "width:230px; margin-right:10px; "
+                right_div.appendChild(new_element);
             }
           }
+
         }
       }
     </script>
