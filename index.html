@@ -56,7 +56,7 @@
       </section>
 
       <div class="album py-5 bg-light">
-        <div id="container" class="container">
+        <div id="container" class="" style="padding:30px;">
         </div>
       </div>
 
@@ -79,7 +79,7 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/vendor/holder.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-    <script src="js/index_10.js"></script>
+    <script src="js/index_11.js"></script>
     <script>
       var dict_ls = (Object.keys(dic_));
       for(let i = 0; i < dict_ls.length; i++){
@@ -88,8 +88,8 @@
         if (ls.length >= 1){   
 
           var new_row = document.createElement("div");
-          new_row.className = "row";
-          new_row.style = "margin-top:50px;"
+          new_row.className = "";
+          new_row.style = "margin-bottom:30px; overflow-x: scroll; display:flex; height:530px;"
           document.getElementById("container").appendChild(new_row);
   
           var new_row_1 = document.createElement("div");
@@ -104,7 +104,7 @@
           store_name = '';
 
           var anchor_element_str = `
-                <div class='card mb-2 box-shadow' >
+                <div class='card mb-2 box-shadow' style='border: solid 5px red'>
                   <img class='card-img-top' src='${image_url_1}' alt='Card image cap'>
                   <div class='card-body'>
                     <p>Store:${store_name}</p>
@@ -118,13 +118,18 @@
                 </div>
             `
             anchor_element = document.createElement("div");
-            anchor_element.className = "col-md-2"
             anchor_element.innerHTML = anchor_element_str;
+            anchor_element.style = "width:230px; height: 450px; margin-right:10px; padding-top:20px"
             new_row.appendChild(anchor_element);
 
           for(let k = 0; k < match_ls.length; k++){
             var name = match_ls[k][2];
             var product_url = match_ls[k][4];
+            if (match_ls[k][6]) {
+              var found = "True";
+            } else {
+              var found = "False";
+            }
 
             var element_str = `
                 <div class='card mb-2 box-shadow' style='border: solid 5px green'>
@@ -136,14 +141,14 @@
                         <div class='btn-group'>
                         </div>
                         <small class='text-muted'>Data Matched</small>
-                                
+                        <small class='text-muted'>Data found in file : ${found}</small>
                       </div>
                     </div>
                 </div>
             `
             new_element = document.createElement("div");
-            new_element.className = "col-md-2"
             new_element.innerHTML = element_str;
+            new_element.style = "width:230px; height: 450px; margin-right:10px; padding-top:20px"
             new_row.appendChild(new_element);
           }
 
@@ -157,7 +162,7 @@
                 var store_name = '';
                 if (img_score <= 0.01) {
                 var element_str = `
-                    <div class='card mb-2 box-shadow' style='border: 5px solid red;'>
+                    <div class='card mb-2 box-shadow' style='border: 5px solid blue;'>
                         <img class='card-img-top' src='${image_url}' alt='Card image cap'>
                         <div class='card-body'>
                             <p>Store:${store_name}</p>
@@ -205,7 +210,7 @@
                 new_element = document.createElement("div");
                 new_element.innerHTML = element_str;
                 new_element.style = "width:230px; height: 450px; margin-right:10px; padding-top:20px"
-                new_row_1.appendChild(new_element);
+                new_row.appendChild(new_element);
             }
           }
         }
